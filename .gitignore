@@ -1,0 +1,15 @@
+# working files written by the scripts (rebuildable)
+/corpus/
+/tokenizers/
+/checkpoints/
+/downstream/
+/logs/
+/results/preds/
+# python
+__pycache__/
+*.pyc
+*.egg-info/
+/build/
+/dist/
+.venv/
+.pytest_cache/

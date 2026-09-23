@@ -1,0 +1,12 @@
+{
+ "name": "papaya-regex-16k",
+ "description": "Regex tier only (profile full, 164 affixes) + byte-level BPE. Needs no foma.",
+ "variant_id": "full",
+ "tier": "regex",
+ "profile": "full",
+ "attested": false,
+ "vocab": 16000,
+ "pretokenizer": "fixed",
+ "trained_on": "FineWeb-2 npi_Deva (HuggingFaceFW/fineweb-2), train shard 001, first 100,000 documents of train_tok.txt (see data/corpus/MANIFEST.json)",
+ "train_docs": 100000
+}

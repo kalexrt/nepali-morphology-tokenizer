@@ -1,0 +1,557 @@
+chapter	word_class	paradigm_id	affix	affix_ipa	function	tier	confidence	affix_source	human_confirmed	devanagari_verified	in_ch7_fst	ch7_fst_match	in_apertium	risk	surface_example
+ch6	derivational_affix	derivation_verb_to_noun_vowel_insertion	∅	-∅	V->N; zero-derivation by stem-internal vowel change	fst	low	pdf-text-layer	False	False	False		False	7.5	च क tsʌmkʌ -> चमक tsʌmʌk
+ch5	postposition	postp_plural_hʌru	-हरू	ɦʌruː	PL/COLL	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_no_emph	माथि	-matʰi	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_no_emph	मुनि	-muni	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_no_emph	वारि	-wari	+POSTP	regex	low	human	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_no_emph	पारि	-pari	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_no_emph	वरि	-wʌri	+POSTP	regex	low	human	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_no_emph	पट्टि	-pʌt̺t̺i	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_no_emph	पालि	-pali	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_no_emph	खेरि	-kʰeri	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_no_emph	छेउ	-tsʰeu	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_no_emph	पछि	-pʌtsʰi	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_no_emph	पछाडि	-pʌtsʰad̺i	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_no_emph	अघि	-ʌgʰi	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_no_emph	अगाडि	-ʌgad̺i	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_no_emph	भरि	-bʰʌri	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_no_emph	पहिले	-pʌhile	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_no_emph	निम्ति	-nimti	+POSTP	regex	low	human	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_no_emph	लागि	-lagi	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_no_emph	सरि	-sʌri	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_no_emph	मध्ये	-mʌdʰje	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_no_emph	जति	-dzʌti	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_no_emph	पिच्छे	-pitstsʰe	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	सहित	-sʌhitʌ	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	सम्म	-sʌmmʌ	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	बाहिर	-baɦirʌ	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	वार	-warʌ	+POSTP	regex	medium	pdf-text-layer	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	पार	-parʌ	+POSTP	regex	medium	pdf-text-layer	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	तर्फ	-tʌrpʰʌ	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	निर	-nirʌ	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	समक्ष	-sʌmʌk	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	पर्यन्त	-pʌrjʌntʌ	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	उप्रान्त	-uprantʌ	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	पल्ट	-pʌlt̺ʌ	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	पश्चात्	-pʌʃtsat	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	छेक	-tsʰekʌ	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	भित्र	-bʰitrʌ	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	नजिक	-nʌdzikʌ	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	निमित्त	-nimittʌ	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	खातिर	-kʰatirʌ	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	अन्तर्गत	-ʌntʌrgʌtʌ	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	बमोजिम	-bʌmodzimʌ	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	माफिक	-mapʰikʌ	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	मुताबिक	-mutabikʌ	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	मार्फत	-marpʰʌtʌ	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	अतिरिक्त	-ʌtiriktʌ	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	बाहेक	-bahekʌ	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	जस्तो	-dzʌsto	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	बाबजूद	-babʌdzudʌ	+POSTP	regex	low	human	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	सट्टा	-sʌt̺t̺a	+POSTP	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	postposition	adverbial_postp_with_emph	लेखा	-lekʰa	+POSTP	regex	medium	pdf-text-layer	True	True	False		False	6.5	
+ch5	particle	particles	मात्र	matrʌ	+PARTICLE	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	particle	particles	चाहिँ	tsahĩ	+PARTICLE	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	particle	particles	पनि	pʌni	+PARTICLE	regex	low	chandra-ocr-2	True	True	False		False	6.5	
+ch5	particle	particles	र	rʌ	+PARTICLE	regex	medium	pdf-text-layer	True	True	False		False	6.5	
+ch3	noun	noun_type_21a	-◌ी	-iː	FEM	regex	low	pdf-text-layer	True	True	False		False	6.0	कुमारी
+ch3	noun	noun_type_21d	-इनी	-iniː	FEM	regex	low	pdf-text-layer	True	True	False		False	6.0	खसिनी
+ch5	postposition	adverbial_postp_no_emph	कहाँ	-kʌhã	+POSTP	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch5	postposition	adverbial_postp_no_emph	बारे	-bare	+POSTP	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch5	postposition	adverbial_postp_no_emph	सामु	-samu	+POSTP	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch5	postposition	adverbial_postp_with_emph	साथ	-satʰʌ	+POSTP	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch5	postposition	adverbial_postp_with_emph	वर	-wʌrʌ	+POSTP	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch5	postposition	adverbial_postp_with_emph	उँभो	-ũbʰo	+POSTP	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch5	postposition	adverbial_postp_with_emph	उँधो	-ũdʰo	+POSTP	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch5	postposition	adverbial_postp_with_emph	नेर	-nerʌ	+POSTP	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch5	postposition	adverbial_postp_with_emph	खेर	-kʰerʌ	+POSTP	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch5	postposition	adverbial_postp_with_emph	पख	-pʌkʰʌ	+POSTP	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch5	postposition	adverbial_postp_with_emph	ताक	-takʌ	+POSTP	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch5	postposition	adverbial_postp_with_emph	ताका	-taka	+POSTP	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch5	postposition	adverbial_postp_with_emph	पाला	-pala	+POSTP	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch5	postposition	adverbial_postp_with_emph	पटक	-pʌt̺ʌkʌ	+POSTP	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch5	postposition	adverbial_postp_with_emph	भर	-bʰʌrʌ	+POSTP	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch5	postposition	adverbial_postp_with_emph	तक	-tʌkʌ	+POSTP	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch5	postposition	adverbial_postp_with_emph	यता	-jʌta	+POSTP	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch5	postposition	adverbial_postp_with_emph	उता	-uta	+POSTP	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch5	postposition	adverbial_postp_with_emph	बीच	-biːtsʌ	+POSTP	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch5	postposition	adverbial_postp_with_emph	अनुसार	-ʌnusarʌ	+POSTP	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch5	postposition	adverbial_postp_with_emph	उपर	-upʌrʌ	+POSTP	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch5	postposition	adverbial_postp_with_emph	अलावा	-ʌlawa	+POSTP	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch5	postposition	adverbial_postp_with_emph	सरह	-sʌrʌhʌ	+POSTP	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch5	postposition	adverbial_postp_with_emph	बापत	-bapʌtʌ	+POSTP	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch5	postposition	adverbial_postp_with_emph	बदला	-bʌdʌla	+POSTP	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch5	postposition	adverbial_postp_with_emph	समेत	-sʌmetʌ	+POSTP	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch5	particle	particles	है	hʌi	+PARTICLE	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch5	particle	particles	पो	po	+PARTICLE	regex	high	pdf-text-layer	True	True	False		False	6.0	
+ch6	derivational_affix	prefix_noun_to_noun	परि	pʌri-	N->N; PFX; 'around/complete'	regex	low	pdf-text-layer	False	True	False		False	6.0	योजना jodzʌna -> प रयोजना pʌrijodzʌna
+ch6	derivational_affix	prefix_noun_to_adjective	नि	ni-	N->ADJ; PFX; privative	regex	low	pdf-text-layer	False	True	False		False	6.0	डर d̺ʌr -> नडर nid̺ʌr
+ch6	derivational_affix	prefix_noun_to_adjective	वि	wi-	N->ADJ; PFX; privative/away	regex	low	pdf-text-layer	False	True	False		False	6.0	मुख mukʰ -> वमुख wimukʰ
+ch6	derivational_affix	prefix_noun_to_adverb	प्रति	prʌti-	N->ADV; PFX; distributive 'per'	regex	low	pdf-text-layer	False	True	False		False	6.0	ह ा ɦʌpta -> ू तह ा prʌtiɦʌpta
+ch6	derivational_affix	prefix_adjective_to_adjective	वि	wi-	ADJ->ADJ; PFX; intensifier	regex	low	pdf-text-layer	False	True	False		False	6.0	शु  ʃuddʰʌ -> वशु  wiʃuddʰʌ
+ch6	derivational_affix	prefix_adjective_to_adjective	परि	pʌri-	ADJ->ADJ; PFX; completive	regex	low	pdf-text-layer	False	True	False		False	6.0	पूर्ण puːrɳʌ -> प रपूर्ण pʌripuːrɳʌ
+ch3	noun	noun_type_21d	-एनी	-eniː	FEM	regex	high	pdf-text-layer	True	True	False		False	5.5	खसेनी
+ch6	derivational_affix	conversion_verb_to_noun	∅	-∅	V->N; zero-derivation (halanta deletion)	fst	high	pdf-text-layer	False	False	False		False	5.5	खेल् kʰel -> खेल kʰel
+ch6	derivational_affix	conversion_verb_to_adjective_or_noun	∅	-∅	V->N/ADJ; zero-derivation (halanta deletion)	fst	high	pdf-text-layer	False	False	False		False	5.5	ठग् t̺ʰʌg -> ठग t̺ʰʌg
+ch3	noun	noun_type_21b	-नी	-niː	FEM	fst	low	pdf-text-layer	False	True	False		False	5.0	जो गनी
+ch3	pronoun	pron_dem_remaining	-ही	-ɦi	DEM+DIST+EMPH	regex	low	human	True	True	False		False	5.0	सोही
+ch3	pronoun	pron_indef_from_interrog	-ही	-ɦi	INDEF+HUM	regex	low	human	True	True	False		False	5.0	कोही
+ch3	pronoun	pron_indef_from_interrog	-ही	-ɦi	INDEF+NHUM	regex	low	human	True	True	False		False	5.0	केही
+ch3	pronoun	pron_indef_from_rel	-सुकै	-sukʌi	INDEF+NHUM	regex	low	pdf-text-layer	True	True	False		False	5.0	जेसुकै
+ch3	adjective	adj_non_o_marked_type2	-तर	-tʌrʌ	COMP	regex	medium	pdf-text-layer	True	True	False		False	5.0	न्यूनतर
+ch3	adjective	adj_non_o_marked_type2	-तम	-tʌmʌ	SUPER	regex	medium	pdf-text-layer	True	True	False		False	5.0	न्यूनतम
+ch5	adverb	adv_temporal	अहिले	ʌhile	+ADV+TEMP	regex	low	chandra-ocr-2	True	True	False		False	5.0	
+ch5	adverb	adv_temporal	हिउँद	hiũdʌ	+ADV+TEMP	regex	low	chandra-ocr-2	True	True	False		False	5.0	
+ch5	adverb	adv_spatial	पछाडि	pʌtsad̺i	+ADV+SPAC	regex	low	chandra-ocr-2	True	True	False		False	5.0	
+ch5	adverb	adv_spatial	भित्र	bʰitrʌ	+ADV+SPAC	regex	low	chandra-ocr-2	True	True	False		False	5.0	
+ch5	adverb	adv_spatial	नजिक	nʌdzik	+ADV+SPAC	regex	low	chandra-ocr-2	True	True	False		False	5.0	
+ch5	adverb	adv_amount	अलिक	ʌlik	+ADV+AMOUNT	regex	low	chandra-ocr-2	True	True	False		False	5.0	
+ch5	adverb	adv_amount	त्यति	tjʌti	+ADV+AMOUNT	regex	low	chandra-ocr-2	True	True	False		False	5.0	
+ch5	adverb	adv_amount	कति	kʌti	+ADV+AMOUNT	regex	low	chandra-ocr-2	True	True	False		False	5.0	
+ch5	adverb	adv_manner	सुस्तरी	sustʌri	+ADV+MANNER	regex	low	chandra-ocr-2	True	True	False		False	5.0	
+ch5	adverb	adv_manner	सुटुक्क	sut̺ukkʌ	+ADV+MANNER	regex	low	human	True	True	False		False	5.0	
+ch5	adverb	adv_manner	छिटो	tsit̺o	+ADV+MANNER	regex	low	chandra-ocr-2	True	True	False		False	5.0	
+ch5	adverb	adv_manner	यसरी	jʌsʌri	+ADV+MANNER	regex	low	chandra-ocr-2	True	True	False		False	5.0	
+ch5	adverb	adv_frequency	कहिलेकाहीं	kʌhilekahĩ	+ADV+FREQ	regex	low	chandra-ocr-2	True	True	False		False	5.0	
+ch5	adverb	adv_frequency	सधैं	sʌdʰʌĩ	+ADV+FREQ	regex	low	human	True	True	False		False	5.0	
+ch5	adverb	adv_frequency	बारम्बार	barʌmbar	+ADV+FREQ	regex	low	chandra-ocr-2	True	True	False		False	5.0	
+ch5	adverb	adv_frequency	प्रायः	prajʌ	+ADV+FREQ	regex	low	chandra-ocr-2	True	True	False		False	5.0	
+ch5	adverb	adv_frequency	निरन्तर	nirʌntʌr	+ADV+FREQ	regex	low	chandra-ocr-2	True	True	False		False	5.0	
+ch5	adverb	adv_reason	त्यसकारण	tjʌsʌkarʌɲ	+ADV+REASON	regex	low	chandra-ocr-2	True	True	False		False	5.0	
+ch5	adverb	adv_reason	फलस्वरूप	pʰʌlʌswʌrup	+ADV+REASON	regex	low	chandra-ocr-2	True	True	False		False	5.0	
+ch5	adverb	adv_reason	तसर्थ	tʌsʌrtʰʌ	+ADV+REASON	regex	low	chandra-ocr-2	True	True	False		False	5.0	
+ch5	adverb	adv_sentential	अवश्य	ʌwʌʃjʌ	+ADV+SENT	regex	low	human	True	True	False		False	5.0	
+ch5	adverb	adv_sentential	सामान्यतः	samanjʌtʌ	+ADV+SENT	regex	low	chandra-ocr-2	True	True	False		False	5.0	
+ch5	adverb	adv_sentential	यद्यपि	jʌdjʌpi	+ADV+SENT	regex	low	chandra-ocr-2	True	True	False		False	5.0	
+ch5	adverb	adv_sentential	साँच्चै	sãtstsʌi	+ADV+SENT	regex	low	human	True	True	False		False	5.0	
+ch5	conjunction	conj_subordinate	किनकि	kinʌki	+SCONJ	regex	low	chandra-ocr-2	True	True	False		False	5.0	
+ch5	conjunction	conj_subordinate	किनभने	kinʌbʰʌne	+SCONJ	regex	low	chandra-ocr-2	True	True	False		False	5.0	
+ch5	conjunction	conj_subordinate	यसकारण	jʌsʌkarʌɳ	+SCONJ	regex	medium	pdf-text-layer	True	True	False		False	5.0	
+ch5	postposition	case_markers_with_emph	बाट	-bat̺	ABL	regex	medium	pdf-text-layer	False	True	True	repaired-form	False	5.0	
+ch5	interjection	interjections	आत्था	attʰa	+INTERJ	regex	low	chandra-ocr-2	True	True	False		False	5.0	
+ch5	interjection	interjections	थुइक्क	tʰuikkʌ	+INTERJ	regex	low	human	True	True	False		False	5.0	
+ch5	interjection	interjections	बिचरा	bitsʌra	+INTERJ	regex	low	human	True	True	False		False	5.0	
+ch5	interjection	interjections	ज्या	dzja	+INTERJ	regex	low	chandra-ocr-2	True	True	False		False	5.0	
+ch5	interjection	interjections	ज्यू	dzju	+INTERJ	regex	low	chandra-ocr-2	True	True	False		False	5.0	
+ch5	interjection	interjections	कुन्नि	kunni	+INTERJ	regex	low	chandra-ocr-2	True	True	False		False	5.0	
+ch6	derivational_affix	prefix_noun_to_noun	प्र	prʌ-	N->N; PFX; 'pro-/forth'	regex	low	human	True	True	False		False	5.0	प्रचलन prʌtsʌlʌn
+ch6	derivational_affix	prefix_noun_to_noun	वि	wi-	N->N; PFX; privative/intensive	regex	low	pdf-text-layer	True	True	False		False	5.0	नाश naʃ -> वनाश winaʃ
+ch6	derivational_affix	prefix_noun_to_noun	अधि	ʌdʰi-	N->N; PFX; 'over/chief-'	regex	low	pdf-text-layer	True	True	False		False	5.0	रा य radzjʌ -> अ धरा य ʌdʰi radzjʌ
+ch6	derivational_affix	prefix_noun_to_noun	अति	ʌti-	N->N; PFX; excessive	regex	low	pdf-text-layer	True	True	False		False	5.0	वृ  wristi -> अ तवृ  ʌtiwristi
+ch6	derivational_affix	prefix_noun_to_noun	अभि	ʌbʰi-	N->N; PFX; 'towards/intensive'	regex	low	pdf-text-layer	True	True	False		False	5.0	 च rutsi -> अ भ च ʌbʰi rutsi
+ch6	derivational_affix	prefix_noun_to_noun	प्रति	prʌti-	N->N; PFX; 'counter/per-'	regex	low	pdf-text-layer	True	True	False		False	5.0	 व न dʰwʌni -> ू त व न prʌti dʰwʌni
+ch6	derivational_affix	suffix_noun_to_noun_or_adjective	ली	-li	N->N/ADJ; SFX; provenance 'of X'	regex	low	pdf-text-layer	False	True	False		True	5.0	झापा dzʰapa -> झापाल dzʰapali
+ch3	pronoun	pron_indef_from_rel	-सुकै	-sukʌi	INDEF+HUM	regex	high	pdf-text-layer	True	True	False		False	4.5	जोसुकै
+ch3	pronoun	pron_indef_from_rel	-सुकै	-sukʌi	INDEF+NEU	regex	high	pdf-text-layer	True	True	False		False	4.5	जुनसुकै
+ch4	derivational_affix	deriv_negative	न-	nʌ-	NEG: prefix	regex	high	pdf-text-layer	False	True	False		False	4.5	नखाएको / nʌ-kʰa-eko
+ch4	verb	aux_nonpast_existential_tshʌ_affirmative	φ	φ	NPST.3SG.MASC (zero, bare root)	regex	high	pdf-text-layer	False	False	False		False	4.5	छ / tsʰʌ
+ch4	verb	aux_nonpast_identificational_ho_affirmative	φ	φ	NPST.3SG (zero, bare root)	regex	high	pdf-text-layer	False	False	False		False	4.5	हो / ɦo
+ch4	verb	mood_imperative	φ	φ	IMP.2SG (C-final and non-i V-final stems; bare stem)	regex	high	pdf-text-layer	False	False	False		False	4.5	खा / kʰa
+ch5	adverb	adv_temporal	आज	adzʌ	+ADV+TEMP	regex	high	pdf-text-layer	False	True	False		False	4.5	
+ch5	adverb	adv_temporal	अबेर	ʌberʌ	+ADV+TEMP	regex	high	pdf-text-layer	False	True	False		False	4.5	
+ch5	adverb	adv_temporal	सोमबार	somʌbarʌ	+ADV+TEMP	regex	high	pdf-text-layer	False	True	False		False	4.5	
+ch5	adverb	adv_spatial	तल	tʌlʌ	+ADV+SPAC	regex	high	pdf-text-layer	False	True	False		False	4.5	
+ch5	adverb	adv_amount	धेरै	dʰerʌi	+ADV+AMOUNT	regex	high	pdf-text-layer	False	True	False		False	4.5	
+ch5	adverb	adv_amount	थोरै	tʰorʌi	+ADV+AMOUNT	regex	high	pdf-text-layer	False	True	False		False	4.5	
+ch5	adverb	adv_sentential	सायद	sajʌd	+ADV+SENT	regex	high	pdf-text-layer	False	True	False		False	4.5	
+ch5	conjunction	conj_coordinate	र	rʌ	+CCONJ	regex	high	pdf-text-layer	False	True	False		False	4.5	
+ch5	conjunction	conj_coordinate	तथा	tʌtʰa	+CCONJ	regex	high	pdf-text-layer	False	True	False		False	4.5	
+ch5	conjunction	conj_subordinate	भने	bʰʌne	+SCONJ	regex	high	pdf-text-layer	False	True	False		False	4.5	
+ch5	postposition	case_markers_no_emph	ले	-le	ERG	regex	high	pdf-text-layer	False	True	True	repaired-form	False	4.5	राम + ले
+ch5	postposition	case_markers_no_emph	ले	-le	INST	regex	high	pdf-text-layer	False	True	True	repaired-form	False	4.5	
+ch5	postposition	case_markers_with_emph	मा	-ma	LOC	regex	high	pdf-text-layer	False	True	True	repaired-form	False	4.5	
+ch5	postposition	case_markers_with_emph	सँग	-sʌ̃gʌ	COM	regex	high	pdf-text-layer	False	True	True	repaired-form	False	4.5	राम + सँग
+ch5	particle	emphatic_ai_global	◌ै	ʌi	EMPH after consonant-final hosts	regex	high	pdf-text-layer	False	True	True	repaired-form	False	4.5	ruːkʰ + ʌi -> ruːkʰʌi (खै); kitab + ʌi -> kitabʌi (कताबै)
+ch5	interjection	interjections	ओहो	oho	+INTERJ	regex	high	pdf-text-layer	False	True	False		False	4.5	
+ch5	interjection	interjections	हरे	hʌre	+INTERJ	regex	high	pdf-text-layer	False	True	False		False	4.5	
+ch5	interjection	interjections	नाई	naĩ	+INTERJ	regex	high	human	True	True	False		False	4.5	
+ch3	pronoun	pron_1sg	-◌ी	-riː	GEN+FEM	fst	low	pdf-text-layer	False	True	False		False	4.0	मेर
+ch3	pronoun	pron_1pl	-रो	-ro	GEN+MASC+SG	fst	medium	pdf-text-layer	False	True	False		False	4.0	हाॆो
+ch3	pronoun	pron_1pl	-री	-riː	GEN+FEM	fst	medium	pdf-text-layer	False	True	False		False	4.0	हाॆी
+ch3	pronoun	pron_1pl	-रा	-ra	GEN+PL|HON|OBL	fst	medium	pdf-text-layer	False	True	False		False	4.0	हाॆा
+ch3	pronoun	pron_1pl	-रै	-rʌi	GEN+EMPH	fst	medium	pdf-text-layer	False	True	False		False	4.0	हाॆै
+ch3	pronoun	pron_2sg_nhon	◌ैँ	ʌĩ	OBL|EMPH	fst	low	pdf-text-layer	False	True	False		False	4.0	त
+ch3	pronoun	pron_3sg_u	-स	-sʌ	OBL	fst	medium	pdf-text-layer	False	True	False		False	4.0	उस
+ch3	pronoun	pron_3sg_u	-सै	-sʌi	OBL+EMPH	fst	medium	pdf-text-layer	False	True	False		False	4.0	उसै
+ch3	pronoun	pron_3sg_u	-न	-nʌ	HON+OBL	fst	medium	pdf-text-layer	False	True	False		False	4.0	उन
+ch3	pronoun	pron_3sg_u	-नै	-nʌi	HON+OBL+EMPH	fst	medium	pdf-text-layer	False	True	False		False	4.0	उनै
+ch3	pronoun	pron_3sg_tjo_ti	-नी	-niː	HON+DIST	fst	low	pdf-text-layer	False	True	False		False	4.0	तनी
+ch3	pronoun	pron_3sg_tjo_ti	-न	-nʌ	OBL+HON+DIST	fst	low	pdf-text-layer	False	True	False		False	4.0	तन
+ch3	pronoun	pron_3sg_tjo_ti	-नै	-nʌi	OBL+HON+DIST+EMPH	fst	low	pdf-text-layer	False	True	False		False	4.0	तनै
+ch3	pronoun	pron_3sg_jo_ji	-स	-sʌ	OBL+PROX	fst	medium	pdf-text-layer	False	True	False		False	4.0	यस
+ch3	pronoun	pron_3sg_jo_ji	-नी	-niː	PROX+HON	fst	low	pdf-text-layer	False	True	False		False	4.0	यनी
+ch3	pronoun	pron_3sg_jo_ji	-न	-nʌ	PROX+OBL+HON	fst	low	pdf-text-layer	False	True	False		False	4.0	यन
+ch3	pronoun	pron_3sg_jo_ji	-नै	-nʌi	PROX+OBL+HON+EMPH	fst	low	pdf-text-layer	False	True	False		False	4.0	यनै
+ch3	pronoun	pron_refl	◌ैँ	ʌĩ	OBL+EMPH	fst	low	pdf-text-layer	False	True	False		False	4.0	आफ
+ch3	pronoun	pron_refl	-नो	-no	OBL+GEN+SG	fst	low	pdf-text-layer	False	True	False		False	4.0	आ नो
+ch3	pronoun	pron_refl	-ना	-na	OBL+GEN+PL|HON|OBL	fst	low	pdf-text-layer	False	True	False		False	4.0	आ ना
+ch3	pronoun	pron_refl	-नी	-niː	OBL+GEN+FEM	fst	low	pdf-text-layer	False	True	False		False	4.0	आ नी
+ch3	pronoun	pron_refl	-नै	-nʌi	OBL+GEN+EMPH	fst	low	pdf-text-layer	False	True	False		False	4.0	आ नै
+ch3	pronoun	pron_dem_jo_ji	-नी	-niː	DEM+PROX+HON	fst	low	pdf-text-layer	False	True	False		False	4.0	यनी
+ch3	pronoun	pron_dem_jo_ji	-न	-nʌ	DEM+PROX+OBL	fst	low	pdf-text-layer	False	True	False		False	4.0	यन
+ch3	pronoun	pron_dem_jo_ji	-नै	-nʌi	DEM+PROX+OBL+EMPH	fst	low	pdf-text-layer	False	True	False		False	4.0	यनै
+ch3	pronoun	pron_dem_tjo_ti	-नी	-niː	DEM+DIST+OBL+HON	fst	low	pdf-text-layer	False	True	False		False	4.0	तनी
+ch3	pronoun	pron_dem_tjo_ti	-न	-nʌ	DEM+DIST+OBL	fst	low	pdf-text-layer	False	True	False		False	4.0	तन
+ch3	pronoun	pron_dem_tjo_ti	-नै	-nʌi	DEM+DIST+OBL+EMPH	fst	low	pdf-text-layer	False	True	False		False	4.0	तनै
+ch3	pronoun	pron_rel	-स	-sʌ	REL+OBL+HUM	fst	medium	pdf-text-layer	False	True	False		False	4.0	जस
+ch3	pronoun	pron_interrog	-सै	-sʌi	INTERRO+HUM+OBL+EMPH	fst	medium	pdf-text-layer	False	True	False		False	4.0	कसै
+ch3	adjective	adj_non_o_marked_type1	-नी	-niː	FEM	fst	low	pdf-text-layer	False	True	False		False	4.0	चतुन
+ch3	adjective	adj_non_o_marked_type1	-इनी	-iniː	FEM	fst	low	pdf-text-layer	False	True	False		False	4.0	धु तनी
+ch3	adjective	adj_non_o_marked_type1	-एनी	-eniː	FEM	fst	low	pdf-text-layer	False	True	False		False	4.0	पिखनी
+ch3	numeral	num_ordinal_regular	-औ	-ʌũ	ORD	fst	low	pdf-text-layer	False	True	False		False	4.0	पाँच
+ch4	verb	verb_irregular	या	ja	CAUS (suppletive augment)	fst	low	pdf-text-layer	False	True	False		False	4.0	या / l-ja
+ch5	postposition	case_markers_no_emph	देखि	-dekʰi	ABL	regex	low	chandra-ocr-2	True	True	True	textlayer-form (FST still damaged)	False	4.0	
+ch5	postposition	case_markers_with_emph	सित	-sitʌ	COM	regex	low	chandra-ocr-2	True	True	True	textlayer-form (FST still damaged)	False	4.0	
+ch5	postposition	case_markers_with_emph	तिर	-tirʌ	DIR/ALL	regex	low	chandra-ocr-2	True	True	True	textlayer-form (FST still damaged)	False	4.0	
+ch5	postposition	adverbial_postp_no_emph	परि	-pʌri	+POSTP	regex	low	human	True	True	True	textlayer-form (FST still damaged)	False	4.0	
+ch5	postposition	adverbial_postp_no_emph	प्रति	-prʌti	+POSTP	regex	low	chandra-ocr-2	True	True	True	textlayer-form (FST still damaged)	False	4.0	
+ch5	postposition	adverbial_postp_with_emph	विरुद्ध	-wiruddʰʌ	+POSTP	regex	low	chandra-ocr-2	True	True	True	textlayer-form (FST still damaged)	False	4.0	
+ch5	postposition	adverbial_postp_with_emph	सुद्ध	-suddʌ	+POSTP	regex	low	human	True	True	True	textlayer-form (FST still damaged)	False	4.0	
+ch5	particle	particles	न	nʌ	+PARTICLE	regex	low	pdf-text-layer	True	True	True	repaired-form	False	4.0	
+ch5	particle	particles	नि	ni	+PARTICLE	regex	low	human	True	True	True	textlayer-form (FST still damaged)	False	4.0	
+ch6	derivational_affix	prefix_noun_to_adjective	निर्	nir-	N->ADJ; PFX; privative 'without'	fst	low	pdf-text-layer	False	True	False		False	4.0	दोष dos -> नद ष nirdos
+ch6	derivational_affix	prefix_noun_to_adjective	निः	niː-	N->ADJ; PFX; privative 'without'	fst	low	pdf-text-layer	False	True	False		False	4.0	ःवार्थ swartʰʌ -> नःःवार्थ niːswartʰʌ
+ch6	derivational_affix	prefix_noun_to_adjective	निस्	nis-	N->ADJ; PFX; privative 'without'	fst	low	pdf-text-layer	False	True	False		False	4.0	फल pʰʌl -> नःफल nispʰʌl
+ch6	derivational_affix	prefix_noun_to_adverb	निर्	nir-	N->ADV; PFX; intensifier	fst	low	pdf-text-layer	False	True	False		False	4.0	घात gʰat -> नघात nirgʰat
+ch6	derivational_affix	suffix_noun_to_noun_or_adjective	एली	-eli	N->N/ADJ; SFX; provenance 'of X'	fst	low	pdf-text-layer	False	True	False		False	4.0	गु मी gulmi -> गु मेल gulmeli
+ch6	derivational_affix	suffix_verb_to_noun	औरी	-ʌuri	V->N; SFX; deverbal nominal	fst	low	pdf-text-layer	False	True	False		False	4.0	जित् dzit -> जितौर dzitʌuri
+ch6	derivational_affix	suffix_verb_to_noun	अस्त	-ʌstʌ	V->N; SFX; deverbal nominal	fst	low	pdf-text-layer	False	True	False		False	4.0	खुल् kʰul -> खुलस्त kʰulʌstʌ
+ch6	derivational_affix	suffix_verb_to_adjective	आरु	-aru	V->ADJ; SFX; deverbal adjective	fst	low	pdf-text-layer	False	True	False		False	4.0	सिक् sik -> सिकारु sikaru
+ch6	derivational_affix	suffix_verb_to_adjective	औटी	-ʌut̺i	V->ADJ; SFX; deverbal adjective	fst	low	pdf-text-layer	False	True	False		False	4.0	छेर् tsʰer -> छेरौट tsʰerʌut̺i
+ch6	derivational_affix	suffix_verb_to_adverb	उन्जेल	-undzel	V->ADV; SFX; terminative 'until X-ing'	fst	low	pdf-text-layer	False	True	False		False	4.0	गर् gʌr -> ग जेल gʌrundzel
+ch6	derivational_affix	suffix_verb_to_adverb	इन्जेल	-indzel	V->ADV; SFX; terminative 'until X-ing'	fst	low	pdf-text-layer	False	True	False		False	4.0	गर् gʌr -> ग र जेल gʌrindzel
+ch3	pronoun	pron_dem_jo_ji	यहाँ	jʌɦã	DEM+PROX+HON (suppletive)	regex	medium	pdf-text-layer	False	True	True	repaired-form	False	3.5	यहाँ
+ch4	verb	verb_type_1a	इ	i	PASS	regex	low	pdf-text-layer	False	True	True	repaired-form	False	3.5	मुःकुराइ / muskura-i
+ch4	verb	aux_past_existential_thi_negative	इनौ	enʌu	PST.NEG.2SG.FEM.HON	regex	low	pdf-text-layer	False	True	True	repaired-form	False	3.5	
+ch4	verb	participle_infinitive	नु	nu	INF	regex	medium	pdf-text-layer	False	True	True	repaired-form	False	3.5	हँ नु / ɦĩd̺-nu
+ch4	verb	participle_purposive	न	nʌ	PURP	regex	medium	pdf-text-layer	False	True	True	repaired-form	False	3.5	क / kin-nʌ
+ch4	verb	participle_prospective	ने	ne	PROSP	regex	medium	pdf-text-layer	False	True	True	repaired-form	False	3.5	गुजान / gudzar-ne
+ch5	postposition	case_markers_no_emph	लाई	-laiː	DAT/ACC	regex	high	pdf-text-layer	True	True	True	repaired-form	False	3.5	खुशी + लाई
+ch5	postposition	adverbial_postp_with_emph	पर	-pʌrʌ	+POSTP	regex	high	pdf-text-layer	False	True	True	repaired-form	False	3.5	
+ch5	particle	particles	नै	nʌi	+PARTICLE	regex	high	pdf-text-layer	False	True	True	repaired-form	False	3.5	
+ch5	particle	particles	ल	lʌ	+PARTICLE	regex	high	pdf-text-layer	False	True	True	repaired-form	False	3.5	
+ch5	particle	particles	त	tʌ	+PARTICLE	regex	high	pdf-text-layer	False	True	True	repaired-form	False	3.5	
+ch6	derivational_affix	prefix_noun_to_noun	अप	ʌpʌ-	N->N; PFX; pejorative	regex	low	pdf-text-layer	False	True	True	repaired-form	False	3.5	श द ʃʌbdʌ -> अपश द ʌpʌʃʌbdʌ
+ch6	derivational_affix	prefix_noun_to_noun	उप	upʌ-	N->N; PFX; 'sub-/near'	regex	low	pdf-text-layer	False	True	True	repaired-form	False	3.5	मह grʌɦ -> उपमह upʌgrʌɦ
+ch6	derivational_affix	prefix_noun_to_noun	सह	sʌɦʌ-	N->N; PFX; comitative 'co-'	regex	low	pdf-text-layer	False	True	True	repaired-form	False	3.5	काय karjʌ -> सहकाय sʌɦʌkarjʌ
+ch6	derivational_affix	prefix_noun_to_noun	स	sʌ-	N->N; PFX; 'with/whole'	regex	low	pdf-text-layer	False	True	True	repaired-form	False	3.5	प रिवार pʌriwar -> सप रिवार sʌpʌriwar
+ch6	derivational_affix	prefix_noun_to_noun	अ	ʌ-	N->N; PFX; privative 'un-'	regex	low	pdf-text-layer	False	True	True	repaired-form	False	3.5	 ान gjan -> अ ान ʌgjan
+ch6	derivational_affix	prefix_noun_to_noun	बे	be-	N->N; PFX; privative (Perso-Arabic)	regex	low	pdf-text-layer	False	True	True	repaired-form	False	3.5	इ जत idzdzʌt -> बेइ जत beidzdzʌt
+ch6	derivational_affix	prefix_noun_to_adjective	अ	ʌ-	N->ADJ; PFX; privative 'un-'	regex	low	pdf-text-layer	False	True	True	repaired-form	False	3.5	मू य muːljʌ -> अमू य ʌmuːljʌ
+ch6	derivational_affix	prefix_noun_to_adverb	स	sʌ-	N->ADV; PFX; comitative 'with'	regex	low	pdf-text-layer	False	True	True	repaired-form	False	3.5	हष ɦʌrʂʌ -> सहष sʌɦʌrʂʌ
+ch6	derivational_affix	prefix_adjective_to_adjective	सु	su-	ADJ->ADJ; PFX; ameliorative	regex	low	pdf-text-layer	False	True	True	repaired-form	False	3.5	 श त ʃiktsʰit -> सु श त suʃiktsʰit
+ch6	derivational_affix	suffix_noun_to_adjective	वान	-wan	N->ADJ; SFX; territorial	regex	low	pdf-text-layer	False	True	True	repaired-form	False	3.5	ल बु limbu -> ल बुवान limbuwan
+ch6	derivational_affix	suffix_noun_to_adjective	आलो	-alo	N->ADJ; SFX; propensity/quality	regex	low	pdf-text-layer	False	True	True	repaired-form	False	3.5	भर bʰir -> भरालो bʰiralo
+ch6	derivational_affix	suffix_noun_to_adjective	आहा	-aha	N->ADJ; SFX; propensity	regex	low	pdf-text-layer	False	True	True	repaired-form	False	3.5	रस ris -> रसाहा risaha
+ch6	derivational_affix	suffix_noun_to_adjective	इया	-ija	N->ADJ; SFX; relational/origin	regex	low	pdf-text-layer	False	True	True	repaired-form	False	3.5	शहर ʃʌɦʌr -> शह रया ʃʌɦʌrija
+ch6	derivational_affix	suffix_noun_to_adjective	इयार	-ijar	N->ADJ; SFX; possessor	regex	low	pdf-text-layer	False	True	True	repaired-form	False	3.5	होस ɦos -> हो सयार ɦosijar
+ch6	derivational_affix	suffix_verb_to_noun	हट	-ɦʌt̺	V->N; SFX; deverbal nominal	regex	low	pdf-text-layer	False	True	True	repaired-form	False	3.5	चिच्या tsitsja -> चिच्याहट tsitsjaɦʌt̺
+ch6	derivational_affix	suffix_verb_to_noun	ती	-ti	V->N; SFX; deverbal nominal	regex	low	pdf-text-layer	False	True	True	repaired-form	False	3.5	उ utʰ -> उ ती utʰti
+ch6	derivational_affix	suffix_verb_to_noun	नी	-ni	V->N; SFX; deverbal nominal	regex	low	pdf-text-layer	False	True	True	repaired-form	False	3.5	चाल् tsal -> चा नी tsalni
+ch6	derivational_affix	suffix_verb_to_noun	नो	-no	V->N; SFX; deverbal nominal	regex	low	pdf-text-layer	False	True	True	repaired-form	False	3.5	बेर् ber -> बेन berno
+ch3	pronoun	pron_3sg_u	-ही	-ɦiː	EMPH	fst	low	human	True	True	False		False	3.0	उही
+ch3	pronoun	pron_dem_jo_ji	-ही	-ɦiː	DEM+PROX+EMPH	fst	low	human	True	True	False		False	3.0	यही
+ch3	pronoun	pron_def_arko	◌ा	a	DEF+PL|HON|OBL	fst	low	pdf-text-layer	False	True	False		True	3.0	अका
+ch3	pronoun	pron_recip_ekarko	◌ा	a	RECIP+OBL|HON|PL	fst	low	pdf-text-layer	False	True	False		True	3.0	एकअका
+ch3	adjective	adj_o_ending	◌ा	a	PL|OBL|HON	fst	medium	pdf-text-layer	False	True	False		True	3.0	राॆा
+ch3	numeral	num_ordinal_irregular_one	◌ा	a	ORD+PL|OBL|HON	fst	low	pdf-text-layer	False	True	False		True	3.0	प हला
+ch3	noun	noun_type_1a	◌ा	a	PL|OBL|HON|VOC	fst	high	pdf-text-layer	False	True	False		True	2.5	केटा
+ch3	noun	noun_type_1b	◌ा	a	PL|OBL	fst	high	pdf-text-layer	False	True	False		True	2.5	घोडा
+ch3	pronoun	pron_3sg_u	-नी	-niː	HON	fst	high	pdf-text-layer	False	True	False		False	2.5	उनी
+ch3	pronoun	pron_3sg_jo_ji	-सै	-sʌi	OBL+PROX+EMPH	fst	high	pdf-text-layer	False	True	False		False	2.5	यसै
+ch3	pronoun	pron_dem_u	-नी	-niː	DEM+DIST+HON	fst	high	pdf-text-layer	False	True	False		False	2.5	उनी
+ch3	pronoun	pron_rel	-सै	-sʌi	REL+OBL+HUM+EMPH	fst	high	pdf-text-layer	False	True	False		False	2.5	जसै
+ch3	pronoun	pron_interrog	-स्	-s	INTERRO+HUM+OBL	fst	high	pdf-text-layer	False	True	False		False	2.5	कस्
+ch4	verb	verb_type_1e	आल्	al	CAUS (alternant, small lexical set)	fst	high	pdf-text-layer	False	True	False		False	2.5	बसाल् / bʌs-al
+ch4	verb	verb_irregular	आल्	al	CAUS	fst	high	pdf-text-layer	False	True	False		False	2.5	बसाल् / bʌs-al
+ch4	verb	verb_suppletive	(root selection)	ɦu -> bʰʌ	SUPPL: stem replacement	fst	high	pdf-text-layer	False	False	False		False	2.5	भए / bʰʌ-e
+ch4	derivational_affix	deriv_causative	आल्	al	CAUS: minority suffix alternating with -आ	fst	high	pdf-text-layer	False	True	False		False	2.5	खसाल् / kʰʌs-al
+ch4	derivational_affix	deriv_causative	(zero)	ʌ -> a	CAUS: root ablaut	fst	high	pdf-text-layer	False	False	False		False	2.5	मार ् / mar
+ch4	derivational_affix	deriv_negative	-न	-nʌ	NEG: suffix, inside the agreement complex	fst	high	pdf-text-layer	False	True	False		False	2.5	खाँदैन / kʰã-dʌinʌ
+ch4	verb	aux_nonpast_identificational_ho_negative	इनौं	inʌũ	NPST.NEG.1PL	regex	low	human	True	True	True	textlayer-form (FST still damaged)	False	2.5	
+ch4	verb	aux_past_existential_thi_affirmative	यौं	jʌũ	PST.1PL	regex	low	human	True	True	True	textlayer-form (FST still damaged)	False	2.5	थय / tʰi-jʌũ
+ch4	verb	tense_nonpast_negative_set2	नौं	nʌũ	NPST.NEG.1PL	regex	low	human	True	True	True	textlayer-form (FST still damaged)	False	2.5	
+ch4	verb	mood_potential	लिस्	lis	POT.2SG.FEM	regex	low	human	True	True	True	textlayer-form (FST still damaged)	False	2.5	
+ch4	verb	mood_potential	ला	la	POT.3SG.MASC	regex	medium	pdf-text-layer	False	True	True	repaired-form	True	2.5	गला / gʌr-la
+ch4	verb	mood_potential	लिन्	lin	POT.3SG.FEM.HON	regex	low	human	True	True	True	textlayer-form (FST still damaged)	False	2.5	
+ch5	adverb	adv_manner	कसरी	kʌsʌri	+ADV+MANNER	regex	low	chandra-ocr-2	True	True	True	textlayer-form (FST still damaged)	False	2.5	
+ch5	conjunction	conj_coordinate	अनि	ʌni	+CCONJ	regex	low	chandra-ocr-2	True	True	True	textlayer-form (FST still damaged)	False	2.5	
+ch5	conjunction	conj_subordinate	कि	ki	+SCONJ	regex	low	chandra-ocr-2	True	True	True	textlayer-form (FST still damaged)	False	2.5	
+ch5	postposition	case_markers_with_emph	बाटै	-bat̺ʌi	ABL+EMPH	fst	high	pdf-text-layer	False	True	True	repaired-form	False	2.5	बाट + ◌ै
+ch5	postposition	case_markers_with_emph	मै	-mʌi	LOC+EMPH	fst	high	pdf-text-layer	False	True	True	repaired-form	False	2.5	मा + ◌ै
+ch5	postposition	case_markers_with_emph	सँगै	-sʌ̃gʌi	COM+EMPH	fst	high	pdf-text-layer	False	True	True	repaired-form	False	2.5	
+ch5	postposition	case_markers_with_emph	को	-ko	GEN.SG	fst	high	pdf-text-layer	False	True	True	repaired-form	False	2.5	राम + को
+ch5	postposition	case_markers_with_emph	का	-ka	GEN.PL	fst	high	pdf-text-layer	False	True	True	repaired-form	False	2.5	
+ch5	postposition	case_markers_with_emph	कै	-kʌi	GEN+EMPH	fst	high	pdf-text-layer	False	True	True	repaired-form	False	2.5	को + ◌ै
+ch5	particle	emphatic_ai_global	◌ै	ʌi	EMPH / focus	fst	high	pdf-text-layer	False	True	True	repaired-form	False	2.5	mʌ + ʌi -> mʌi (मै); keto + ʌi -> ketʌi (केटै); radza + ʌi -> radzʌi (राजै)
+ch5	particle	emphatic_ai_global	◌ै	ʌi	DEEMPH (on adjectives)	fst	high	pdf-text-layer	False	True	True	repaired-form	False	2.5	ramro + ʌi -> ramrʌi (राॆै)
+ch5	interjection	interjections	छि	tsʰi	+INTERJ	regex	low	chandra-ocr-2	True	True	True	textlayer-form (FST still damaged)	False	2.5	
+ch6	derivational_affix	prefix_noun_to_noun	कु	ku-	N->N; PFX; pejorative 'bad'	regex	low	pdf-text-layer	True	True	True	repaired-form	False	2.5	पुऊ putrʌ -> कुपुऊ kuputrʌ
+ch6	derivational_affix	prefix_noun_to_noun	ला	la-	N->N; PFX; privative	regex	low	pdf-text-layer	False	True	True	repaired-form	True	2.5	वा रिस waris -> लावा रिस lawaris
+ch6	derivational_affix	suffix_noun_to_noun_or_adjective	ई	-iː	N->N/ADJ; SFX; provenance 'of X'	regex	low	pdf-text-layer	False	True	True	repaired-form	True	2.5	नेपाल nepal -> नेपाल nepaliː
+ch6	derivational_affix	suffix_adjective_or_noun_to_noun	ई	-iː	ADJ/N->N; SFX; abstract nominal	regex	low	pdf-text-layer	False	True	True	repaired-form	True	2.5	ग रिब gʌrib -> ग रिबी gʌribi
+ch3	pronoun	pron_dem_u	उहाँ	uɦã	DEM+DIST+HON (suppletive)	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	उहाँ
+ch3	pronoun	pron_dem_u	वहाँ	wʌɦã	DEM+DIST+HON (suppletive)	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	वहाँ
+ch3	pronoun	pron_rel	◌ै	ʌi	REL+EMPH	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	जुनै
+ch3	pronoun	pron_indef_from_interrog	◌ै	ʌi	INDEF+NEU	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	कुनै
+ch4	derivational_affix	deriv_passive	इ	i	PASS	regex	high	pdf-text-layer	True	True	True	repaired-form	False	2.0	अघाइ / ʌgʰa-i
+ch4	verb	aux_nonpast_existential_tshʌ_affirmative	स्	s	NPST.2SG.MASC	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	छस् / tsʰʌs
+ch4	verb	aux_nonpast_existential_tshʌ_affirmative	न्	ʌn	NPST.3SG.MASC.HON	regex	high	pdf-text-layer	True	True	True	repaired-form	False	2.0	छन् / tsʰʌn
+ch4	verb	aux_nonpast_existential_tshʌ_affirmative	न्	ʌn	NPST.3PL	regex	high	pdf-text-layer	True	True	True	repaired-form	False	2.0	छन् / tsʰʌn
+ch4	verb	aux_nonpast_identificational_ho_affirmative	स्	s	NPST.2SG	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	होस् / ɦos
+ch4	verb	aux_nonpast_identificational_ho_negative	इनँ	inʌ̃	NPST.NEG.1SG	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	aux_nonpast_identificational_ho_negative	इनस्	inʌs	NPST.NEG.2SG	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	aux_nonpast_identificational_ho_negative	इनौ	inʌu	NPST.NEG.2SG.HON	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	होइनौ / ɦoinʌu
+ch4	verb	aux_nonpast_identificational_ho_negative	इनौ	inʌu	NPST.NEG.2PL	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	aux_nonpast_identificational_ho_negative	इन	inʌ	NPST.NEG.3SG	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	होइन / ɦoinʌ
+ch4	verb	aux_nonpast_identificational_ho_negative	इनन्	inʌn	NPST.NEG.3SG.HON	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	aux_nonpast_identificational_ho_negative	इनन्	inʌn	NPST.NEG.3PL	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	aux_past_existential_thi_affirmative	एँ	ẽ	PST.1SG	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	थएँ / tʰi-ẽ
+ch4	verb	aux_past_existential_thi_affirmative	इस्	is	PST.2SG	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	aux_past_existential_thi_affirmative	यौ	jʌu	PST.2SG.HON	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	aux_past_existential_thi_affirmative	यौ	jʌu	PST.2PL	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	aux_past_existential_thi_affirmative	इन्	in	PST.3SG.FEM.HON	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	aux_past_existential_thi_negative	इनँ	inʌ̃	PST.NEG.1SG	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	aux_past_existential_thi_negative	एनौ	enʌũ	PST.NEG.1PL	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	aux_past_existential_thi_negative	इनस्	inʌs	PST.NEG.2SG	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	aux_past_existential_thi_negative	एनौ	enʌu	PST.NEG.2SG.MASC.HON	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	aux_past_existential_thi_negative	एनौ	enʌu	PST.NEG.2PL	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	aux_past_existential_thi_negative	एन	enʌ	PST.NEG.3SG.MASC	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	aux_past_existential_thi_negative	इन	inʌ	PST.NEG.3SG.FEM	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	aux_past_existential_thi_negative	एनन्	enʌn	PST.NEG.3SG.MASC.HON	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	aux_past_existential_thi_negative	इनन्	inʌn	PST.NEG.3SG.FEM.HON	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	aux_past_existential_thi_negative	एनन्	enʌn	PST.NEG.3PL	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	tense_nonpast_negative_set2	नँ	nʌ̃	NPST.NEG.1SG	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	tense_nonpast_negative_set2	नस्	nʌs	NPST.NEG.2SG	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	tense_nonpast_negative_set2	नौ	nʌu	NPST.NEG.2SG.HON	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	tense_nonpast_negative_set2	नौ	nʌu	NPST.NEG.2PL	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	tense_nonpast_negative_set2	न	nʌ	NPST.NEG.3SG	regex	high	pdf-text-layer	True	True	True	repaired-form	False	2.0	खान्न / kʰa-nnʌ
+ch4	verb	tense_nonpast_negative_set2	नन्	nʌn	NPST.NEG.3SG.HON	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	tense_nonpast_negative_set2	नन्	nʌn	NPST.NEG.3PL	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	mood_imperative	ऊ	uː	IMP.2SG.HON (other V-final stems)	regex	high	pdf-text-layer	True	True	True	repaired-form	False	2.0	
+ch4	verb	mood_imperative	ओ	o	IMP.2PL (other V-final stems)	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	जाओ / dza-o
+ch4	verb	mood_potential	लास्	las	POT.2SG.MASC	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	mood_potential	लान्	lan	POT.3SG.MASC.HON	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	mood_potential	लान्	lan	POT.3PL	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	participle_infinitive	ना	na	INF.OBL	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	participle_infinitive	नै	nʌi	INF.EMPH	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch4	verb	participle_purposive	नै	nʌi	PURP.EMPH	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch5	adverb	adv_spatial	यहाँ	jʌhã	+ADV+SPAC	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch5	conjunction	conj_coordinate	वा	wa	+CCONJ	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch5	conjunction	conj_coordinate	तर	tʌrʌ	+CCONJ	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	
+ch5	postposition	case_markers_with_emph	सितै	-sitʌi	COM+EMPH	fst	low	chandra-ocr-2	True	True	True	textlayer-form (FST still damaged)	False	2.0	
+ch5	postposition	case_markers_with_emph	की	-ki	GEN.FEM	fst	low	chandra-ocr-2	True	True	True	textlayer-form (FST still damaged)	False	2.0	
+ch5	postposition	case_markers_with_emph	तिरै	-tirʌi	DIR+EMPH	fst	low	chandra-ocr-2	True	True	True	textlayer-form (FST still damaged)	False	2.0	
+ch5	particle	emphatic_hi_demonstrative	ही	ɦi	EMPH (on demonstratives)	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	2.0	यो + ही -> यही; त्यो + ही -> त्यही; ऊ + ही -> उही; सो + ही -> सोही
+ch5	particle	emphatic_hi_demonstrative	ही	ɦi	INDEF (on interrogative pronouns)	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	2.0	को + ही -> कोही; के + ही -> केही
+ch6	derivational_affix	prefix_noun_to_noun	परा	pʌra-	N->N; PFX; reversal/negative	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	जय dzʌjʌ -> पराजय pʌradzʌjʌ
+ch6	derivational_affix	prefix_noun_to_noun	अनु	ʌnu-	N->N; PFX; 'following/sub-'	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	शासन ʃasʌn -> अनुशासन ʌnuʃasʌn
+ch6	derivational_affix	prefix_noun_to_noun	अव	ʌwa-	N->N; PFX; privative/downward	regex	high	pdf-text-layer	True	True	True	repaired-form	False	2.0	गुण guɳ -> अवगुण ʌwaguɳ
+ch6	derivational_affix	prefix_noun_to_noun	बद	bʌdʌ-	N->N; PFX; pejorative (Perso-Arabic)	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	नाम nam -> बदनाम bʌdʌnam
+ch6	derivational_affix	prefix_noun_to_noun	सु	su-	N->N; PFX; ameliorative 'good'	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	समाचार sʌmatsar -> सुसमाचार susʌmatsar
+ch6	derivational_affix	prefix_noun_to_adjective	स	sʌ-	N->ADJ; PFX; 'possessing'	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	बल bʌl -> सबल sʌbʌl
+ch6	derivational_affix	prefix_noun_to_adjective	बे	be-	N->ADJ; PFX; privative (Perso-Arabic)	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	घर gʰʌr -> बेघर begʰʌr
+ch6	derivational_affix	prefix_noun_to_adjective	अन	ʌnʌ-	N->ADJ; PFX; privative 'un-'	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	मोल mol -> अनमोल ʌnʌmol
+ch6	derivational_affix	prefix_noun_to_adverb	आ	a-	N->ADV; PFX; terminative 'up to'	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	मरण mʌrʌɳ -> आमरण amʌrʌɳ
+ch6	derivational_affix	suffix_noun_to_noun	आर	-ar	N->N; SFX; agent/occupation	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	सुन sun -> सुनार sunar
+ch6	derivational_affix	suffix_noun_to_adjective	अक	-ʌkʌ	N->ADJ; SFX; '-able/producing'	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	लाभ labʰ -> लाभक labʰʌkʌ
+ch6	derivational_affix	suffix_noun_to_adjective	आन	-an	N->ADJ; SFX; territorial/ethnonymic	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	मुगल mugʌl -> मुगलान mugʌlan
+ch6	derivational_affix	suffix_noun_to_noun_or_adjective	ले	-le	N->N/ADJ; SFX; inhabitant	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	गाउँ gaũ -> गाउँले gaũle
+ch6	derivational_affix	suffix_verb_to_noun	ना	-na	V->N; SFX; deverbal nominal	regex	high	pdf-text-layer	False	True	True	repaired-form	False	2.0	गा ga -> गाना gana
+ch3	noun	noun_type_1a	◌ी	iː	FEM	fst	low	pdf-text-layer	False	True	True	repaired-form	True	1.5	केट
+ch3	noun	noun_type_1c	◌ी	iː	DIM	fst	low	pdf-text-layer	False	True	True	repaired-form	True	1.5	डाल
+ch3	pronoun	pron_dem_remaining	◌ै	ʌi	DEM+PROX+EMPH	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	नजै
+ch3	pronoun	pron_def_arko	◌ै	ʌi	DEF+EMPH	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	अक
+ch3	pronoun	pron_recip_ekarko	◌ै	ʌi	RECIP+EMPH	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	एकअक
+ch3	classifier	clf_quasi_o_ending	◌ा	a	CLF+PL|OBL	fst	high	pdf-text-layer	False	True	False		True	1.5	कोसा
+ch4	verb	verb_type_1b	आ	a	CAUS	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	चो या / tsokʰj-a
+ch4	verb	verb_type_1c	आइ	a-i	CAUS.PASS	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	उका ल / ukal-i
+ch4	verb	verb_irregular	वा	wa	CAUS (suppletive augment)	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	वा / ru-wa
+ch4	derivational_affix	deriv_causative	◌ा	a	CAUS: infix into medial cluster	fst	high	pdf-text-layer	False	True	False		True	1.5	पगाल् / pʌgal
+ch4	verb	aux_nonpast_existential_tshʌ_affirmative	औ	ʌũ	NPST.1PL	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	छ / tsʰʌũ
+ch4	verb	aux_nonpast_existential_tshʌ_affirmative	एस्	es	NPST.2SG.FEM	fst	medium	pdf-text-layer	False	True	True	repaired-form	False	1.5	छे स ् / tsʰes
+ch4	verb	aux_nonpast_existential_tshʌ_affirmative	औ	ʌu	NPST.2SG.MASC.HON	fst	medium	pdf-text-layer	False	True	True	repaired-form	False	1.5	छौ / tsʰʌu
+ch4	verb	aux_nonpast_existential_tshʌ_affirmative	यौ	jʌu	NPST.2SG.FEM.HON	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	ौ / tsʰjʌu
+ch4	verb	aux_nonpast_existential_tshʌ_affirmative	औ	ʌu	NPST.2PL	fst	medium	pdf-text-layer	False	True	True	repaired-form	False	1.5	छौ / tsʰʌu
+ch4	verb	aux_nonpast_existential_tshʌ_affirmative	इन्	in	NPST.3SG.FEM.HON	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	छन् / tsʰin
+ch4	verb	tense_nonpast_negative_set1	दनँ	dinʌ̃	NPST.NEG.1SG	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	
+ch4	verb	aspect_imperfect	दै	dʌi	IMPERF (number/gender neutral)	fst	medium	pdf-text-layer	False	True	True	repaired-form	False	1.5	गद / gʌr-dʌi
+ch4	verb	mood_potential	ली	li	POT.3SG.FEM	regex	low	human	True	True	True	textlayer-form (FST still damaged)	True	1.5	
+ch6	derivational_affix	prefix_noun_to_noun	सम्	sʌm-	N->N; PFX; intensifier/completive	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	मान man -> स मान sʌmman
+ch6	derivational_affix	prefix_noun_to_noun	दुस्	dus-	N->N; PFX; 'bad/ill-'	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	प रिणाम pʌriɳam -> दुःप रिणाम duspʌriɳam
+ch6	derivational_affix	prefix_noun_to_noun	दुर्	dur-	N->N; PFX; 'bad/ill-'	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	घटना gʰʌt̺ʌna -> दुघटना durgʰʌt̺ʌna
+ch6	derivational_affix	prefix_noun_to_noun	अन्	ʌn-	N->N; PFX; privative before vowel	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	आःथा astʰa -> अनाःथा ʌnastʰa
+ch6	derivational_affix	prefix_adjective_to_adjective	सम्	sʌm-	ADJ->ADJ; PFX; completive intensifier	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	पूर्ण puːrɳʌ -> स पूर्ण sʌmpuːrɳʌ
+ch6	derivational_affix	prefix_adjective_to_adjective	दुर्	dur-	ADJ->ADJ; PFX; negative 'hard to'	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	भे  bʰedjʌ -> दुभ durbʰedjʌ
+ch6	derivational_affix	prefix_adjective_to_adjective	उन्	un-	ADJ->ADJ; PFX; 'up/out'	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	मु  muktʌ -> उ मु  unmuktʌ
+ch6	derivational_affix	suffix_noun_to_adjective	इका	-ika	N->ADJ; SFX; feminine agent	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	सेवा sewa -> से वका sewika
+ch6	derivational_affix	suffix_noun_to_adjective	आलु	-alu	N->ADJ; SFX; propensity	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	खच kʰʌrtsʌ -> खचालु kʰʌrtsalu
+ch6	derivational_affix	suffix_verb_to_noun	आउ	-au	V->N; SFX; deverbal nominal	fst	medium	pdf-text-layer	False	True	True	repaired-form	False	1.5	चुन् tsun -> चुनाउ tsunau
+ch6	derivational_affix	suffix_verb_to_noun	आब	-ab	V->N; SFX; deverbal nominal	fst	medium	pdf-text-layer	False	True	True	repaired-form	False	1.5	चुन् tsun -> चुनाब tsunab
+ch6	derivational_affix	suffix_verb_to_noun	आन	-an	V->N; SFX; deverbal nominal	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	क  kit̺ -> कटान kit̺an
+ch6	derivational_affix	suffix_verb_to_noun	आनी	-ani	V->N; SFX; deverbal nominal	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	क  kit̺ -> कटानी kit̺ani
+ch6	derivational_affix	suffix_verb_to_noun	आइ	-ai	V->N; SFX; deverbal nominal	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	प pʌd̺ʰ -> पढाइ pʌd̺ʰai
+ch6	derivational_affix	suffix_verb_to_noun	आवट	-awʌt̺	V->N; SFX; deverbal nominal	fst	medium	pdf-text-layer	False	True	True	repaired-form	False	1.5	थाक् tʰak -> थकावट tʰakawʌt̺
+ch6	derivational_affix	suffix_verb_to_noun	ओट	-ot̺	V->N; SFX; deverbal nominal	fst	medium	pdf-text-layer	False	True	True	repaired-form	False	1.5	छान् tsʰan -> छनोट tsʰanot̺
+ch6	derivational_affix	suffix_verb_to_noun	आलो	-alo	V->N; SFX; deverbal nominal	fst	medium	pdf-text-layer	False	True	True	repaired-form	False	1.5	राख् rakʰ -> रखालो rakʰalo
+ch6	derivational_affix	suffix_verb_to_noun	अल	-ʌl	V->N; SFX; deverbal nominal	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	स  sʌd̺ -> सडल sʌd̺ʌl
+ch6	derivational_affix	suffix_verb_to_noun	औती	-ʌuti	V->N; SFX; deverbal nominal	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	ब bʌd̺ʰ -> बढौती bʌd̺ʰʌuti
+ch6	derivational_affix	suffix_verb_to_noun	उवा	-uwa	V->N; SFX; deverbal nominal	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	सर् sʌr -> स वा sʌruwa
+ch6	derivational_affix	suffix_verb_to_adjective	आहा	-aha	V->ADJ; SFX; deverbal adjective	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	मिच् mits -> मचाहा mitsaha
+ch6	derivational_affix	suffix_verb_to_adjective	इलो	-ilo	V->ADJ; SFX; deverbal adjective	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	पोस् pos -> पो सलो posilo
+ch6	derivational_affix	suffix_verb_to_adjective	ऐया	-ʌija	V->ADJ; SFX; deverbal adjective	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	प pʌd̺ʰ -> पढै या pʌd̺ʰʌija
+ch6	derivational_affix	suffix_verb_to_adjective	आ	-a	V->ADJ; SFX; deverbal adjective	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	छा tsʌd̺ -> छाडा tsʌd̺a
+ch6	derivational_affix	suffix_verb_to_adjective	आउ	-au	V->ADJ; SFX; deverbal adjective	fst	low	pdf-text-layer	False	True	True	repaired-form	False	1.5	बिक् bik -> बिकाउ bikau
+ch6	derivational_affix	suffix_verb_to_adjective	औटो	-ʌut̺o	V->ADJ; SFX; deverbal adjective	fst	medium	pdf-text-layer	False	True	True	repaired-form	False	1.5	भाग् bʰag -> भगौटो bʰagʌut̺o
+ch4	verb	aux_past_existential_thi_affirmative	यो	jo	PST.3SG.MASC	regex	high	pdf-text-layer	False	True	True	repaired-form	True	1.0	थयो / tʰi-jo
+ch4	verb	aux_past_existential_thi_affirmative	ई	iː	PST.3SG.FEM	regex	high	pdf-text-layer	False	True	True	repaired-form	True	1.0	
+ch4	verb	aux_past_existential_thi_affirmative	ए	e	PST.3SG.MASC.HON	regex	high	pdf-text-layer	False	True	True	repaired-form	True	1.0	
+ch4	verb	aux_past_existential_thi_affirmative	ए	e	PST.3PL	regex	high	pdf-text-layer	False	True	True	repaired-form	True	1.0	
+ch5	derivational_affix	pr_5_1_emph_truncation_on_postp	◌ै	-ʌi	EMPH (on adverbial postposition)	fst	high	pdf-text-layer	False	True	True	repaired-form	False	1.0	rewrite: {◌ा | ◌ो | ◌्} -> 0 / C __ ◌ै #
+ch5	interjection	interjections	ए	e	+INTERJ	regex	high	pdf-text-layer	False	True	True	repaired-form	True	1.0	
+ch6	derivational_affix	suffix_noun_to_noun	ई	-iː	N->N; SFX; agent/occupation	regex	high	pdf-text-layer	False	True	True	repaired-form	True	1.0	घाँस gʰãs -> घाँसी gʰãsiː
+ch6	derivational_affix	suffix_noun_to_adjective	अनीय	-ʌnijʌ	N->ADJ; SFX; potential '-able'	fst	high	pdf-text-layer	False	True	True	repaired-form	False	1.0	दया dʌja -> दयनीय dʌjanijʌ
+ch6	derivational_affix	suffix_noun_to_adjective	ई	-iː	N->ADJ; SFX; agent/possessor	regex	high	pdf-text-layer	False	True	True	repaired-form	True	1.0	दान dan -> दानी daniː
+ch6	derivational_affix	suffix_noun_to_noun_or_adjective	ए	-e	N->N/ADJ; SFX; provenance 'of X'	regex	high	pdf-text-layer	False	True	True	repaired-form	True	1.0	इलाम ilam -> इलामे ilame
+ch6	derivational_affix	suffix_adjective_to_noun	आइ	-ai	ADJ->N; SFX; abstract quality nominal	fst	high	pdf-text-layer	False	True	True	repaired-form	False	1.0	लामो lamo -> लमाइ lʌmai
+ch6	derivational_affix	suffix_verb_to_noun	अनी	-ʌni	V->N; SFX; deverbal nominal	fst	high	pdf-text-layer	False	True	True	repaired-form	False	1.0	ढाक् d̺ʰak -> ढकनी d̺ʰʌkʌni
+ch6	derivational_affix	suffix_verb_to_noun	अन	-ʌn	V->N; SFX; deverbal nominal	fst	high	pdf-text-layer	False	True	True	repaired-form	False	1.0	जल् dzʌl -> जलन dzʌlʌn
+ch6	derivational_affix	suffix_verb_to_noun	ओ	-o	V->N; SFX; deverbal nominal	fst	high	pdf-text-layer	False	True	True	repaired-form	False	1.0	हाँस् ɦãs -> हाँसो ɦãso
+ch6	derivational_affix	suffix_verb_to_noun	आ	-a	V->N; SFX; deverbal nominal	fst	high	pdf-text-layer	False	True	True	repaired-form	False	1.0	छाप् tsʰap -> छापा tsʰapa
+ch6	derivational_affix	suffix_verb_to_noun	अना	-ʌna	V->N; SFX; deverbal nominal	fst	high	pdf-text-layer	False	True	True	repaired-form	False	1.0	झर् dzʌr -> झरना dzʌrʌna
+ch6	derivational_affix	suffix_verb_to_noun	आउनी	-auni	V->N; SFX; deverbal nominal	fst	high	pdf-text-layer	False	True	True	repaired-form	False	1.0	ढोग् dʰog -> ढोगाउनी dʰogauni
+ch6	derivational_affix	suffix_verb_to_noun	अत	-ʌt	V->N; SFX; deverbal nominal	fst	high	pdf-text-layer	False	True	True	repaired-form	False	1.0	बच् bʌts -> बचत bʌtsʌt
+ch6	derivational_affix	suffix_verb_to_noun	आइँ	-aĩ	V->N; SFX; deverbal nominal	fst	high	pdf-text-layer	False	True	True	repaired-form	False	1.0	रोप् rop -> रोपाइँ ropaĩ
+ch6	derivational_affix	suffix_verb_to_noun	आरो	-aro	V->N; SFX; deverbal nominal	fst	high	pdf-text-layer	False	True	True	repaired-form	False	1.0	छेक् tsʰek -> छेकारो tsʰekaro
+ch6	derivational_affix	suffix_verb_to_noun	एसो	-eso	V->N; SFX; deverbal nominal	fst	high	pdf-text-layer	False	True	True	repaired-form	False	1.0	कोर् kor -> कोरेसो koreso
+ch6	derivational_affix	suffix_verb_to_adjective	आलु	-alu	V->ADJ; SFX; deverbal adjective	fst	high	pdf-text-layer	False	True	True	repaired-form	False	1.0	खप् kʰʌp -> खपालु kʰʌpalu
+ch6	derivational_affix	suffix_verb_to_adjective	आर	-ar	V->ADJ; SFX; deverbal adjective	fst	high	pdf-text-layer	False	True	True	repaired-form	False	1.0	रोप् rop -> रोपार ropar
+ch3	pronoun	pron_def_arko	◌ी	iː	DEF+FEM	fst	low	pdf-text-layer	False	True	True	repaired-form	True	0.5	अक
+ch3	pronoun	pron_recip_ekarko	◌ी	iː	RECIP+FEM	fst	low	pdf-text-layer	False	True	True	repaired-form	True	0.5	एकअक
+ch3	adjective	adj_o_ending	◌ी	iː	FEM	fst	medium	pdf-text-layer	False	True	True	repaired-form	True	0.5	राॆी
+ch3	numeral	num_ordinal_irregular_one	◌ी	iː	ORD+FEM	fst	low	pdf-text-layer	False	True	True	repaired-form	True	0.5	प हल
+ch3	classifier	clf_numeral	◌ी	iː	CLF+FEM	fst	low	pdf-text-layer	False	True	True	repaired-form	True	0.5	वट
+ch4	verb	tense_nonpast_affirmative	छौं	tsʰʌũ	NPST.1PL	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	tense_nonpast_affirmative	छेस्	tsʰes	NPST.2SG.FEM	fst	medium	human	True	True	True	repaired-form	False	0.5	
+ch4	verb	tense_nonpast_affirmative	छ्यौ	tsʰjʌu	NPST.2SG.FEM.HON	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	tense_nonpast_affirmative	छिन्	tsʰin	NPST.3SG.FEM.HON	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	tense_nonpast_negative_set1	दैनौं	dʌinʌũ	NPST.NEG.1PL	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	tense_nonpast_negative_set1	दिनस्	dinʌs	NPST.NEG.2SG.FEM	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	tense_nonpast_negative_set1	दिनौ	dinʌu	NPST.NEG.2SG.FEM.HON	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	tense_nonpast_negative_set1	दिन	dinʌ	NPST.NEG.3SG.FEM	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	tense_nonpast_negative_set1	दिनन्	dinʌnʌn	NPST.NEG.3SG.FEM.HON	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	aspect_perfect	एकी	ekiː	PERF.SG.FEM	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	गरे क / gʌr-eki
+ch4	verb	aspect_imperfect	दी	diː	IMPERF.SG.FEM	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	aspect_past_habitual_affirmative	थें	tʰẽ	PST.HAB.1SG	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	पउँथ / pi-ũ-tʰẽ
+ch4	verb	aspect_past_habitual_affirmative	थ्यौं	tʰjʌũ	PST.HAB.1PL	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	aspect_past_habitual_affirmative	थिस्	tʰis	PST.HAB.2SG	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	aspect_past_habitual_affirmative	थ्यौ	tʰjʌu	PST.HAB.2SG.HON	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	aspect_past_habitual_affirmative	थ्यौ	tʰjʌu	PST.HAB.2PL	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	aspect_past_habitual_affirmative	थ्यो	tʰjo	PST.HAB.3SG.MASC	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	aspect_past_habitual_affirmative	थी	tʰi	PST.HAB.3SG.FEM	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	aspect_past_habitual_affirmative	थिन्	tʰin	PST.HAB.3SG.FEM.HON	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	aspect_past_habitual_negative	दैनथें	dʌinʌtʰẽ	PST.HAB.NEG.1SG	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	पउँदैनथ / pi-ũ-dʌinʌ-tʰẽ
+ch4	verb	aspect_past_habitual_negative	दैनथ्यौं	dʌinʌtʰjʌũ	PST.HAB.NEG.1PL	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	aspect_past_habitual_negative	दैनथिस्	dʌinʌtʰis	PST.HAB.NEG.2SG	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	aspect_past_habitual_negative	दैनथ्यौ	dʌinʌtʰjʌu	PST.HAB.NEG.2SG.HON	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	aspect_past_habitual_negative	दैनथ्यौ	dʌinʌtʰjʌu	PST.HAB.NEG.2PL	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	aspect_past_habitual_negative	दिनथिस्	dinʌtʰis	PST.HAB.NEG.2SG.FEM	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	aspect_past_habitual_negative	दिनथ्यौ	dinʌtʰjʌu	PST.HAB.NEG.2SG.FEM.HON	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	aspect_past_habitual_negative	दैनथ्यो	dʌitʰjo	PST.HAB.NEG.3SG.MASC	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	aspect_past_habitual_negative	दिनथिस्	dinʌtʰis	PST.HAB.NEG.3SG.FEM	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	aspect_past_habitual_negative	दिनथे	dinʌtʰe	PST.HAB.NEG.3SG.MASC.HON	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	aspect_past_habitual_negative	दैनथे	dʌinʌtʰe	PST.HAB.NEG.3PL	fst	low	human	True	True	True	repaired-form	False	0.5	
+ch4	verb	aspect_inferential_affirmative	एछौं	etsʰʌũ	PST.INFER.1PL	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	aspect_inferential_negative	एनछौं	enʌtsʰʌũ	PST.INFER.NEG.1PL	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	mood_potential	औली	ʌuli	POT.2SG.FEM.HON	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	
+ch4	verb	participle_perfective	ए	e	PERFT	fst	medium	pdf-text-layer	False	True	True	repaired-form	True	0.5	भनेअनुसार / bʰʌn-e-ʌnusar
+ch6	derivational_affix	suffix_verb_to_noun	ई	-iː	V->N; SFX; deverbal nominal	fst	low	pdf-text-layer	False	True	True	repaired-form	True	0.5	चोर् tsor -> चोर tsoriː
+ch6	derivational_affix	suffix_verb_to_noun	औटो	-ʌuto	V->N; SFX; deverbal nominal	fst	low	pdf-text-layer	True	True	True	repaired-form	False	0.5	चिर् tsir -> चिरौटो tsirʌuto
+ch6	derivational_affix	suffix_verb_to_noun	अन्त	-ʌnt	V->N; SFX; deverbal nominal	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	भ bid̺ -> भड त bid̺ʌnt
+ch6	derivational_affix	suffix_verb_to_adjective	अक्कड	-ʌkkʌd̺	V->ADJ; SFX; deverbal adjective	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	भुल् bʰul -> भुल ड bʰulʌkkʌd̺
+ch6	derivational_affix	suffix_verb_to_adjective	अन्ते	-ʌnte	V->ADJ; SFX; deverbal adjective	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	घुम् gʰum -> घुम ते gʰumʌnte
+ch6	derivational_affix	suffix_verb_to_adjective	अन्ता	-ʌnta	V->ADJ; SFX; deverbal adjective	fst	low	human	True	True	True	textlayer-form (FST still damaged)	False	0.5	घुम् gʰum -> घुम ता gʰumʌnta
+ch3	pronoun	pron_1sg	◌ै	ʌi	OBL|EMPH	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	मै
+ch3	pronoun	pron_3sg_tjo_ti	ती	tiː	HON|PL (suppletive)	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	ती
+ch3	pronoun	pron_3sg_jo_ji	यी	jiː	HON|PL (suppletive)	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	यी
+ch3	pronoun	pron_refl	◌ै	ʌi	OBL+EMPH	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	आफै
+ch3	pronoun	pron_dem_jo_ji	यी	jiː	DEM+PROX+PL (suppletive)	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	यी
+ch3	pronoun	pron_dem_tjo_ti	ती	tiː	DEM+DIST+PL (suppletive)	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	ती
+ch4	derivational_affix	deriv_causative	आ	a	CAUS: default suffix	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	सुता / sut-a
+ch4	derivational_affix	deriv_passive	आइ	a-i	CAUS.PASS (stacked)	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	लेखाइ / lekʰ-a-i
+ch4	verb	aux_nonpast_existential_tshʌ_affirmative	उ	u	NPST.1SG	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	छु / tsʰu
+ch4	verb	aux_nonpast_identificational_ho_affirmative	उँ	ũ	NPST.1SG	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	हुँ / ɦũ
+ch4	verb	aux_nonpast_identificational_ho_affirmative	औ	ʌu	NPST.2SG.HON	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	हौ / ɦʌu
+ch4	verb	aux_nonpast_identificational_ho_affirmative	न्	n	NPST.3SG.HON	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	हुन् / ɦun
+ch4	verb	tense_nonpast_affirmative	छु	tsʰu	NPST.1SG	fst	high	pdf-text-layer	True	True	True	repaired-form	False	0.0	जान्छु
+ch4	verb	tense_nonpast_affirmative	छस्	tsʰʌs	NPST.2SG.MASC	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	tense_nonpast_affirmative	छौ	tsʰʌu	NPST.2SG.MASC.HON	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	tense_nonpast_affirmative	छौ	tsʰʌu	NPST.2PL	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	tense_nonpast_affirmative	छ	tsʰʌ	NPST.3SG.MASC	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	खा छ / kʰa-n-tsʰʌ
+ch4	verb	tense_nonpast_affirmative	छे	tsʰe	NPST.3SG.FEM	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	tense_nonpast_affirmative	छन्	tsʰʌn	NPST.3SG.MASC.HON	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	tense_nonpast_affirmative	छन्	tsʰʌn	NPST.3PL	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	खा छन् / kʰa-n-tsʰʌn
+ch4	verb	tense_nonpast_negative_set1	दैनस्	dʌinʌs	NPST.NEG.2SG.MASC	fst	high	human	True	True	True	repaired-form	False	0.0	
+ch4	verb	tense_nonpast_negative_set1	दैनौ	dʌinʌu	NPST.NEG.2SG.MASC.HON	fst	high	human	True	True	True	repaired-form	False	0.0	
+ch4	verb	tense_nonpast_negative_set1	दैनौ	dʌinʌu	NPST.NEG.2PL	fst	high	human	True	True	True	repaired-form	False	0.0	
+ch4	verb	tense_nonpast_negative_set1	दैन	dʌinʌ	NPST.NEG.3SG.MASC	fst	high	human	True	True	True	repaired-form	False	0.0	खाँदैन / kʰã-dʌinʌ
+ch4	verb	tense_nonpast_negative_set1	दैनन्	dʌinʌn	NPST.NEG.3SG.MASC.HON	fst	high	human	True	True	True	repaired-form	False	0.0	
+ch4	verb	tense_nonpast_negative_set1	दैनन्	dʌinʌn	NPST.NEG.3PL	fst	high	human	True	True	True	repaired-form	False	0.0	
+ch4	verb	tense_past_negative	एनौ	enʌu	PST.NEG.2SG.HON	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	aspect_perfect	एको	eko	PERF.SG.MASC	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	गरे को / gʌr-eko
+ch4	verb	aspect_perfect	एका	eka	PERF.PL	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	गरे का / gʌr-eka
+ch4	verb	aspect_perfect	एकै	ekʌi	PERF.SG.FEM.EMPH	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	aspect_imperfect	दो	do	IMPERF.SG.MASC	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	aspect_imperfect	दा	da	IMPERF.PL	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	aspect_imperfect	दै	dʌi	IMPERF (after vowel-final stem)	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	नखाँदै / nʌ-kʰã-dʌi
+ch4	verb	aspect_past_habitual_affirmative	थे	tʰe	PST.HAB.3SG.MASC.HON	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	aspect_past_habitual_affirmative	थे	tʰe	PST.HAB.3PL	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	aspect_inferential_affirmative	एछु	etsʰu	PST.INFER.1SG	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	aspect_inferential_affirmative	एछस्	etsʰʌs	PST.INFER.2SG.MASC	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	aspect_inferential_affirmative	इछस्	itsʰʌs	PST.INFER.2SG.FEM	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	aspect_inferential_affirmative	एछौ	etsʰʌu	PST.INFER.2SG.MASC.HON	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	सुतेछौ / sut-etsʰʌu
+ch4	verb	aspect_inferential_affirmative	इछौ	itsʰʌu	PST.INFER.2SG.FEM.HON	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	aspect_inferential_affirmative	एछौ	etsʰʌu	PST.INFER.2PL	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	aspect_inferential_affirmative	एछ	etsʰʌ	PST.INFER.3SG.MASC	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	aspect_inferential_affirmative	इछ	itsʰʌ	PST.INFER.3SG.FEM	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	aspect_inferential_affirmative	एछन्	etsʰʌn	PST.INFER.3SG.MASC.HON	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	aspect_inferential_affirmative	इछन्	itsʰʌn	PST.INFER.3SG.FEM.HON	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	aspect_inferential_affirmative	एछन्	etsʰʌn	PST.INFER.3PL	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	aspect_inferential_negative	एनछु	enʌtsʰu	PST.INFER.NEG.1SG	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	aspect_inferential_negative	एनछस्	enʌtsʰʌs	PST.INFER.NEG.2SG.MASC	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	aspect_inferential_negative	इनछेस्	inʌtsʰes	PST.INFER.NEG.2SG.FEM	fst	high	human	True	True	True	repaired-form	False	0.0	
+ch4	verb	aspect_inferential_negative	एनछौ	enʌtsʰʌu	PST.INFER.NEG.2SG.MASC.HON	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	सुतेनछौ / sut-enʌtsʰʌu
+ch4	verb	aspect_inferential_negative	इनछौ	inʌtsʰʌu	PST.INFER.NEG.2SG.FEM.HON	fst	high	pdf-text-layer	True	True	True	repaired-form	False	0.0	आइनछौ
+ch4	verb	aspect_inferential_negative	एनछौ	enʌtsʰʌu	PST.INFER.NEG.2PL	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	aspect_inferential_negative	एनछ	enʌtsʰʌ	PST.INFER.NEG.3SG.MASC	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	aspect_inferential_negative	इनछ	inʌtsʰʌ	PST.INFER.NEG.3SG.FEM	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	aspect_inferential_negative	एनछन्	enʌtsʰʌn	PST.INFER.NEG.3SG.MASC.HON	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	aspect_inferential_negative	इनछन्	inʌtsʰʌn	PST.INFER.NEG.3SG.FEM.HON	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	aspect_inferential_negative	एनछन्	enʌtsʰʌn	PST.INFER.NEG.3PL	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	mood_imperative	अ	ʌ	IMP.2SG.HON / IMP.2PL (C-final and i-final stems)	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	mood_optative	औ	ʌũ	OPT.1PL	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	mood_optative	एस्	es	OPT.2SG	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	गरे स् / gʌr-es
+ch4	verb	mood_optative	ओस्	os	OPT.3SG	fst	high	pdf-text-layer	True	True	True	repaired-form	False	0.0	नगरोस् / nʌ-gʌr-os
+ch4	verb	mood_optative	ऊन्	uːn	OPT.3SG.HON	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	mood_optative	ऊन्	uːn	OPT.3PL	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	mood_potential	उँला	ũla	POT.1SG	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	mood_potential	औला	ʌũla	POT.1PL	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	mood_potential	औला	ʌula	POT.2SG.MASC.HON	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	mood_potential	औला	ʌula	POT.2PL	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	participle_durative	दा	da	DUR	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	आउँदा / a-ũ-da
+ch4	verb	participle_durative	दै	dʌi	DUR.EMPH	fst	high	pdf-text-layer	True	True	True	repaired-form	False	0.0	गर्दै
+ch4	verb	participle_conjunctive	एर	erʌ	CONJ	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	पढे र / pʌdʰ-erʌ
+ch4	verb	participle_conjunctive	एरै	erʌi	CONJ.EMPH	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	participle_conjunctive	इकन	ikʌnʌ	CONJ (low-frequency variant)	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch4	verb	participle_conjunctive	इकनै	ikʌnʌi	CONJ.EMPH (low-frequency variant)	fst	high	pdf-text-layer	False	True	True	repaired-form	False	0.0	
+ch5	conjunction	conj_coordinate	तरै	tʌrʌi	+CCONJ+EMPH	fst	high	pdf-text-layer	True	True	True	repaired-form	False	0.0	तर + ◌ै
+ch6	derivational_affix	suffix_verb_to_adjective	उ	-u	V->ADJ; SFX; deverbal adjective	fst	high	pdf-text-layer	True	True	True	repaired-form	False	0.0	लाग् lag -> लागु lagu
+ch6	derivational_affix	suffix_adverb_to_adjective	ई	-iː	ADV->ADJ; SFX; relational adjective	fst	low	pdf-text-layer	True	True	True	repaired-form	True	-0.5	भित्र bʰitrʌ -> भित्री bʰitriː
+ch4	verb	verb_irregular	ला	la	CAUS (suppletive augment)	fst	high	pdf-text-layer	False	True	True	repaired-form	True	-1.0	धुला / dʰu-la
+ch4	verb	aux_nonpast_existential_tshʌ_affirmative	ए	e	NPST.3SG.FEM	fst	high	pdf-text-layer	False	True	True	repaired-form	True	-1.0	छे / tsʰe
+ch4	verb	mood_imperative	ई	iː	IMP.2SG (i-final stems)	fst	high	pdf-text-layer	False	True	True	repaired-form	True	-1.0	
+ch4	verb	mood_optative	ऊँ	ũ	OPT.1SG	fst	high	pdf-text-layer	True	True	True	repaired-form	True	-1.0	
+ch4	verb	mood_optative	ए	e	OPT.2SG.HON	fst	high	pdf-text-layer	False	True	True	repaired-form	True	-1.0	
+ch4	verb	mood_optative	ए	e	OPT.2PL	fst	high	pdf-text-layer	False	True	True	repaired-form	True	-1.0	
+ch4	verb	participle_absolutive	ई	iː	ABS	fst	high	pdf-text-layer	False	True	True	repaired-form	True	-1.0	पठाई / pʌt̺ʰa-iː
+ch4	verb	participle_conditional	ए	e	COND	fst	high	pdf-text-layer	False	True	True	repaired-form	True	-1.0	गरे / gʌr-e

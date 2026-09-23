@@ -1,0 +1,1198 @@
+# sent_id = Bhootko_Katha-1
+# text = एउटा ठाउँमा — एउटा ठाउँ , मतलब केरे , " धारा पानी " भन्ने ठाउँमा — चाहिँ एउटा मान्छेको गोठ रहेछ रे ।
+# original_text = एउटा ठाउँमा — एउटा ठाउँ, मतलब केरे, "धारा पानी" भन्ने ठाउँमा — चाहिँ एउटा मान्छेको गोठ रहेछ रे। .
+# gloss = one place-LOC one place HES PRT spring water say-IP place-LOC EMPH one man-GEN herd stay-PP2-3msL EVID
+# translation = In a certain place — a place, that is —in a place called "spring water", there was a man’s herd.
+1	एउटा	एउटा	PRON	_	PronType=Dem	2	det	_	_
+2	ठाउँमा	ठाउँ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	21	obl	_	_
+3	—	-	PUNCT	_	_	2	punct	_	_
+4	एउटा	एउटा	DET	_	PronType=Dem	5	det	_	_
+5	ठाउँ	ठाउँ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	reparandum	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	मतलब	मतलब	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	discourse	_	_
+8	केरे	केरे	PART	_	_	7	discourse	_	_
+9	,	,	PUNCT	_	_	7	punct	_	_
+10	"	"	PUNCT	_	_	12	punct	_	_
+11	धारा	धारा	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	12	compound	_	_
+12	पानी	पानी	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	5	appos	_	_
+13	"	"	PUNCT	_	_	12	punct	_	_
+14	भन्ने	भन्ने	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Part	15	acl	_	_
+15	ठाउँमा	ठाउँ	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	12	appos	_	_
+16	—	-	PUNCT	_	_	15	punct	_	_
+17	चाहिँ	चाहिँ	PART	_	_	15	discourse	_	_
+18	एउटा	एउटा	DET	_	PronType=Dem	19	det	_	_
+19	मान्छेको	मान्छे	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	20	nmod:poss	_	_
+20	गोठ	गोठ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	21	nsubj	_	_
+21	रहेछ	हुनु	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+22	रे	रे	PART	_	_	21	discourse	_	_
+23	।	।	PUNCT	_	_	21	punct	_	_
+
+# sent_id = Bhootko_Katha-2
+# text = अनि त्यो गोठमा काम गर्ने मान्छे … अब त्यो गोठमा गोठ कुर्ने मान्छे , गोठालो बस्थियो रे ।
+# original_text = अनि त्यो गोठमा काम गर्ने मान्छे… अब त्यो गोठमा गोठ कुर्ने मान्छे, गोठालो बस्थियो रे। .
+# gloss = then DIST.L herd-LOC work do-IP man now DIST.L herd-LOC herd attend-IP man herdsman live-3smL.PSTHAB EVID
+# translation = Then in that herd a worker … in that herd the person who attends the herd — the herdsman lived.
+1	अनि	अनि	CCONJ	_	_	16	cc	_	_
+2	त्यो	त्यो	DET	_	Number=Sing|PronType=Dem	3	det	_	_
+3	गोठमा	गोठ	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	16	obl	_	_
+4	काम	काम	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
+5	गर्ने	गर्नु	VERB	_	VerbForm=Part	6	acl	_	_
+6	मान्छे	मान्छे	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	16	nsubj	_	_
+7	…	…	PUNCT	_	_	6	punct	_	_
+8	अब	अब	ADV	_	_	16	advmod	_	_
+9	त्यो	त्यो	DET	_	Number=Sing|PronType=Dem	10	det	_	_
+10	गोठमा	गोठ	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	16	obl	_	_
+11	गोठ	गोठ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	12	obj	_	_
+12	कुर्ने	कुर्नु	VERB	_	VerbForm=Part	13	acl	_	_
+13	मान्छे	मान्छे	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	appos	_	_
+14	,	,	PUNCT	_	_	13	punct	_	_
+15	गोठालो	गोठालो	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	13	appos	_	_
+16	बस्थियो	बस्नु	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+17	रे	रे	PART	_	_	16	discourse	_	_
+18	।	।	PUNCT	_	_	16	punct	_	_
+
+# sent_id = Bhootko_Katha-3
+# text = अनि सधैं त्यो गोठालो द्यूसो , अब द्यूसोभरी गाईबस्तु लिएर त्यो चराउन जाने ।
+# original_text = अनि सधैं त्यो गोठालो द्यूसो, अब द्यूसोभरी गाईबस्तु लिएर त्यो चराउन जाने। .
+# gloss = then always DIST.L herdsman daytime now daytime full cattle take-CP DIST.L graze-NOM go-IP
+# translation = Then the herdsman always took the cattle and went to graze them all day.
+1	अनि	अनि	CCONJ	_	_	5	cc	_	_
+2	सधैं	सधैं	ADV	_	_	5	advmod	_	_
+3	त्यो	त्यो	DET	_	Number=Sing|PronType=Dem	4	det	_	_
+4	गोठालो	गोठालो	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+5	द्यूसो	द्यूसो	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	parataxis	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	अब	अब	ADV	_	_	13	advmod	_	_
+8	द्यूसोभरी	द्यूसोभरी	ADJ	_	_	9	amod	_	_
+9	गाईबस्तु	गाईबस्तु	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	12	obj	_	_
+10	लिएर	लिनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	13	advcl	_	_
+11	त्यो	त्यो	PRON	_	Number=Sing|PronType=Dem	13	nsubj	_	_
+12	चराउन	चराउनु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	13	xcomp	_	_
+13	जाने	जानु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Part	0	root	_	_
+14	।	।	PUNCT	_	_	13	punct	_	_
+
+# sent_id = Bhootko_Katha-4
+# text = जंगलमा जाने , चराउने ।
+# original_text = जंगलमा जाने, चराउने। .
+# gloss = forest-LOC go-IP graze-IP
+# translation = He went to the forest and grazed them.
+1	जंगलमा	जंगल	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	2	obl	_	_
+2	जाने	जाने	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	4	parataxis	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	चराउने	चराउनु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Part	0	root	_	_
+5	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = Bhootko_Katha-5
+# text = अनि त्यसपछि बेलुका फर्केर आउने ।
+# original_text = अनि त्यसपछि बेलुका फर्केर आउने।.
+# gloss = then DIST.L after evening return-CP come-IP
+# translation = Then after that he returned in the evening.
+1	अनि	अनि	CCONJ	_	_	5	cc	_	_
+2	त्यसपछि	त्यसपछि	ADV	_	_	5	advmod	_	_
+3	बेलुका	बेलुका	ADV	_	_	5	advmod	_	_
+4	फर्केर	फर्कनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	5	advcl	_	_
+5	आउने	आउनु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Part	0	root	_	_
+6	।	।	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Bhootko_Katha-6
+# text = अनि गाईको दूध ले महीसही पार्ने ।
+# original_text = अनि गाईको दूधले महीसही पार्ने।.
+# gloss = then cow-GEN milk-INS buttermilk-REDUP churn-IP
+# translation = Then he churned buttermilk (and other things like it) with the cow’s milk.
+1	अनि	अनि	CCONJ	_	_	6	cc	_	_
+2	गाईको	गाई	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nmod:poss	_	_
+3	दूध	दूध	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	6	obl	_	_
+4	ले	ले	ADP	_	_	3	case	_	_
+5	महीसही	महीसही	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
+6	पार्ने	पार्नु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Part	0	root	_	_
+7	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = Bhootko_Katha-7
+# text = अनि घ्यू बनाउने राख्ने गर्थ्यो रे ।
+# original_text = अनि घ्यू बनाउने राख्ने गर्थ्यो रे।.
+# gloss = then ghee make-IP put-IP do-3smL.PSTHAB EVID
+# translation = Then he used to make ghee and he would put it aside.
+1	अनि	अनि	CCONJ	_	_	5	cc	_	_
+2	घ्यू	घ्यू	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
+3	बनाउने	बनाउनु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Part	5	xcomp	_	_
+4	राख्ने	राख्नु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Part	3	conj	_	_
+5	गर्थ्यो	गर्नु	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	रे	रे	PART	_	_	5	discourse	_	_
+7	।	।	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Bhootko_Katha-8
+# text = अनि एक दिन त — अनि एक दिन त त्यो गोठालो त्यस्तै बेलुका फर्केर आएर , थकाई लागेर बसी रहेको ।
+# original_text = अनि एक दिन त— अनि एक दिन त त्यो गोठालो त्यस्तै बेलुका फर्केर आएर, थकाई लागेर बसी रहेको।.
+# gloss = ten one day EMPH then one day EMPH DIST.L herdsman like.that evening return-CP come-CP tired feel-CP sit-AXL stay-PP
+# translation = Then one day -- then one day the herdsman returned that same evening and he felt tired and was sitting down.
+1	अनि	अनि	CCONJ	_	_	3	cc	_	_
+2	एक	एक	NUM	_	NumType=Card	3	nummod	_	_
+3	दिन	दिन	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	reparandum	_	_
+4	त	त	PART	_	_	3	discourse	_	_
+5	—	-	PUNCT	_	_	3	punct	_	_
+6	अनि	अनि	CCONJ	_	_	8	cc	_	_
+7	एक	एक	NUM	_	NumType=Card	8	nummod	_	_
+8	दिन	दिन	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	20	obl	_	_
+9	त	त	PART	_	_	8	discourse	_	_
+10	त्यो	त्यो	DET	_	Number=Sing|PronType=Dem	11	det	_	_
+11	गोठालो	गोठालो	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	20	nsubj	_	_
+12	त्यस्तै	त्यस्तै	ADV	_	_	20	advmod	_	_
+13	बेलुका	बेलुका	ADV	_	_	20	advmod	_	_
+14	फर्केर	फर्कनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	15	advcl	_	_
+15	आएर	आउनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	20	advcl	_	_
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	थकाई	थकाई	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	18	nsubj	_	_
+18	लागेर	लाग्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	20	advcl	_	_
+19	बसी	बस्नु	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	20	advcl	_	_
+20	रहेको	हुनु	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Part	0	root	_	_
+21	।	।	PUNCT	_	_	20	punct	_	_
+
+# sent_id = Bhootko_Katha-9
+# text = अनि त्यो महीसही पारेर घ्यू झिक्ने ।
+# original_text = अनि त्यो महीसही पारेर घ्यू जिक्ने।.
+# gloss = then DIST.L buttermilk-REDUP churn-CP ghee take.out-IP
+# translation = Then he churned the buttermilk (and related things) and took out the ghee.
+1	अनि	अनि	CCONJ	_	_	6	cc	_	_
+2	त्यो	त्यो	DET	_	Number=Sing|PronType=Dem	3	det	_	_
+3	महीसही	महीसही	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
+4	पारेर	पार्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	6	advcl	_	_
+5	घ्यू	घ्यू	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
+6	झिक्ने	झिक्नु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Part	0	root	_	_
+7	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = Bhootko_Katha-10
+# text = घ्यू जिकेर , राखेर , अनि ‘ सुत ' भनेर , लागेर , एउटा गजबको मान्छे आएछ रे , ठूलो मान्छे ।
+# original_text = घ्यू जिकेर, राखेर, अनि ‘सुत’ भनेर, लागेर, एउटा गजबको मान्छे आएछ रे, ठूलो मान्छे।.
+# gloss = ghee take.out-CP FS put-CP then sleep-HORT say-CP start-CP one remarkable-GEN man come-PP2-3smL EVID big man
+# translation = Then he used to make ghee and he would put it aside.
+1	घ्यू	घ्यू	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	_
+2	जिकेर	झिक्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	17	advcl	_	_
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	राखेर	राख्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	17	advcl	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	अनि	अनि	CCONJ	_	_	17	cc	_	_
+7	‘	‘	PUNCT	_	_	6	punct	_	_
+8	सुत	सुत्नु	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	ccomp	_	_
+9	'	'	PUNCT	_	_	8	punct	_	_
+10	भनेर	भन्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	17	advcl	_	_
+11	,	,	PUNCT	_	_	10	punct	_	_
+12	लागेर	लाग्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	16	advcl	_	_
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	एउटा	एउटा	DET	_	PronType=Dem	16	det	_	_
+15	गजबको	गजब	ADJ	_	_	16	amod	_	_
+16	मान्छे	मान्छे	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	17	nsubj	_	_
+17	आएछ	आउनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+18	रे	रे	PART	_	_	17	discourse	_	_
+19	,	,	PUNCT	_	_	17	punct	_	_
+20	ठूलो	ठूलो	ADJ	_	_	21	amod	_	_
+21	मान्छे	मान्छे	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	16	appos	_	_
+22	।	।	PUNCT	_	_	17	punct	_	_
+
+# sent_id = Bhootko_Katha-11
+# text = अनि भुत्लै भुत्ला जिउ भरी भुत्लै भुत्ला भएको मान्छे आएको छ रे ।
+# original_text = अनि भुत्लै भुत्ला जिउ भरी भुत्लै भुत्ला भएको मान्छे आएको छ रे।.
+# gloss = then wool-EMPH wool body full wool-EMPH wool be.PST-PP man come-PP2-3smL EVID
+# translation = Then a man came with wool all over his body.
+1	अनि	अनि	CCONJ	_	_	10	cc	_	_
+2	भुत्लै	भुत्लै	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	discourse	_	_
+3	भुत्ला	भुत्ला	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	compound	_	_
+4	जिउ	जिउ	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	8	obl	_	_
+5	भरी	भरी	ADV	_	_	4	advmod	_	_
+6	भुत्लै	भुत्लै	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	discourse	_	_
+7	भुत्ला	भुत्ला	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	obj	_	_
+8	भएको	हुनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Part	9	acl	_	_
+9	मान्छे	मान्छे	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+10	आएको	आउनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Part	0	root	_	_
+11	छ	हुनु	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+12	रे	रे	PART	_	_	10	discourse	_	_
+13	।	।	PUNCT	_	_	10	punct	_	_
+
+# sent_id = Bhootko_Katha-12
+# text = अनि त्यो सरासर भित्र आएर त , " ए , तँ के गर्न लागेको ? " भनेर सोधेछ रे ।
+# original_text = अनि त्यो सरासर भित्र आएर त, “ए, तँ के गर्न लागेको?” भनेर सोधेछ रे।.
+# gloss = then DIST.L directly inside come-CP EMPH oh 2L what do-NOM start-PP say-CP ask-PP2-3smL EVID
+# translation = Then he came straight inside, "Oh, what have you started to do?" he asked.
+1	अनि	अनि	CCONJ	_	_	18	cc	_	_
+2	त्यो	त्यो	PRON	_	Number=Sing|PronType=Dem	18	nsubj	_	_
+3	सरासर	सरासर	ADV	_	_	5	advmod	_	_
+4	भित्र	भित्र	ADV	_	_	5	advmod	_	_
+5	आएर	आउनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	18	advcl	_	_
+6	त	त	PART	_	_	5	discourse	_	_
+7	,	,	PUNCT	_	_	5	punct	_	_
+8	"	"	PUNCT	_	_	14	punct	_	_
+9	ए	ए	INTJ	_	_	14	discourse	_	_
+10	,	,	PUNCT	_	_	14	punct	_	_
+11	तँ	तँ	PRON	_	Number=Sing|Person=2|PronType=Prs	14	nsubj	_	_
+12	के	के	PRON	_	PronType=Int	13	obj	_	_
+13	गर्न	गर्नु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	14	xcomp	_	_
+14	लागेको	लाग्नु	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Part	18	ccomp	_	_
+15	?	?	PUNCT	_	_	14	punct	_	_
+16	"	"	PUNCT	_	_	14	punct	_	_
+17	भनेर	भन्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	18	advcl	_	_
+18	सोधेछ	सोध्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+19	रे	रे	PART	_	_	18	discourse	_	_
+20	।	।	PUNCT	_	_	18	punct	_	_
+
+# sent_id = Bhootko_Katha-13
+# text = अनि " सुत्न लाको , थकाई लाग्यो , सुत्न ला " , भनेछ रे ।
+# original_text = अनि “सुत्न लाको, थकाई लाग्यो, सुत्न ला”, भनेर छ रे।.
+# gloss = then sleep-NOM start-PP tired feel-3msL.PST sleep-NOM start(PP) say-PP2-3smL EVID
+# translation = Then "I started to sleep, I’m tired, I started to sleep" he said.
+1	अनि	अनि	CCONJ	_	_	13	cc	_	_
+2	"	"	PUNCT	_	_	10	punct	_	_
+3	सुत्न	सुत्नु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	4	xcomp	_	_
+4	लाको	लाग्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Part	10	reparandum	_	_
+5	,	,	PUNCT	_	_	4	punct	_	_
+6	थकाई	थकाई	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	_
+7	लाग्यो	लाग्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	parataxis	_	_
+8	,	,	PUNCT	_	_	7	punct	_	_
+9	सुत्न	सुत्नु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	10	xcomp	_	_
+10	ला	लाग्नु	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Part	13	ccomp	_	_
+11	"	"	PUNCT	_	_	10	punct	_	_
+12	,	,	PUNCT	_	_	10	punct	_	_
+13	भनेछ	भन्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+14	रे	रे	PART	_	_	13	discourse	_	_
+15	।	।	PUNCT	_	_	13	punct	_	_
+
+# sent_id = Bhootko_Katha-14
+# text = त्यो मान्छेले " मलाई केरे त्यो -- त्यो घिउ घस्दे " , " मलाई एकदम थकाई ला छ , जिउ दुखि रहेछ । " भनेर भनेछ ।
+# original_text = त्यो मान्छेले "मलाई केरे त्यो -- त्यो घिउ घस्दे,” मलाई एकदम थकाई ला छ , जिउ दुखि रहेछ। " भनेर भनेछ।.
+# gloss = DIST.L man-ERG 1s.DAT PRT DIST.L DIST.L ghee rub-give(IMP.L) 1s.DAT very tired feel(PP) be2.3smL body ache-AXL stay-PP2-3smL say-CP say-PP2-3smL
+# translation = The man said: "Rub that ghee on me. I’m extremely tired. My body is aching. Rub on that ghee".
+1	त्यो	त्यो	DET	_	Number=Sing|PronType=Dem	2	det	_	_
+2	मान्छेले	मान्छे	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	26	nsubj	_	_
+3	"	"	PUNCT	_	_	10	punct	_	_
+4	मलाई	म	PRON	_	Number=Sing|Person=1|PronType=Prs	10	iobj	_	_
+5	केरे	केरे	PART	_	_	10	discourse	_	_
+6	त्यो	त्यो	DET	_	Number=Sing|PronType=Dem	10	dislocated	_	_
+7	--	--	PUNCT	_	_	10	punct	_	_
+8	त्यो	त्यो	DET	_	Number=Sing|PronType=Dem	9	det	_	_
+9	घिउ	घिउ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	10	obj	_	_
+10	घस्दे	घस्नु	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	ccomp	_	_
+11	"	"	PUNCT	_	_	10	punct	_	_
+12	,	,	PUNCT	_	_	10	punct	_	_
+13	"	"	PUNCT	_	_	17	punct	_	_
+14	मलाई	म	PRON	_	Number=Sing|Person=1|PronType=Prs	17	iobj	_	_
+15	एकदम	एकदम	ADV	_	_	17	advmod	_	_
+16	थकाई	थकाई	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	17	obj	_	_
+17	ला	लाग्नु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	ccomp	_	_
+18	छ	हुनु	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	_
+19	,	,	PUNCT	_	_	17	punct	_	_
+20	जिउ	जिउ	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	21	obj	_	_
+21	दुखि	दुख्नु	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Part	17	parataxis	_	_
+22	रहेछ	रहेछ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	advcl	_	_
+23	।	।	PUNCT	_	_	17	punct	_	_
+24	"	"	PUNCT	_	_	17	punct	_	_
+25	भनेर	भन्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	26	advcl	_	_
+26	भनेछ	भन्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+27	।	।	PUNCT	_	_	26	punct	_	_
+
+# sent_id = Bhootko_Katha-15
+# text = अनि " ल हुन्छ " भनेर अब उले सोचे ।
+# original_text = अनि "ल हुन्छ" भनेर अब उले सोचे।.
+# gloss = then well ok say-CP now 3L.ERG think-PP2-3smL
+# translation = Then he said "Well, ok", but now he thought.
+1	अनि	अनि	CCONJ	_	_	9	cc	_	_
+2	"	"	PUNCT	_	_	4	punct	_	_
+3	ल	ल	INTJ	_	_	4	discourse	_	_
+4	हुन्छ	हुनु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	_
+5	"	"	PUNCT	_	_	4	punct	_	_
+6	भनेर	भन्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	9	advcl	_	_
+7	अब	अब	ADV	_	_	9	advmod	_	_
+8	उले	ऊ	PRON	_	Number=Sing|Person=3|PronType=Prs	9	nsubj	_	_
+9	सोचे	सोच्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	।	।	PUNCT	_	_	9	punct	_	_
+
+# sent_id = Bhootko_Katha-16
+# text = " यो पक्कै भुत हो यत्रो बडाम्मा मान्छे । यो धारा पानीको भुत भन्थे यही होला " भनेर सोचेर अनि त्यो घ्यू घस्दिएछ रे उलाइ ।
+# original_text = "यो पक्कै भुत हो यत्रो बडाम्मा मान्छे। यो धारा पानीको भुत भन्थे यही होला" भनेर सोचेर अनि त्यो घ्यू घस्दिएछ रे उलाइ।.
+# gloss = this truly ghost be1.3smL this.great gentleman man PROX.L spring water-GEN ghost say-3p.PSTHAB this.one be1.3smL.FUT2 say-CP think-CP then FS DIST.L ghee rub-give-PP2-3smL EVID 3sL.DAT
+# translation = "This gentleman like this is truly a ghost. They say there is a Springwater ghost. Maybe it is this one" he thought, then he rubbed the ghee on him.
+1	"	"	PUNCT	_	_	4	punct	_	_
+2	यो	यो	DET	_	Number=Sing|PronType=Dem	4	det	_	_
+3	पक्कै	पक्कै	ADV	_	_	4	advmod	_	_
+4	भुत	भुत	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	23	ccomp	_	_
+5	हो	हुनु	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+6	यत्रो	यत्रो	DET	_	Number=Sing|PronType=Dem	8	det	_	_
+7	बडाम्मा	बडाम्मा	ADJ	_	_	8	amod	_	_
+8	मान्छे	मान्छे	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	appos	_	_
+9	।	।	PUNCT	_	_	4	punct	_	_
+10	यो	यो	DET	_	Number=Sing|PronType=Dem	13	det	_	_
+11	धारा	धारा	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	12	compound	_	_
+12	पानीको	पानी	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	13	nmod:poss	_	_
+13	भुत	noun	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	14	nsubj	_	_
+14	भन्थे	भन्नु	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	advcl	_	_
+15	यही	यही	PRON	_	Number=Sing|PronType=Dem	16	nsubj	_	_
+16	होला	हुनु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	parataxis	_	_
+17	"	"	PUNCT	_	_	4	punct	_	_
+18	भनेर	भन्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	23	advcl	_	_
+19	सोचेर	सोच्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	23	advcl	_	_
+20	अनि	अनि	CCONJ	_	_	23	cc	_	_
+21	त्यो	त्यो	DET	_	Number=Sing|PronType=Dem	22	det	_	_
+22	घ्यू	घ्यू	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	23	obj	_	_
+23	घस्दिएछ	घसिदिनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+24	रे	रे	PART	_	_	23	discourse	_	_
+25	उलाइ	ऊ	PRON	_	Number=Sing|Person=3|PronType=Prs	23	iobj	_	_
+26	।	।	PUNCT	_	_	23	punct	_	_
+
+# sent_id = Bhootko_Katha-17
+# text = अनि घ्यू घस्दिपछि त्यो फर्केर गएछ रे ।
+# original_text = अनि घ्यू घस्दिपछि त्यो फर्केर गएछ रे।.
+# gloss = then ghee rub-give-PP2 after DIST.L return-CP go.PST-3smL EVID
+# translation = Then after rubbing on the ghee he went back.
+1	अनि	अनि	CCONJ	_	_	6	cc	_	_
+2	घ्यू	घ्यू	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	_
+3	घस्दिपछि	घस्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	5	advcl	_	_
+4	त्यो	त्यो	PRON	_	Number=Sing|PronType=Dem	6	nsubj	_	_
+5	फर्केर	फर्कनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	6	advcl	_	_
+6	गएछ	जानु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	रे	रे	PART	_	_	6	discourse	_	_
+8	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = Bhootko_Katha-18
+# text = अनि त्यो घ्यू घसेको पलकरे त भोलिदेखि पनि फेरी भोलिपल्ट पनि आएछ रे ।
+# original_text = अनि त्यो घ्यू घसेको पलकरे त भोलिदेखि पनि फेरी भोलिपल्ट पनि आएछ रे। .
+# gloss = then DIST.L ghee rub-PP have.habit-CP EMPH next.day from also again next.day also come-PP2-3smL EVID
+# translation = Then he got in the habit of having ghee rubbed on him, and from the next he came again the next day.
+1	अनि	अनि	CCONJ	_	_	12	cc	_	_
+2	त्यो	त्यो	DET	_	Number=Sing|PronType=Dem	3	det	_	_
+3	घ्यू	घ्यू	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	_
+4	घसेको	घस्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Part	5	advcl	_	_
+5	पलकरे	पल्कनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	12	advcl	_	_
+6	त	त	PART	_	_	12	discourse	_	_
+7	भोलिदेखि	भोलिदेखि	ADV	_	_	12	advmod	_	_
+8	पनि	पनि	PART	_	_	12	discourse	_	_
+9	फेरी	फेरी	ADV	_	_	12	advmod	_	_
+10	भोलिपल्ट	भोलिपल्ट	ADV	_	_	12	advmod	_	_
+11	पनि	पनि	PART	_	_	12	discourse	_	_
+12	आएछ	आउनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Part	0	root	_	_
+13	रे	रे	PART	_	_	12	discourse	_	_
+14	।	।	PUNCT	_	_	12	punct	_	_
+
+# sent_id = Bhootko_Katha-19
+# text = फेरि भोलिपल्ट पनि त्यसरी नै " घ्यू घस्दे " भनेर लगाएछ रे ।
+# original_text = फेरि भोलिपल्ट पनि त्यसरी नै "घ्यू घस्दे" भनेर लगाएछ रे।.
+# gloss = again next.day also like.that PRT ghee rub-give(IMP.L) say-CP make-PP2-3smL EVID
+# translation = Again the next day also like that he said "Rub the ghee on" and he made him.
+1	फेरि	फेरि	ADV	_	_	11	advmod	_	_
+2	भोलिपल्ट	भोलिपल्ट	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	11	obl	_	_
+3	पनि	पनि	PART	_	_	2	discourse	_	_
+4	त्यसरी	त्यसरी	ADV	_	_	11	advmod	_	_
+5	नै	नै	PART	_	_	4	discourse	_	_
+6	"	"	PUNCT	_	_	8	punct	_	_
+7	घ्यू	घ्यू	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
+8	घस्दे	घस्नु	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	_
+9	"	"	PUNCT	_	_	8	punct	_	_
+10	भनेर	भन्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	11	advcl	_	_
+11	लगाएछ	लगाउनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+12	रे	रे	PART	_	_	11	discourse	_	_
+13	।	।	PUNCT	_	_	11	punct	_	_
+
+# sent_id = Bhootko_Katha-20
+# text = अनि गर्दा गर्दा त कति महिना बितिसके रे ।
+# original_text = अनि गर्दा गर्दा त कति महिना बितिसके रे।.
+# gloss = then do-SP do-SP EMPH how.many month spend-PP2 EVID
+# translation = Then doing that on and on, how many (so many) months were spent.
+1	अनि	अनि	CCONJ	_	_	7	cc	_	_
+2	गर्दा	गर्नु	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	7	advcl	_	_
+3	गर्दा	गर्नु	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	2	compound	_	_
+4	त	त	PART	_	_	7	discourse	_	_
+5	कति	कति	DET	_	PronType=Int	6	det	_	_
+6	महिना	महिना	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	_
+7	बितिसके	बितिनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	रे	रे	PART	_	_	7	discourse	_	_
+9	।	।	PUNCT	_	_	7	punct	_	_
+
+# sent_id = Bhootko_Katha-21
+# text = कति महिना सम्म सधैं आउँछ रे ।
+# original_text = कति महिना सम्म सधैं आउँछ रे।.
+# gloss = how.many months until always come-3smL.NPST EVID
+# translation = For so many months he always comes.
+1	कति	कति	DET	_	PronType=Int	2	det	_	_
+2	महिना	महिना	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obl	_	_
+3	सम्म	सम्म	ADP	_	_	2	case	_	_
+4	सधैं	सधैं	ADV	_	_	5	advmod	_	_
+5	आउँछ	आउनु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	रे	रे	PART	_	_	5	discourse	_	_
+7	।	।	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Bhootko_Katha-22
+# text = आफु लाई थकाई लागेर सुत्न लागी रहेछ ।
+# original_text = आफुलाई थकाई लागेर सुत्न लागी रहेछ।.
+# gloss = REF-DAT tired feel-CP sleep-NOM start-AXL stay-PP2-3smL
+# translation = He himself felt tired and was about to sleep.
+1	आफु	आफु	PRON	_	Number=Sing|Person=3|PronType=Prs	6	iobj	_	_
+2	लाई	लाई	ADP	_	_	1	case	_	_
+3	थकाई	थकाई	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	4	nsubj	_	_
+4	लागेर	लाग्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Conv	6	advcl	_	_
+5	सुत्न	सुत्नु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	6	xcomp	_	_
+6	लागी	लाग्नु	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Part	0	root	_	_
+7	रहेछ	रहेछ	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	xcomp	_	_
+8	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = Bhootko_Katha-23
+# text = उ आउँछ ।
+# original_text = उ आउँछ।.
+# gloss = 3sL come-3smL.NPST
+# translation = He comes.
+1	उ	ऊ	PRON	_	Number=Sing|Person=2|PronType=Prs	2	nsubj	_	_
+2	आउँछ	आउनु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Bhootko_Katha-24
+# text = " घ्यू घस्दे " भन्छ रे ।
+# original_text = "घ्यू घस्दे" भन्छ रे।.
+# gloss = ghee rub-give(IMP.L) say-3smL.PR EVID
+# translation = He says "Rub on the ghee".
+1	"	"	PUNCT	_	_	3	punct	_	_
+2	घ्यू	घ्यू	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+3	घस्दे	घस्नु	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+4	"	"	PUNCT	_	_	3	punct	_	_
+5	भन्छ	भन्नु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	रे	रे	PART	_	_	5	discourse	_	_
+7	।	।	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Bhootko_Katha-25
+# text = अनि गर्दा गर्दा त उ लाइ त एकदम रिस उठेछ रे ।
+# original_text = अनि गर्दा गर्दा त उलाइ त एकदम रिस उठेछ रे।.
+# gloss = then do-SP do-SP EMPH 3L.DAT EMPH very anger rise-PP2-3smL EVID
+# translation = Then doing this on and on, he became extremely angry.
+1	अनि	अनि	CCONJ	_	_	10	cc	_	_
+2	गर्दा	गर्नु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Conv	10	advcl	_	_
+3	गर्दा	गर्नु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Conv	2	compound	_	_
+4	त	त	PART	_	_	10	discourse	_	_
+5	उ	उ	PRON	_	Number=Sing|Person=3|PronType=Prs	10	iobj	_	_
+6	लाइ	लाइ	ADP	_	_	5	case	_	_
+7	त	त	PART	_	_	10	discourse	_	_
+8	एकदम	एकदम	ADV	_	_	10	advcl	_	_
+9	रिस	रिस	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	_
+10	उठेछ	उठ्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+11	रे	रे	PART	_	_	10	discourse	_	_
+12	।	।	PUNCT	_	_	10	punct	_	_
+
+# sent_id = Bhootko_Katha-26
+# text = अनि एक दिन त उ जंगलमा गएर अनि खोटो , त्यो साल्लाको खोटो जम्मा पारेर , थुप्रो पारेर लिएर आएर अनि त्यो खोटो पगालेछ रे ।
+# original_text = अनि एक दिन त उ जंगलमा गएर अनि खोटो, त्यो साल्लाको खोटो जम्मा पारेर, थुप्रो पारेर लिएर आएर अनि त्यो खोटो पगालेछ रे।.
+# gloss = then one day EMPH 3L jungle-LOC go-CP then pitch DIST.L pine-GEN pitch all make-CP much make-CP take-CP come-CP then DIST.L pitch melt-PP2-3smL EVID
+# translation = Then one day he went to the forest and then pitch, he collected pitch from pines and got a whole lot of it and taking it and coming then he melted the pitch.
+1	अनि	अनि	CCONJ	_	_	24	cc	_	_
+2	एक	एक	NUM	_	NumType=Card	3	nummod	_	_
+3	दिन	दिन	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	obl	_	_
+4	त	त	PART	_	_	7	discourse	_	_
+5	उ	ऊ	PRON	_	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+6	जंगलमा	जंगल	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	7	obl	_	_
+7	गएर	जानु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	24	advcl	_	_
+8	अनि	अनि	CCONJ	_	_	15	cc	_	_
+9	खोटो	खोटो	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	15	obj	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	त्यो	त्यो	DET	_	Number=Sing|PronType=Dem	12	det	_	_
+12	साल्लाको	साल्ला	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	13	nmod:poss	_	_
+13	खोटो	खोटो	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	appos	_	_
+14	जम्मा	जम्मा	ADV	_	_	15	advmod	_	_
+15	पारेर	पारेर	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	24	advcl	_	_
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	थुप्रो	थुप्रो	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	18	obj	_	_
+18	पारेर	पारेर	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	24	advcl	_	_
+19	लिएर	लिनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	24	advcl	_	_
+20	आएर	आउनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	24	advcl	_	_
+21	अनि	अनि	CCONJ	_	_	24	cc	_	_
+22	त्यो	त्यो	DET	_	Number=Sing|PronType=Dem	23	det	_	_
+23	खोटो	खोटो	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	24	obj	_	_
+24	पगालेछ	पगलिनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+25	रे	रे	PART	_	_	24	discourse	_	_
+26	।	।	PUNCT	_	_	24	punct	_	_
+
+# sent_id = Bhootko_Katha-27
+# text = आगोमा पगालेरे अनि ठिक्का पारेर राखेछ रे ।
+# original_text = आगोमा पगालेरे अनि ठिक्का पारेर राखेछ रे।.
+# gloss = fire-LOC melt-CP then ready make-CP put-PP2-3smL EVID
+# translation = He melted it on a fire then made it ready and put it aside.
+1	आगोमा	आगो	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	2	obl	_	_
+2	पगालेरे	पगाल्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	6	advcl	_	_
+3	अनि	अनि	CCONJ	_	_	6	cc	_	_
+4	ठिक्का	ठिक्का	ADV	_	_	5	advmod	_	_
+5	पारेर	पार्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	6	advcl	_	_
+6	राखेछ	राख्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	रे	रे	PART	_	_	6	discourse	_	_
+8	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = Bhootko_Katha-28
+# text = अनि सधैं यस्तो त्यस आएर त्यस्तै नै फेरि दोह्र्याएछ रे , त्यही कुरा ।
+# original_text = अनि सधैं यस्तो त्यस आएर त्यस्तै नै फेरि दोह्र्याएछ रे, त्यही कुरा।.
+# gloss = then always like.this that come-CP like.that EMPH again repeat-PP2-3smL EVID that.very thing
+# translation = Then he always came like this, and again he repeated that very thing like that.
+1	अनि	अनि	CCONJ	_	_	9	cc	_	_
+2	सधैं	सधैं	ADV	_	_	9	advmod	_	_
+3	यस्तो	यस्तो	ADV	_	_	9	advmod	_	_
+4	त्यस	त्यो	DET	_	Number=Sing|PronType=Dem	5	det	_	_
+5	आएर	आउनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	9	advcl	_	_
+6	त्यस्तै	त्यस्तै	ADV	_	_	9	advmod	_	_
+7	नै	नै	PART	_	_	9	discourse	_	_
+8	फेरि	फेरि	ADV	_	_	9	advmod	_	_
+9	दोह्र्याएछ	दोहोर्याउनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	रे	रे	PART	_	_	9	discourse	_	_
+11	,	,	PUNCT	_	_	9	punct	_	_
+12	त्यही	त्यही	DET	_	Number=Sing|PronType=Dem	13	det	_	_
+13	कुरा	कुरा	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	9	obj	_	_
+14	।	।	PUNCT	_	_	9	punct	_	_
+
+# sent_id = Bhootko_Katha-29
+# text = " घ्यू घस्दे " भनेर अनि त्यसपछि " ल " भनेर , बेस्मारी त्यो खोटो दल्दिछ रे ।
+# original_text = "घ्यू घस्दे" भनेर अनि त्यसपछि "ल" भनेर, बेस्मारी त्यो खोटो दल्दिछ रे।.
+# gloss = ghee rub-give(IMP.L) say-CP then that after ok say-CP strongly DIST.L pitch rub-PP2-3smL EVID
+# translation = "Rub the ghee on me" he said, then after that, he said "Ok" and he firmly rubbed on the pitch.
+1	"	"	PUNCT	_	_	3	punct	_	_
+2	घ्यू	घ्यू	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+3	घस्दे	घस्नु	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+4	"	"	PUNCT	_	_	3	punct	_	_
+5	भनेर	भन्नु	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=3|Tense=Pres|VerbForm=Conv	16	advcl	_	_
+6	अनि	अनि	CCONJ	_	_	16	cc	_	_
+7	त्यसपछि	त्यसपछि	ADV	_	_	16	advmod	_	_
+8	"	"	PUNCT	_	_	11	punct	_	_
+9	ल	ल	PART	_	_	11	ccomp	_	_
+10	"	"	PUNCT	_	_	11	punct	_	_
+11	भनेर	भन्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	16	advcl	_	_
+12	,	,	PUNCT	_	_	11	punct	_	_
+13	बेस्मारी	बेस्मारी	ADV	_	_	16	advmod	_	_
+14	त्यो	त्यो	DET	_	Number=Sing|PronType=Dem	15	det	_	_
+15	खोटो	खोटो	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	16	obj	_	_
+16	दल्दिछ	दल्नु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+17	रे	रे	PART	_	_	16	discourse	_	_
+18	।	।	PUNCT	_	_	16	punct	_	_
+
+# sent_id = Bhootko_Katha-30
+# text = अनि दल्द्या त त्यो मान्छे त त्यो मान्छेले त सधैं केरे आगो , आगनाको आगो निकालेर सधैं " कतिको लाग्यो कि लागेन " भनेर हेर्थ्यो रे ।
+# original_text = अनि दल्द्या त त्यो मान्छे त त्यो मान्छेले त सधैं केरे आगो, आगनाको आगो निकालेर सधैं "कतिको लाग्यो कि लागेन" भनेर हेर्थ्यो रे।.
+# gloss = then rub-PP EMPH DIST.L man EMPH DIST.L man-ERG EMPH always PRT fire fireplace-GEN fire take.out-CP always how.much-GEN stick-3smL.PST or stick-NEG.3smL.PST say-CP look-3smL.PSTHAB EVID
+# translation = Then rubbing the man, the man used to always take out fire from the fireplace and would always look to see how much stuck or didn’t stick.
+1	अनि	अनि	CCONJ	_	_	25	cc	_	_
+2	दल्द्या	दल्नु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Part	25	advcl	_	_
+3	त	त	PART	_	_	5	discourse	_	_
+4	त्यो	त्यो	DET	_	Number=Sing|PronType=Dem	5	det	_	_
+5	मान्छे	मान्छे	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	dislocated	_	_
+6	त	त	PART	_	_	5	discourse	_	_
+7	त्यो	त्यो	DET	_	Number=Sing|PronType=Dem	8	det	_	_
+8	मान्छेले	मान्छे	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	25	nsubj	_	_
+9	त	त	PART	_	_	8	discourse	_	_
+10	सधैं	सधैं	ADV	_	_	25	advmod	_	_
+11	केरे	केरे	PART	_	_	25	discourse	_	_
+12	आगो	आगो	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	15	compound	_	_
+13	,	,	PUNCT	_	_	12	punct	_	_
+14	आगनाको	आगना	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	15	nmod:poss	_	_
+15	आगो	आगो	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	16	obj	_	_
+16	निकालेर	निकाल्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	25	advcl	_	_
+17	सधैं	सधैं	ADV	_	_	25	advmod	_	_
+18	"	"	PUNCT	_	_	20	punct	_	_
+19	कतिको	कति	ADV	_	_	20	advmod	_	_
+20	लाग्यो	लाग्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	ccomp	_	_
+21	कि	कि	PART	_	_	22	cc	_	_
+22	लागेन	लाग्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Part	20	conj	_	_
+23	"	"	PUNCT	_	_	20	punct	_	_
+24	भनेर	भन्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	25	advcl	_	_
+25	हेर्थ्यो	हेर्नु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+26	रे	रे	PART	_	_	25	discourse	_	_
+27	।	।	PUNCT	_	_	25	punct	_	_
+
+# sent_id = Bhootko_Katha-31
+# text = अनि त्यो ठाउँमा बिजुली थिएन ।
+# original_text = अनि त्यो ठाउँमा बिजुली थिएन।.
+# gloss = then DIST.L place-LOC electricity be.PST-NEG.3smL
+# translation = Then there was no electricity in that place.
+1	अनि	अनि	CCONJ	_	_	5	cc	_	_
+2	त्यो	त्यो	DET	_	Number=Sing|PronType=Dem	3	det	_	_
+3	ठाउँमा	ठाउँ	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	5	obl	_	_
+4	बिजुली	बिजुली	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	_
+5	थिएन	हो	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	_
+6	।	।	PUNCT	_	_	5	punct	_	_
+
+# sent_id = Bhootko_Katha-32
+# text = त्यो आगोले हेर्नु पर्ने ।
+# original_text = त्यो आगोले हेर्नु पर्ने।.
+# gloss = DIST.L fire-INST look-INF must-IP
+# translation = He must look using that fire.
+1	त्यो	त्यो	DET	_	Number=Sing|PronType=Dem	2	det	_	_
+2	आगोले	आगो	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	3	obl	_	_
+3	हेर्नु	हेर्नु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	पर्ने	पर्ने	VERB	_	Aspect=Imp|Mood=Nec|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	xcomp	_	_
+5	।	।	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Bhootko_Katha-33
+# text = त्यसरी हेरे रे ।
+# original_text = त्यसरी हेरे रे।.
+# gloss = like.that look-3smM.PST EVID
+# translation = He looked in that way.
+1	त्यसरी	त्यसरी	ADV	_	_	2	advmod	_	_
+2	हेरे	हेर्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	रे	रे	PART	_	_	2	discourse	_	_
+4	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Bhootko_Katha-34
+# text = अनि उसको पालो , त्यही आगोले त्यहाँ सल्काइ दिएछ रे ।
+# original_text = अनि उसको पालो, त्यही आगोले त्यहाँ सल्काइ दिएछ रे।.
+# gloss = then 3L.GEN turn that fire-INST there ignite-AXL give-PP2-3smL EVID
+# translation = Then his revenge, with that fire he ignited him.
+1	अनि	अनि	CCONJ	_	_	9	cc	_	_
+2	उसको	ऊ	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
+3	पालो	पालो	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	dislocated	_	_
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	त्यही	त्यही	DET	_	Number=Sing|PronType=Dem	6	det	_	_
+6	आगोले	आगो	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	9	obl	_	_
+7	त्यहाँ	त्यहाँ	ADV	_	_	9	advmod	_	_
+8	सल्काइ	सल्काउनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	9	advcl	_	_
+9	दिएछ	दिनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+10	रे	रे	PART	_	_	9	discourse	_	_
+11	।	।	PUNCT	_	_	9	punct	_	_
+
+# sent_id = Bhootko_Katha-35
+# text = अनि त्यो खोटोमा आगो लागे पछि बेस्मारी बल्छ ।
+# original_text = अनि त्यो खोटोमा आगो लागे पछि बेस्मारी बल्छ।.
+# gloss = then DIST.L pitch-LOC fire touch-PP2 after strongly burn-3smL.PR
+# translation = Then after he touched the fire to the pitch, he strongly flames up.
+1	अनि	अनि	CCONJ	_	_	8	cc	_	_
+2	त्यो	त्यो	DET	_	Number=Sing|PronType=Dem	3	det	_	_
+3	खोटोमा	खोटो	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	8	obl	_	_
+4	आगो	आगो	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	obj	_	_
+5	लागे	लाग्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Part	8	advcl	_	_
+6	पछि	पछि	ADV	_	_	8	advmod	_	_
+7	बेस्मारी	बेस्मारी	ADV	_	_	8	advmod	_	_
+8	बल्छ	बल्नु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	।	।	PUNCT	_	_	8	punct	_	_
+
+# sent_id = Bhootko_Katha-36
+# text = अनि ह्वार-ह्वार बलेछ रे ।
+# original_text = अनि ह्वार-ह्वार बलेछ रे।.
+# gloss = then onom.-REDUP burn-PP2-3smL EVID
+# translation = Then the fire burned "hwaar-hwaar".
+1	अनि	अनि	CCONJ	_	_	3	cc	_	_
+2	ह्वार-ह्वार	ह्वार	ADV	_	_	3	advmod	_	_
+3	बलेछ	बल्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	रे	रे	PART	_	_	3	discourse	_	_
+5	।	।	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Bhootko_Katha-37
+# text = त्यसपछि त्यहाँबाट भागेछ रे ।
+# original_text = त्यसपछि त्यहाँबाट भागेछ रे।.
+# gloss = that after there ABL flee-PP2-3smL EVID
+# translation = Then after that, he ran away from there.
+1	त्यसपछि	त्यसपछि	ADV	_	_	3	advmod	_	_
+2	त्यहाँबाट	त्यहाँ	ADV	_	_	3	obl	_	_
+3	भागेछ	भाग्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	रे	रे	PART	_	_	3	discourse	_	_
+5	।	।	PUNCT	_	_	3	punct	_	_
+
+# sent_id = Bhootko_Katha-38
+# text = " ल है आजदेखि धारा पानीको भुत लाग्दैन । अब कसैलाई पनि धारा पानीको भुत लाग्दैन । "
+# original_text = "ल है आजदेखि धारा पानीको भुत लाग्दैन। अब कसैलाई पनि धारा पानीको भुत लाग्दैन।".
+# gloss = well EXCL today from spring water-GEN ghost possess-NEG.3smL.PR now someone-DAT also spring water-GEN ghost possess-NEG.3smL.PR
+# translation = "From today the Springwater ghost will not possess anyone. Now nobody will be possessed by the Springwater ghost."
+1	"	"	PUNCT	_	_	16	punct	_	_
+2	ल	ल	INTJ	_	_	8	discourse	_	_
+3	है	है	PART	_	_	8	discourse	_	_
+4	आजदेखि	आजदेखि	ADV	_	_	8	advmod	_	_
+5	धारा	धारा	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	compound	_	_
+6	पानीको	पानी	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	7	nmod:poss	_	_
+7	भुत	भुत	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	obj	_	_
+8	लाग्दैन	लाग्नु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	16	parataxis	_	_
+9	।	।	PUNCT	_	_	8	punct	_	_
+10	अब	अब	ADV	_	_	16	advmod	_	_
+11	कसैलाई	कसै	PRON	_	Case=Dat|Number=Sing|PronType=Prs	16	iobj	_	_
+12	पनि	पनि	PART	_	_	16	discourse	_	_
+13	धारा	धारा	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	14	compound	_	_
+14	पानीको	पानी	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	15	nmod:poss	_	_
+15	भुत	भुत	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	16	obj	_	_
+16	लाग्दैन	लाग्नु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	_
+17	।	।	PUNCT	_	_	16	punct	_	_
+18	"	"	PUNCT	_	_	16	punct	_	_
+
+# sent_id = Bhootko_Katha-39
+# text = भन्दै त्यहाँबाट कराउँदै रुदै कराउँदै भागेछ रे ।
+# original_text = भन्दै त्यहाँबाट कराउँदै रुदै कराउँदै भागेछ रे।.
+# gloss = say-SP there ABL cry.out-SP cry-SP cry.out-SP flee-PP2-3smL EVID
+# translation = He said that and he ran away from there screaming and crying and screaming.
+1	भन्दै	भन्नु	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Conv	6	advcl	_	_
+2	त्यहाँबाट	त्यहाँ	ADV	_	_	6	advmod	_	_
+3	कराउँदै	कराउनु	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Conv	6	advcl	_	_
+4	रुदै	रुनु	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Conv	6	advcl	_	_
+5	कराउँदै	कराउनु	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Conv	6	advcl	_	_
+6	भागेछ	भाग्नु	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	रे	रे	PART	_	_	6	discourse	_	_
+8	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = Bhootko_Katha-40
+# text = अनि भागेर त्यहाँबाट कराउँदै कराउँदै भागेछ रे ।
+# original_text = अनि भागेर त्यहाँबाट कराउँदै कराउँदै भागेछ रे।.
+# gloss = then flee-CP there-ABL cry.out-SP cry.out-SP flee-PP2-3smL EVID
+# translation = Then running away screaming, screaming he ran away from there.
+1	अनि	अनि	CCONJ	_	_	6	cc	_	_
+2	भागेर	भाग्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	6	advcl	_	_
+3	त्यहाँबाट	त्यहाँ	ADV	_	_	6	advmod	_	_
+4	कराउँदै	कराउनु	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Conv	6	advcl	_	_
+5	कराउँदै	कराउनु	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Conv	4	compound:redup	_	_
+6	भागेछ	भाग्नु	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	रे	रे	PART	_	_	6	discourse	_	_
+8	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = Bhootko_Katha-41
+# text = भागेछ रे ।
+# original_text = भागेछ रे।.
+# gloss = flee-PP2-3smL EVID
+# translation = And ran.
+1	भागेछ	भाग्नु	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	रे	रे	PART	_	_	1	discourse	_	_
+3	।	।	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Bhootko_Katha-42
+# text = भागेछ रे ।
+# original_text = भागेछ रे।.
+# gloss = flee-PP2-3smL EVID
+# translation = And ran.
+1	भागेछ	भाग्नु	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	रे	रे	PART	_	_	1	discourse	_	_
+3	।	।	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Bhootko_Katha-43
+# text = भागेछ रे ।
+# original_text = भागेछ रे।.
+# gloss = flee-PP2-3smL EVID
+# translation = And ran.
+1	भागेछ	भाग्नु	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	रे	रे	PART	_	_	1	discourse	_	_
+3	।	।	PUNCT	_	_	1	punct	_	_
+
+# sent_id = Bhootko_Katha-44
+# text = अनि त्यसपछि पर एउटा डाँडाको फेदीमा चाहिँ एउटा खड्केरिरहा भन्ने ठाउँ थियो रे ।
+# original_text = अनि त्यसपछि पर एउटा डाँडाको फेदीमा चाहिँ एउटा खड्केरिरहा भन्ने ठाउँ थियो रे।.
+# gloss = then that after faaar.away one hill-GEN base-LOC EMPH one KhaDkeriraha say-IP place be.PST-3smL.PST EVID
+# translation = Then after that, far, far away at the base of a hill, there was a place called KhaDkeriraha.
+1	अनि	अनि	CCONJ	_	_	12	cc	_	_
+2	त्यसपछि	त्यसपछि	ADV	_	_	12	advmod	_	_
+3	पर	पर	ADV	_	_	12	advmod	_	_
+4	एउटा	एउटा	NUM	_	NumType=Card	5	nummod	_	_
+5	डाँडाको	डाँडा	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	_
+6	फेदीमा	फेदी	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	12	obl	_	_
+7	चाहिँ	चाहिँ	PART	_	_	12	discourse	_	_
+8	एउटा	एउटा	NUM	_	NumType=Card	9	nummod	_	_
+9	खड्केरिरहा	खड्केरिरहा	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
+10	भन्ने	भन्नु	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl	_	_
+11	ठाउँ	ठाउँ	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	9	appos	_	_
+12	थियो	हुनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+13	रे	रे	PART	_	_	12	discourse	_	_
+14	।	।	PUNCT	_	_	12	punct	_	_
+
+# sent_id = Bhootko_Katha-45
+# text = अनि त्यो खड्केरिरहाको भुतहरूले चाहिँ कराएछ रे ।
+# original_text = अनि त्यो खड्केरिरहाको भुतहरूले चाहिँ कराएछ रे।.
+# gloss = then DIST.L KhaDkeriraha-GEN ghost-PL-ERG EMPH cry.out-PP2-3smL EVID
+# translation = Then the ghosts of Khadkeriraha cried out.
+1	अनि	अनि	CCONJ	_	_	6	cc	_	_
+2	त्यो	त्यो	DET	_	Number=Sing|PronType=Dem	3	det	_	_
+3	खड्केरिरहाको	खड्केरिरहा	PROPN	_	Case=Gen|Gender=Neut|Number=Sing	4	nmod:poss	_	_
+4	भुतहरूले	भुत	NOUN	_	Case=Erg|Gender=Neut|Number=Plur	6	nsubj	_	_
+5	चाहिँ	चाहिँ	PART	_	_	6	discourse	_	_
+6	कराएछ	कराउनु	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	रे	रे	PART	_	_	6	discourse	_	_
+8	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = Bhootko_Katha-46
+# text = " खड्केरिरहामा हाम्फाल " भनेको , होइन हो कि ?
+# original_text = "खड्केरिरहामा हाम्फाल" भनेको, होइन हो कि?
+# gloss = KhaDkeriraha-LOC jump(IMP.L) say-PP be1.NEG.3smL be1.3smL or
+# translation = They said "Jump in KhaDkeri Pond", isn’t that right?
+1	"	"	PUNCT	_	_	3	punct	_	_
+2	खड्केरिरहामा	खड्केरिरहा	PROPN	_	Case=Loc|Gender=Neut|Number=Sing	3	obl	_	_
+3	हाम्फाल	हाम्फाल्नु	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	ccomp	_	_
+4	"	"	PUNCT	_	_	3	punct	_	_
+5	भनेको	भन्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Part	0	root	_	_
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	होइन	हो	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
+8	हो	हो	PART	_	_	7	discourse	_	_
+9	कि	कि	PART	_	_	7	discourse	_	_
+10	?	?	PUNCT	_	_	7	punct	_	_
+
+# sent_id = Bhootko_Katha-47
+# text = खड्केरिरहाको भुतहरू चाहिँ कराएछ रे ।
+# original_text = खड्केरिरहाको भुतहरू चाहिँ कराएछ रे।.
+# gloss = KhaDkeriraha-GEN ghost-PL EMPH cry.out-PP2-3smL EVID
+# translation = The ghosts of Khadkeriraha cried out.
+1	खड्केरिरहाको	खड्केरिरहा	PROPN	_	Case=Gen|Gender=Neut|Number=Sing	2	nmod:poss	_	_
+2	भुतहरू	भुत	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	_
+3	चाहिँ	चाहिँ	PART	_	_	4	discourse	_	_
+4	कराएछ	कराउनु	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+5	रे	रे	PART	_	_	4	discourse	_	_
+6	।	।	PUNCT	_	_	4	punct	_	_
+
+# sent_id = Bhootko_Katha-48
+# text = " काली गन्डकीमा हाम्फाल हाम्फाल " भनेछ रे ।
+# original_text = "काली गन्डकीमा हाम्फाल हाम्फाल" भनेछ रे।.
+# gloss = Kaali Gandaki-LOC jump(IMP.L) jump(IMP.L) say-PP2-3smL EVID
+# translation = They said "Jump, jump in the Kaali Gandaki (river)".
+1	"	"	PUNCT	_	_	4	punct	_	_
+2	काली	काली	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	4	obl	_	_
+3	गन्डकीमा	गन्डकी	PROPN	_	Case=Loc|Gender=Neut|Number=Sing	2	flat:name	_	_
+4	हाम्फाल	हाम्फाल्नु	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
+5	हाम्फाल	हाम्फाल	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	compound:redup	_	_
+6	"	"	PUNCT	_	_	4	punct	_	_
+7	भनेछ	भन्नु	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	रे	रे	PART	_	_	7	discourse	_	_
+9	।	।	PUNCT	_	_	7	punct	_	_
+
+# sent_id = Bhootko_Katha-49
+# text = अनि उ चाहिँ त्यही काली गन्डकीमा हाम्फालेछ रे ।
+# original_text = अनि उ चाहिँ त्यही काली गन्डकीमा हाम्फालेछ रे।.
+# gloss = then 3L EMPH there Kaali Gandaki-LOC jump-PP2-3smL EVID
+# translation = Then he jumped there in the Kaali Gandaki.
+1	अनि	अनि	CCONJ	_	_	7	cc	_	_
+2	उ	ऊ	PRON	_	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+3	चाहिँ	चाहिँ	PART	_	_	7	discourse	_	_
+4	त्यही	त्यही	DET	_	PronType=Dem	5	det	_	_
+5	काली	काली	PROPN	_	Case=Nom|Gender=Neut|Number=Sing	7	obl	_	_
+6	गन्डकीमा	गन्डकी	PROPN	_	Case=Loc|Gender=Neut|Number=Sing	5	flat:name	_	_
+7	हाम्फालेछ	हाम्फाल्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+8	रे	रे	PART	_	_	7	discourse	_	_
+9	।	।	PUNCT	_	_	7	punct	_	_
+
+# sent_id = Bhootko_Katha-50
+# text = अनि त्यसपछि त्यो भुत चाहिँ हाम्फालेछ रे ।
+# original_text = अनि त्यसपछि त्यो भुत चाहिँ हाम्फालेछ रे।.
+# gloss = then DIST.L after DIST.L ghost EMPH jump-PP2-3smL EVID
+# translation = Then after that the ghost jumped.
+1	अनि	अनि	CCONJ	_	_	6	cc	_	_
+2	त्यसपछि	त्यसपछि	ADV	_	_	6	advmod	_	_
+3	त्यो	त्यो	PRON	_	Number=Sing|PronType=Dem	4	det	_	_
+4	भुत	भुत	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+5	चाहिँ	चाहिँ	PART	_	_	6	discourse	_	_
+6	हाम्फालेछ	हामफाल्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	रे	रे	PART	_	_	6	discourse	_	_
+8	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = Bhootko_Katha-51
+# text = अनि सेलाएछ रे ।
+# original_text = अनि सेलाएछ रे।.
+# gloss = then extinguish-PP2-3smL EVID
+# translation = Then he was extinguished.
+1	अनि	अनि	CCONJ	_	_	2	cc	_	_
+2	सेलाएछ	सेलाउनु	VERB	_	Aspect=Perf|Evident=Nfh|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+3	रे	रे	PART	_	_	2	discourse	_	_
+4	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = Bhootko_Katha-52
+# text = सिद्धयो ।
+# original_text = सिद्धयो।.
+# gloss = finish-3smL.PST
+# translation = It is finished.
+1	सिद्धयो	सिद्धिनु﻿	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+2	।	।	PUNCT	_	_	1	punct	_	_
+
+# sent_id = rights_or_duties-1
+# original_text = कर्तव्य अधिकारभन्दा महान् छ ।
+# translation = Duty is greater than rights.
+# text = कर्तव्य अधिकारभन्दा महान् छ ।
+1	कर्तव्य	कर्तव्य	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	_
+2	अधिकारभन्दा	अधिकार	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	3	obl	_	_
+3	महान्	महान्	ADJ	_	_	0	root	_	_
+4	छ	हुनु	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+5	।	।	PUNCT	_	_	3	punct	_	_
+
+# sent_id = rights_or_duties-2
+# original_text = हाम्रो पूर्वीय ग्रन्थमा कर्तव्यका बारेमा व्यक्त भएका गहन विचारले समेत यस कुरालाई पुष्टि गर्छन् ।
+# translation = The profound thoughts expressed in our Eastern scriptures also support this idea about duty.
+# text = हाम्रो पूर्वीय ग्रन्थमा कर्तव्यका बारेमा व्यक्त भएका गहन विचारले समेत यस कुरालाई पुष्टि गर्छन् ।
+1	हाम्रो	हाम्रो	PRON	_	Number=Plur|Person=1|PronType=Prs	3	nmod:poss	_	_
+2	पूर्वीय	पूर्वीय	ADJ	_	_	3	amod	_	_
+3	ग्रन्थमा	ग्रन्थ	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	6	obl	_	_
+4	कर्तव्यका	कर्तव्य	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	5	nmod:poss	_	_
+5	बारेमा	बारे	ADP	_	_	6	obl	_	_
+6	व्यक्त	व्यक्त	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Part	9	acl	_	_
+7	भएका	हुनु	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Part	6	aux	_	_
+8	गहन	गहन	ADJ	_	_	9	amod	_	_
+9	विचारले	विचार	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	14	nsubj	_	_
+10	समेत	समेत	ADV	_	_	14	advmod	_	_
+11	यस	यस	DET	_	PronType=Dem	12	det	_	_
+12	कुरालाई	कुरा	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	iobj	_	_
+13	पुष्टि	पुष्टि	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	obj	_	_
+14	गर्छन्	गर्नु	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+15	।	।	PUNCT	_	_	14	punct	_	_
+
+# sent_id = rights_or_duties-3
+# original_text = नीतिश्लोकमा भनिएको छ, "न्याययतेन द्रव्यम् कर्तव्यम् पारलौकिकम्।" अर्थात न्यायपूर्ण रूपमा आर्जन गरिएको धनबाट पारलौकिक कर्तव्य गर्नुपर्छ ।
+# translation = The Nītishloka states, “We must earn wealth righteously and perform our spiritual duties.” that means, one should fulfill spiritual duties using wealth earned through just means.
+# text = नीतिश्लोकमा भनिएको छ , " न्याययतेन द्रव्यम् कर्तव्यम् पारलौकिकम् । " अर्थात न्यायपूर्ण रूपमा आर्जन गरिएको धनबाट पारलौकिक कर्तव्य गर्नुपर्छ ।
+1	नीतिश्लोकमा	नीतिश्लोक	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	2	obl	_	_
+2	भनिएको	भन्नु	VERB	_	Aspect=Perf|Mood=Ind|Person=3|Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	_
+3	छ	छ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+4	,	,	PUNCT	_	_	2	punct	_	_
+5	"	"	PUNCT	_	_	8	punct	_	_
+6	न्याययतेन	-	X	_	_	8	dep	_	_
+7	द्रव्यम्	-	X	_	_	8	dep	_	_
+8	कर्तव्यम्	-	X	_	Foreign=Yes	2	ccomp	_	_
+9	पारलौकिकम्	-	X	_	_	8	dep	_	_
+10	।	।	PUNCT	_	_	8	punct	_	_
+11	"	"	PUNCT	_	_	8	punct	_	_
+12	अर्थात	अर्थात	ADV	_	_	20	discourse	_	_
+13	न्यायपूर्ण	न्यायपूर्ण	ADJ	_	_	14	amod	_	_
+14	रूपमा	रूप	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	20	obl	_	_
+15	आर्जन	अर्जनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Part	17	acl	_	_
+16	गरिएको	गर्नु	VERB	_	Aspect=Perf|VerbForm=Part|Voice=Pass	15	acl	_	_
+17	धनबाट	धन	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	20	obl	_	_
+18	पारलौकिक	पारलौकिक	ADJ	_	_	19	amod	_	_
+19	कर्तव्य	कर्तव्य	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	20	obj	_	_
+20	गर्नुपर्छ	गर्नु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+21	।	।	PUNCT	_	_	2	punct	_	_
+
+# sent_id = rights_or_duties-4
+# original_text = हेर्नुहोस् त, कर्तव्यबारे कति सारगर्भित कुरा छ यस कथनमा !
+# translation = Look, how meaningful this statement about duty is!
+# text = हेर्नुहोस् त , कर्तव्यबारे कति सारगर्भित कुरा छ यस कथनमा !
+1	हेर्नुहोस्	हेर्नु	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	त	त	PART	_	_	1	discourse	_	_
+3	,	,	PUNCT	_	_	1	punct	_	_
+4	कर्तव्यबारे	कर्तव्य	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	8	obl	_	_
+5	कति	कति	ADV	_	_	8	advmod	_	_
+6	सारगर्भित	सारगर्भित	ADJ	_	_	7	amod	_	_
+7	कुरा	कुरा	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	xcomp	_	_
+8	छ	हुनु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
+9	यस	यस	PRON	_	PronType=Dem	10	det	_	_
+10	कथनमा	कथन	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	7	obl	_	_
+11	!	!	PUNCT	_	_	1	punct	_	_
+
+# sent_id = rights_or_duties-5
+# original_text = द्रव्य वा धन न्यायिक तरिकाले वा कानुनी तरिकाले आर्जन गर्नुपर्छ र त्यसरी आर्जन गरिएको धनले नै असल कर्म गर्नुपर्छ ।
+# translation = Wealth must be earned through lawful and just means, and such wealth should be used for good deeds.
+# text = द्रव्य वा धन न्यायिक तरिकाले वा कानुनी तरिकाले आर्जन गर्नुपर्छ र त्यसरी आर्जन गरिएको धनले नै असल कर्म गर्नुपर्छ ।
+1	द्रव्य	द्रव्य	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+2	वा	वा	CCONJ	_	_	1	cc	_	_
+3	धन	धन	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	conj	_	_
+4	न्यायिक	न्यायिक	ADJ	_	_	5	amod	_	_
+5	तरिकाले	तरिका	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	10	obl	_	_
+6	वा	वा	CCONJ	_	_	5	cc	_	_
+7	कानुनी	कानुनी	ADJ	_	_	8	amod	_	_
+8	तरिकाले	तरिका	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	10	obl	_	_
+9	आर्जन	आर्जनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Part	10	xcomp	_	_
+10	गर्नुपर्छ	गर्नु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+11	र	र	CCONJ	_	_	10	cc	_	_
+12	त्यसरी	त्यसरी	ADV	_	_	13	advmod	_	_
+13	आर्जन	आर्जनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Part	15	acl	_	_
+14	गरिएको	गर्नु	VERB	_	Aspect=Perf|VerbForm=Part|Voice=Pass	13	acl	_	_
+15	धनले	धन	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	19	nsubj	_	_
+16	नै	नै	PART	_	_	15	discourse	_	_
+17	असल	असल	ADJ	_	_	18	amod	_	_
+18	कर्म	कर्म	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	19	obj	_	_
+19	गर्नुपर्छ	गर्नु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	parataxis	_	_
+20	।	।	PUNCT	_	_	10	punct	_	_
+
+# sent_id = rights_or_duties-6
+# original_text = गैरकानुनी क्रियाकलापबाट आर्जन गरिएको सम्पत्ति खर्चेर आर्जन गरेको धर्मको त फल पनि प्राप्त नहुने रहेछ ।
+# translation = Even the fruits of religion earned by spending wealth acquired through illegal activities will not be reaped.
+# text = गैरकानुनी क्रियाकलापबाट आर्जन गरिएको सम्पत्ति खर्चेर आर्जन गरेको धर्मको त फल पनि प्राप्त नहुने रहेछ ।
+1	गैरकानुनी	गैरकानुनी	ADJ	_	_	2	amod	_	_
+2	क्रियाकलापबाट	क्रियाकलाप	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	3	obl	_	_
+3	आर्जन	आर्जनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Part	5	acl	_	_
+4	गरिएको	गर्नु	VERB	_	Aspect=Perf|VerbForm=Part|Voice=Pass	3	acl	_	_
+5	सम्पत्ति	सम्पत्ति	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	obl	_	_
+6	खर्चेर	खर्चनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Conv	7	advcl	_	_
+7	आर्जन	आर्जनु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Part	9	acl	_	_
+8	गरेको	गर्नु	VERB	_	Aspect=Perf|VerbForm=Part	7	acl	_	_
+9	धर्मको	धर्म	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	11	nmod:poss	_	_
+10	त	त	PART	_	_	9	discourse	_	_
+11	फल	फल	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	15	nsubj	_	_
+12	पनि	पनि	PART	_	_	11	discourse	_	_
+13	प्राप्त	प्राप्त	VERB	_	_	15	xcomp	_	_
+14	नहुने	हुनु	VERB	_	VerbForm=Part	15	xcomp	_	_
+15	रहेछ	हुनु	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+16	।	।	PUNCT	_	_	15	punct	_	_
+
+# sent_id = rights_or_duties-7
+# original_text = यसबाट कर्तव्यको पवित्रता र पावनताको महानता प्रष्ट हुदैन र ?
+# translation = Doesn’t this clearly reveal the purity and sacred greatness of duty?
+# text = यसबाट कर्तव्यको पवित्रता र पावनताको महानता प्रष्ट हुदैन र ?
+1	यसबाट	यस	PRON	_	PronType=Dem	8	obl	_	_
+2	कर्तव्यको	कर्तव्य	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	3	nmod:poss	_	_
+3	पवित्रता	पवित्रता	NOUN	_	Number=Sing	8	nsubj	_	_
+4	र	र	CCONJ	_	_	3	cc	_	_
+5	पावनताको	पावनता	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	6	nmod:poss	_	_
+6	महानता	महानता	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	conj	_	_
+7	प्रष्ट	प्रष्ट	ADV	_	_	8	advmod	_	_
+8	हुदैन	हुनु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	_
+9	र	र	PART	_	_	8	discourse	_	_
+10	?	?	PUNCT	_	_	8	punct	_	_
+
+# sent_id = rights_or_duties-8
+# original_text = सारा उपनिषद्मध्ये सार मानिने गीतामा भनिएको छ, "कर्मण्येवाधिकारस्ते..." अर्थात आफ्ना हातमा कर्तव्य गर्ने जुन अधिकार छ त्यसलाई इमान्दारितापूर्वक पूरा गर्नुपर्छ ।
+# translation = In the Gita, considered the essence of all Upanishads, it is said, “You are entitled only to your duty...” meaning one must perform one’s duty sincerely.
+# text = सारा उपनिषद्हरूको सार मानिने गीतामा भनिएको छ , " कर्मण्येवाधिकारस्ते ... " अर्थात आफ्ना हातमा कर्तव्य गर्ने जुन अधिकार छ त्यसलाई इमान्दारितापूर्वक पूरा गर्नुपर्छ ।
+1	सारा	सारा	ADJ	_	_	2	amod	_	_
+2	उपनिषद्हरूको	उपनिषद्	NOUN	_	Case=Gen|Number=Plur	3	nmod	_	_
+3	सार	सार	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+4	मानिने	मान्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Part	3	acl	_	_
+5	गीतामा	गीता	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	6	obl	_	_
+6	भनिएको	भन्नु	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Part	0	root	_	_
+7	छ	छ	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+8	,	,	PUNCT	_	_	6	punct	_	_
+9	"	"	PUNCT	_	_	10	punct	_	_
+10	कर्मण्येवाधिकारस्ते	कर्मण्येवाधिकारस्ते	X	_	Foreign=Yes	6	parataxis	_	_
+11	...	...	PUNCT	_	_	10	punct	_	_
+12	"	"	PUNCT	_	_	10	punct	_	_
+13	अर्थात	अर्थात	ADV	_	_	24	discourse	_	_
+14	आफ्ना	आफ्नो	PRON	_	PronType=Prs|Reflex=Yes	15	nmod	_	_
+15	हातमा	हात	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	19	nmod	_	_
+16	कर्तव्य	कर्तव्य	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	17	obj	_	_
+17	गर्ने	गर्नु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Part	19	acl	_	_
+18	जुन	जुन	PRON	_	PronType=Rel	20	nsubj	_	_
+19	अधिकार	अधिकार	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	24	parataxis	_	_
+20	छ	हुनु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	_
+21	त्यसलाई	त्यस	PRON	_	PronType=Dem	24	iobj	_	_
+22	इमान्दारितापूर्वक	इमान्दारितापूर्वक	ADV	_	_	24	advmod	_	_
+23	पूरा	पूरा	ADV	_	_	24	advmod	_	_
+24	गर्नुपर्छ	गर्नु	VERB	_	Aspect=Imp|Mood=Nec|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	parataxis	_	_
+25	।	।	PUNCT	_	_	24	punct	_	_
+
+# sent_id = rights_or_duties-9
+# original_text = कर्तव्यप्रतीको निष्ठा , भक्ति वा उपासनाको सर्वोच्च रूप हो भन्ने विवेकान्नंद कर्तव्यलाई नै पूजा मान्छन् ।
+# translation = Vivekananda regarded devotion to duty itself as the highest form of worship.
+# text = कर्तव्यप्रतीको निष्ठा वा भक्ति उपासनाको सर्वोच्च रूप हो भन्ने विवेकान्नंद कर्तव्यलाई नै पूजा मान्छन् ।
+1	कर्तव्यप्रतीको	कर्तव्यप्रती	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	2	nmod:poss	_	_
+2	निष्ठा	निष्ठा	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	14	ccomp	_	_
+3	वा	वा	CCONJ	_	_	2	cc	_	_
+4	भक्ति	भक्ति	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	2	conj	_	_
+5	उपासनाको	उपासना	NOUN	_	Case=Gen|Number=Sing	7	nmod:poss	_	_
+6	सर्वोच्च	सर्वोच्च	ADJ	_	_	7	amod	_	_
+7	रूप	रूप	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	appos	_	_
+8	हो	हुनु	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
+9	भन्ने	भन्नु	VERB	_	VerbForm=Part	10	acl	_	_
+10	विवेकान्नंद	विवेकान्नंद	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	14	nsubj	_	_
+11	कर्तव्यलाई	कर्तव्य	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	14	iobj	_	_
+12	नै	नै	PART	_	_	14	discourse	_	_
+13	पूजा	पूजा	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	14	obj	_	_
+14	मान्छन्	मान्नु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+15	।	।	PUNCT	_	_	14	punct	_	_
+
+# sent_id = rights_or_duties-10
+# text = यस्तो पस्चात्य चिन्तकले पनि कर्तव्यको महानतालाई उदघाटित गरेका छन् ।
+# original_text = त्यस्तै पस्चात्य चिन्तकले पनि कर्तव्यको महानतालाई उदघाटित गरेका छन् ।
+# translation = Likewise, Western thinkers have also highlighted the greatness of duty.
+1	यस्तो	यस्तो	PRON	_	Number=Sing|PronType=Dem	3	det	_	_
+2	पस्चात्य	पस्चात्य	ADJ	_	_	3	amod	_	_
+3	चिन्तकले	चिन्तक	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	8	nsubj	_	_
+4	पनि	पनि	PART	_	_	3	discourse	_	_
+5	कर्तव्यको	कर्तव्य	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	nmod:poss	_	_
+6	महानतालाई	महानता	NOUN	_	_	8	iobj	_	_
+7	उदघाटित	उदघाटित	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Part	8	xcomp	_	_
+8	गरेका	गर्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	छन्	हुनु	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+10	।	।	PUNCT	_	_	8	punct	_	_
+
+# sent_id = rights_or_duties-11
+# text = जर्ज इलियटका कथनअनुसार कर्तव्यपालन गर्दै जाँदा कर्तव्य गर्ने ऊर्जाले मानिसलाई थप उत्प्रेरित गर्छ ।
+# original_text = एउटा कर्तव्यको इनामबाट  अर्को कर्तव्य पूरा  गर्ने  शक्ति प्राप्त हुन्छ भन्ने जर्ज  इलियटका कथनअनुसार कर्तव्यपालन  गर्दै जाँदा अरु  पनि कर्तव्य गर्ने ऊर्जाले मानिसलाई थप उत्प्रेरित गर्छ र त्येसतर्फ दौडिन उर्जा भर्छ ।
+# translation = According to George Eliot, the reward of one duty is the strength to perform another; fulfilling duty encourages a person to do even more, inspiring further effort.
+1	जर्ज	जर्ज	PROPN	_	Case=Nom|Gender=Masc|Number=Sing	3	nmod:poss	_	_
+2	इलियटका	इलियट	PROPN	_	Case=Gen|Gender=Masc|Number=Sing	1	flat:name	_	_
+3	कथनअनुसार	कथन	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	13	obl	_	_
+4	कर्तव्यपालन	कर्तव्यपालन	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	obj	_	_
+5	गर्दै	गर्नु	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Conv	6	advcl	_	_
+6	जाँदा	जानु	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Conv	13	advcl	_	_
+7	कर्तव्य	कर्तव्य	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	acl	_	_
+8	गर्ने	गर्ने	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Part	9	acl	_	_
+9	ऊर्जाले	ऊर्जा	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	13	nsubj	_	_
+10	मानिसलाई	मानिस	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	13	iobj	_	_
+11	थप	थप	ADV	_	_	13	advmod	_	_
+12	उत्प्रेरित	उत्प्रेरित	ADV	_	_	13	advmod	_	_
+13	गर्छ	गर्नु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+14	।	।	PUNCT	_	_	13	punct	_	_
+
+# sent_id = rights_or_duties-12
+# text = यसर्थ कर्तव्य नै मानिसलाई जीवनवादी बनाउँछ र मनमा सकारात्मक सोच पैदा गर्न प्रेरित गर्छ ।
+# original_text = यसर्थ कर्तव्य नै मानिसलाई जीवनवादी बनाउँछ र मनमा सकारात्मक सोच पैदा गर्न प्रेरित गर्छ ।
+# translation = Therefore, duty makes a person life-oriented and inspires positive thinking.
+1	यसर्थ	यसर्थ	ADV	_	_	6	advmod	_	_
+2	कर्तव्य	कर्तव्य	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+3	नै	नै	PART	_	_	2	discourse	_	_
+4	मानिसलाई	मानिस	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	6	obj	_	_
+5	जीवनवादी	जीवनवादी	ADJ	_	_	6	xcomp	_	_
+6	बनाउँछ	बनाउनु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	र	र	CCONJ	_	_	6	cc	_	_
+8	मनमा	मन	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	9	obl	_	_
+9	सकारात्मक	सकारात्मक	ADJ	_	_	10	amod	_	_
+10	सोच	सोच	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	obj	_	_
+11	पैदा	पैदा	ADV	_	_	12	advmod	_	_
+12	गर्न	गर्नु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Inf	14	advcl	_	_
+13	प्रेरित	प्रेरित	ADV	_	_	14	advmod	_	_
+14	गर्छ	गर्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+15	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = rights_or_duties-13
+# text = खुशी कर्तव्यको प्राकृतिक फूल हो ।
+# original_text = खुशी कर्तव्यको प्राकृतिक फूल  हो ।
+# translation = Happiness is the natural blossom of duty.
+1	खुशी	खुशी	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+2	कर्तव्यको	कर्तव्य	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	4	nmod:poss	_	_
+3	प्राकृतिक	प्राकृतिक	ADJ	_	_	4	amod	_	_
+4	फूल	फूल	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	xcomp	_	_
+5	हो	हो	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	।	।	PUNCT	_	_	5	punct	_	_
+
+# sent_id = rights_or_duties-14
+# text = कर्तव्यलाई बेवास्ता गर्दा सधैं असफल भइन्छ ।
+# original_text = कर्तव्य बेवास्ता गर्दा सधैं असफल भइन्छ ।
+# translation = Neglecting duty always leads to failure.
+1	कर्तव्यलाई	कर्तव्य	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	3	iobj	_	_
+2	बेवास्ता	बेवास्ता	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+3	गर्दा	गर्नु	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Conv	6	advcl	_	_
+4	सधैं	सधैं	ADV	_	_	6	advmod	_	_
+5	असफल	असफल	ADJ	_	_	6	xcomp	_	_
+6	भइन्छ	हुनु	VERB	_	Aspect=Imp|Mood=Ind|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	_
+7	।	।	PUNCT	_	_	6	punct	_	_
+
+# sent_id = rights_or_duties-15
+# text = कर्तव्य पालन गर्दा सधैं सफलताको अनुभूति हुन्छ ।
+# original_text = कर्तव्य पालन गर्दा सधैं सफलताको अनुभूति हुन्छ ।
+# translation = There is always a sense of success when one fulfills one's duty.
+1	कर्तव्य	कर्तव्य	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	_
+2	पालन	पालन	ADV	_	_	3	advmod	_	_
+3	गर्दा	गर्नु	VERB	_	Aspect=Prog|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Conv	7	advcl	_	_
+4	सधैं	सधैं	ADV	_	_	7	advmod	_	_
+5	सफलताको	सफलता	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	6	nmod:poss	_	_
+6	अनुभूति	अनुभूति	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	xcomp	_	_
+7	हुन्छ	हुनु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	।	।	PUNCT	_	_	7	punct	_	_
+
+# sent_id = rights_or_duties-16
+# original_text = यी महान् व्यक्तिका कथन आआफ्नो सङ्घर्सपूर्ण  जीवन भोगाइका क्रममा अनुभव  गरेका कुरा हुन् ।
+# translation = These statements from great individuals come from the experiences of their own challenging lives.
+# text = यी महान् व्यक्तिका कथन आआफ्नो सङ्घर्सपूर्ण जीवन भोगाइका क्रममा अनुभव गरेका कुरा हुन् ।
+1	यी	यी	PRON	_	PronType=Dem	4	det	_	_
+2	महान्	महान्	ADJ	_	_	3	amod	_	_
+3	व्यक्तिका	व्यक्ति	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	4	nmod:poss	_	_
+4	कथन	कथन	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	13	nsubj	_	_
+5	आआफ्नो	आआफ्नो	DET	_	PronType=Prs	7	det	_	_
+6	सङ्घर्सपूर्ण	सङ्घर्सपूर्ण	ADJ	_	_	7	amod	_	_
+7	जीवन	जीवन	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	compound	_	_
+8	भोगाइका	भोगाइ	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	9	nmod:poss	_	_
+9	क्रममा	क्रम	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	11	obl	_	_
+10	अनुभव	अनुभव	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	11	obj	_	_
+11	गरेका	गर्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Part	13	advcl	_	_
+12	कुरा	कुरा	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	13	xcomp	_	_
+13	हुन्	हुनु	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+14	।	।	PUNCT	_	_	13	punct	_	_
+
+# sent_id = rights_or_duties-17
+# text = यस्ता महान कथनभित्र कर्तव्य के हो र त्यो कतिको गहन छ भन्ने स्वतः पुष्टि हुन्छ ।
+# original_text = यस्ता महान कथनभित्र कर्तव्य के हो र त्यो कतिको गहन छ भन्ने स्वतः पुष्टि हुन्छ ।
+# translation = Such great statements automatically confirm what duty is and how profound it is.
+1	यस्ता	यस्ता	PRON	_	PronType=Dem	3	det	_	_
+2	महान	महान	ADJ	_	_	3	nmod:poss	_	_
+3	कथनभित्र	कथन	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	15	obl	_	_
+4	कर्तव्य	कर्तव्य	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+5	के	के	PRON	_	PronType=Int	6	obj	_	_
+6	हो	हो	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	ccomp	_	_
+7	र	र	CCONJ	_	_	11	cc	_	_
+8	त्यो	त्यो	PRON	_	Number=Sing|PronType=Dem	11	nsubj	_	_
+9	कतिको	कतिको	ADV	_	_	11	advmod	_	_
+10	गहन	गहन	ADJ	_	_	11	xcomp	_	_
+11	छ	छ	VERB	_	_	6	conj	_	_
+12	भन्ने	भन्नु	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Part	14	acl	_	_
+13	स्वतः	स्वतः	ADV	_	_	15	advmod	_	_
+14	पुष्टि	पुष्टि	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	15	nsubj	_	_
+15	हुन्छ	हुनु	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+16	।	।	PUNCT	_	_	15	punct	_	_
+

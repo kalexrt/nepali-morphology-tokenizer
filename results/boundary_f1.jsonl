@@ -1,0 +1,268 @@
+{"set": "silver_ud", "system": "tier_core", "P": 0.9737, "R": 0.8706, "F1": 0.9193, "exact": 0.8588, "n": 85}
+{"set": "silver_ud", "system": "tier_full", "P": 0.9747, "R": 0.9059, "F1": 0.939, "exact": 0.8941, "n": 85}
+{"set": "silver_ud", "system": "tier_gated", "P": 1.0, "R": 0.7176, "F1": 0.8356, "exact": 0.7176, "n": 85}
+{"set": "silver_ud", "system": "bpe_broken_16000", "P": 0.11, "R": 0.5412, "F1": 0.1829, "exact": 0.0, "n": 85}
+{"set": "silver_ud", "system": "bpe_fixed_16000", "P": 0.2973, "R": 0.2588, "F1": 0.2767, "exact": 0.1882, "n": 85}
+{"set": "silver_ud", "system": "bpe_core_16000", "P": 0.687, "R": 0.9294, "F1": 0.79, "exact": 0.6824, "n": 85}
+{"set": "silver_ud", "system": "bpe_full_16000", "P": 0.6903, "R": 0.9176, "F1": 0.7879, "exact": 0.6824, "n": 85}
+{"set": "silver_ud", "system": "bpe_gated_16000", "P": 0.6455, "R": 0.8353, "F1": 0.7282, "exact": 0.6824, "n": 85}
+{"set": "silver_hunspell", "system": "tier_core", "P": 0.466, "R": 0.2591, "F1": 0.333, "exact": 0.1899, "n": 3223}
+{"set": "silver_hunspell", "system": "tier_full", "P": 0.6826, "R": 0.7487, "F1": 0.7141, "exact": 0.4499, "n": 3223}
+{"set": "silver_hunspell", "system": "tier_gated", "P": 0.9221, "R": 0.2315, "F1": 0.37, "exact": 0.2259, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_broken_16000", "P": 0.0711, "R": 0.5306, "F1": 0.1254, "exact": 0.0, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_fixed_16000", "P": 0.2691, "R": 0.6603, "F1": 0.3823, "exact": 0.1291, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_core_16000", "P": 0.308, "R": 0.7679, "F1": 0.4397, "exact": 0.153, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_full_16000", "P": 0.354, "R": 0.875, "F1": 0.504, "exact": 0.1725, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_gated_16000", "P": 0.3165, "R": 0.7602, "F1": 0.4469, "exact": 0.2063, "n": 3223}
+{"set": "silver_ud", "system": "tier_core", "P": 0.9737, "R": 0.8706, "F1": 0.9193, "exact": 0.8588, "n": 85}
+{"set": "silver_ud", "system": "tier_full", "P": 0.9747, "R": 0.9059, "F1": 0.939, "exact": 0.8941, "n": 85}
+{"set": "silver_ud", "system": "tier_gated", "P": 1.0, "R": 0.7176, "F1": 0.8356, "exact": 0.7176, "n": 85}
+{"set": "silver_ud", "system": "fst_lex", "P": 0.9231, "R": 0.8471, "F1": 0.8834, "exact": 0.7882, "n": 85}
+{"set": "silver_ud", "system": "fst_hybrid", "P": 0.9222, "R": 0.9765, "F1": 0.9486, "exact": 0.9176, "n": 85}
+{"set": "silver_ud", "system": "bpe_broken_16000", "P": 0.11, "R": 0.5412, "F1": 0.1829, "exact": 0.0, "n": 85}
+{"set": "silver_ud", "system": "bpe_fixed_16000", "P": 0.2973, "R": 0.2588, "F1": 0.2767, "exact": 0.1882, "n": 85}
+{"set": "silver_ud", "system": "bpe_core_16000", "P": 0.687, "R": 0.9294, "F1": 0.79, "exact": 0.6824, "n": 85}
+{"set": "silver_ud", "system": "bpe_full_16000", "P": 0.6903, "R": 0.9176, "F1": 0.7879, "exact": 0.6824, "n": 85}
+{"set": "silver_ud", "system": "bpe_gated_16000", "P": 0.6455, "R": 0.8353, "F1": 0.7282, "exact": 0.6824, "n": 85}
+{"set": "silver_ud", "system": "bpe_fst_16000", "P": 0.6562, "R": 0.9882, "F1": 0.7887, "exact": 0.6941, "n": 85}
+{"set": "silver_hunspell", "system": "tier_core", "P": 0.466, "R": 0.2591, "F1": 0.333, "exact": 0.1899, "n": 3223}
+{"set": "silver_hunspell", "system": "tier_full", "P": 0.6826, "R": 0.7487, "F1": 0.7141, "exact": 0.4499, "n": 3223}
+{"set": "silver_hunspell", "system": "tier_gated", "P": 0.9221, "R": 0.2315, "F1": 0.37, "exact": 0.2259, "n": 3223}
+{"set": "silver_hunspell", "system": "fst_lex", "P": 0.687, "R": 0.4195, "F1": 0.5209, "exact": 0.2538, "n": 3223}
+{"set": "silver_hunspell", "system": "fst_hybrid", "P": 0.6826, "R": 0.7993, "F1": 0.7363, "exact": 0.4881, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_broken_16000", "P": 0.0711, "R": 0.5306, "F1": 0.1254, "exact": 0.0, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_fixed_16000", "P": 0.2691, "R": 0.6603, "F1": 0.3823, "exact": 0.1291, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_core_16000", "P": 0.3081, "R": 0.7676, "F1": 0.4397, "exact": 0.1536, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_full_16000", "P": 0.3542, "R": 0.875, "F1": 0.5042, "exact": 0.1734, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_gated_16000", "P": 0.3166, "R": 0.7608, "F1": 0.4471, "exact": 0.2073, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_fst_16000", "P": 0.3606, "R": 0.8957, "F1": 0.5142, "exact": 0.1846, "n": 3223}
+{"set": "gold_sheet", "system": "tier_core", "P": 0.7768, "R": 0.4163, "F1": 0.5421, "exact": 0.575, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.6722, "n": 607}}
+{"set": "gold_sheet", "system": "tier_full", "P": 0.7902, "R": 0.811, "F1": 0.8005, "exact": 0.7479, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.3773, "n": 607}}
+{"set": "gold_sheet", "system": "tier_gated", "P": 0.9057, "R": 0.689, "F1": 0.7826, "exact": 0.7759, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.5008, "n": 607}}
+{"set": "gold_sheet", "system": "fst_lex", "P": 0.9652, "R": 0.9282, "F1": 0.9463, "exact": 0.9341, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.4316, "n": 607}}
+{"set": "gold_sheet", "system": "fst_hybrid", "P": 0.9594, "R": 0.9617, "F1": 0.9606, "exact": 0.9489, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.4036, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_broken_16000", "P": 0.1028, "R": 0.6435, "F1": 0.1773, "exact": 0.028, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.0297, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_fixed_16000", "P": 0.2609, "R": 0.1866, "F1": 0.2176, "exact": 0.4135, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.631, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_core_16000", "P": 0.5025, "R": 0.4856, "F1": 0.4939, "exact": 0.5157, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.5058, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_full_16000", "P": 0.6185, "R": 0.8301, "F1": 0.7089, "exact": 0.6557, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.3295, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_gated_16000", "P": 0.649, "R": 0.7608, "F1": 0.7004, "exact": 0.7002, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.374, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_fst_16000", "P": 0.7714, "R": 0.9689, "F1": 0.859, "exact": 0.8435, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.3542, "n": 607}}
+{"set": "silver_ud", "system": "tier_core", "P": 0.9737, "R": 0.8706, "F1": 0.9193, "exact": 0.8588, "n": 85}
+{"set": "silver_ud", "system": "tier_full", "P": 0.9747, "R": 0.9059, "F1": 0.939, "exact": 0.8941, "n": 85}
+{"set": "silver_ud", "system": "tier_gated", "P": 1.0, "R": 0.7176, "F1": 0.8356, "exact": 0.7176, "n": 85}
+{"set": "silver_ud", "system": "fst_lex", "P": 0.9231, "R": 0.8471, "F1": 0.8834, "exact": 0.7882, "n": 85}
+{"set": "silver_ud", "system": "fst_hybrid", "P": 0.9222, "R": 0.9765, "F1": 0.9486, "exact": 0.9176, "n": 85}
+{"set": "silver_ud", "system": "bpe_fixed_8000", "P": 0.2947, "R": 0.3294, "F1": 0.3111, "exact": 0.2, "n": 85}
+{"set": "silver_ud", "system": "bpe_fst_8000", "P": 0.6222, "R": 0.9882, "F1": 0.7636, "exact": 0.6353, "n": 85}
+{"set": "silver_hunspell", "system": "tier_core", "P": 0.466, "R": 0.2591, "F1": 0.333, "exact": 0.1899, "n": 3223}
+{"set": "silver_hunspell", "system": "tier_full", "P": 0.6826, "R": 0.7487, "F1": 0.7141, "exact": 0.4499, "n": 3223}
+{"set": "silver_hunspell", "system": "tier_gated", "P": 0.9221, "R": 0.2315, "F1": 0.37, "exact": 0.2259, "n": 3223}
+{"set": "silver_hunspell", "system": "fst_lex", "P": 0.687, "R": 0.4195, "F1": 0.5209, "exact": 0.2538, "n": 3223}
+{"set": "silver_hunspell", "system": "fst_hybrid", "P": 0.6826, "R": 0.7993, "F1": 0.7363, "exact": 0.4881, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_fixed_8000", "P": 0.2296, "R": 0.6693, "F1": 0.3419, "exact": 0.0707, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_fst_8000", "P": 0.3088, "R": 0.8976, "F1": 0.4595, "exact": 0.0993, "n": 3223}
+{"set": "gold_sheet", "system": "tier_core", "P": 0.7768, "R": 0.4163, "F1": 0.5421, "exact": 0.575, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.6722, "n": 607}}
+{"set": "gold_sheet", "system": "tier_full", "P": 0.7902, "R": 0.811, "F1": 0.8005, "exact": 0.7479, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.3773, "n": 607}}
+{"set": "gold_sheet", "system": "tier_gated", "P": 0.9057, "R": 0.689, "F1": 0.7826, "exact": 0.7759, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.5008, "n": 607}}
+{"set": "gold_sheet", "system": "fst_lex", "P": 0.9652, "R": 0.9282, "F1": 0.9463, "exact": 0.9341, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.4316, "n": 607}}
+{"set": "gold_sheet", "system": "fst_hybrid", "P": 0.9594, "R": 0.9617, "F1": 0.9606, "exact": 0.9489, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.4036, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_fixed_8000", "P": 0.2061, "R": 0.2249, "F1": 0.2151, "exact": 0.3624, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.4843, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_fst_8000", "P": 0.6394, "R": 0.9713, "F1": 0.7711, "exact": 0.7315, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.2998, "n": 607}}
+{"set": "silver_ud", "system": "tier_core", "P": 0.9737, "R": 0.8706, "F1": 0.9193, "exact": 0.8588, "n": 85}
+{"set": "silver_ud", "system": "tier_full", "P": 0.9747, "R": 0.9059, "F1": 0.939, "exact": 0.8941, "n": 85}
+{"set": "silver_ud", "system": "tier_gated", "P": 1.0, "R": 0.7176, "F1": 0.8356, "exact": 0.7176, "n": 85}
+{"set": "silver_ud", "system": "fst_lex", "P": 0.9231, "R": 0.8471, "F1": 0.8834, "exact": 0.7882, "n": 85}
+{"set": "silver_ud", "system": "fst_hybrid", "P": 0.9222, "R": 0.9765, "F1": 0.9486, "exact": 0.9176, "n": 85}
+{"set": "silver_ud", "system": "bpe_fixed_32000", "P": 0.2857, "R": 0.1882, "F1": 0.227, "exact": 0.1765, "n": 85}
+{"set": "silver_ud", "system": "bpe_fst_32000", "P": 0.7411, "R": 0.9765, "F1": 0.8426, "exact": 0.7647, "n": 85}
+{"set": "silver_hunspell", "system": "tier_core", "P": 0.466, "R": 0.2591, "F1": 0.333, "exact": 0.1899, "n": 3223}
+{"set": "silver_hunspell", "system": "tier_full", "P": 0.6826, "R": 0.7487, "F1": 0.7141, "exact": 0.4499, "n": 3223}
+{"set": "silver_hunspell", "system": "tier_gated", "P": 0.9221, "R": 0.2315, "F1": 0.37, "exact": 0.2259, "n": 3223}
+{"set": "silver_hunspell", "system": "fst_lex", "P": 0.687, "R": 0.4195, "F1": 0.5209, "exact": 0.2538, "n": 3223}
+{"set": "silver_hunspell", "system": "fst_hybrid", "P": 0.6826, "R": 0.7993, "F1": 0.7363, "exact": 0.4881, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_fixed_32000", "P": 0.3157, "R": 0.6513, "F1": 0.4252, "exact": 0.2346, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_fst_32000", "P": 0.4204, "R": 0.8936, "F1": 0.5718, "exact": 0.2814, "n": 3223}
+{"set": "gold_sheet", "system": "tier_core", "P": 0.7768, "R": 0.4163, "F1": 0.5421, "exact": 0.575, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.6722, "n": 607}}
+{"set": "gold_sheet", "system": "tier_full", "P": 0.7902, "R": 0.811, "F1": 0.8005, "exact": 0.7479, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.3773, "n": 607}}
+{"set": "gold_sheet", "system": "tier_gated", "P": 0.9057, "R": 0.689, "F1": 0.7826, "exact": 0.7759, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.5008, "n": 607}}
+{"set": "gold_sheet", "system": "fst_lex", "P": 0.9652, "R": 0.9282, "F1": 0.9463, "exact": 0.9341, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.4316, "n": 607}}
+{"set": "gold_sheet", "system": "fst_hybrid", "P": 0.9594, "R": 0.9617, "F1": 0.9606, "exact": 0.9489, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.4036, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_fixed_32000", "P": 0.3036, "R": 0.122, "F1": 0.1741, "exact": 0.4217, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.7743, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_fst_32000", "P": 0.8783, "R": 0.9665, "F1": 0.9203, "exact": 0.9012, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.3822, "n": 607}}
+{"set": "silver_ud", "system": "tier_core", "P": 0.9737, "R": 0.8706, "F1": 0.9193, "exact": 0.8588, "n": 85}
+{"set": "silver_ud", "system": "tier_full", "P": 0.9747, "R": 0.9059, "F1": 0.939, "exact": 0.8941, "n": 85}
+{"set": "silver_ud", "system": "tier_gated", "P": 1.0, "R": 0.7176, "F1": 0.8356, "exact": 0.7176, "n": 85}
+{"set": "silver_ud", "system": "fst_lex", "P": 0.9231, "R": 0.8471, "F1": 0.8834, "exact": 0.7882, "n": 85}
+{"set": "silver_ud", "system": "fst_hybrid", "P": 0.9222, "R": 0.9765, "F1": 0.9486, "exact": 0.9176, "n": 85}
+{"set": "silver_ud", "system": "fst2_lex", "P": 0.9231, "R": 0.8471, "F1": 0.8834, "exact": 0.7882, "n": 85}
+{"set": "silver_ud", "system": "fst2_hybrid", "P": 0.9222, "R": 0.9765, "F1": 0.9486, "exact": 0.9176, "n": 85}
+{"set": "silver_ud", "system": "bpe_broken_16000", "P": 0.11, "R": 0.5412, "F1": 0.1829, "exact": 0.0, "n": 85}
+{"set": "silver_ud", "system": "bpe_fixed_16000", "P": 0.2973, "R": 0.2588, "F1": 0.2767, "exact": 0.1882, "n": 85}
+{"set": "silver_ud", "system": "bpe_core_16000", "P": 0.687, "R": 0.9294, "F1": 0.79, "exact": 0.6824, "n": 85}
+{"set": "silver_ud", "system": "bpe_full_16000", "P": 0.6903, "R": 0.9176, "F1": 0.7879, "exact": 0.6824, "n": 85}
+{"set": "silver_ud", "system": "bpe_gated_16000", "P": 0.6455, "R": 0.8353, "F1": 0.7282, "exact": 0.6824, "n": 85}
+{"set": "silver_ud", "system": "bpe_fst_16000", "P": 0.6562, "R": 0.9882, "F1": 0.7887, "exact": 0.6941, "n": 85}
+{"set": "silver_ud", "system": "bpe_fst2_16000", "P": 0.6562, "R": 0.9882, "F1": 0.7887, "exact": 0.6941, "n": 85}
+{"set": "silver_hunspell", "system": "tier_core", "P": 0.466, "R": 0.2591, "F1": 0.333, "exact": 0.1899, "n": 3223}
+{"set": "silver_hunspell", "system": "tier_full", "P": 0.6826, "R": 0.7487, "F1": 0.7141, "exact": 0.4499, "n": 3223}
+{"set": "silver_hunspell", "system": "tier_gated", "P": 0.9221, "R": 0.2315, "F1": 0.37, "exact": 0.2259, "n": 3223}
+{"set": "silver_hunspell", "system": "fst_lex", "P": 0.687, "R": 0.4195, "F1": 0.5209, "exact": 0.2538, "n": 3223}
+{"set": "silver_hunspell", "system": "fst_hybrid", "P": 0.6826, "R": 0.7993, "F1": 0.7363, "exact": 0.4881, "n": 3223}
+{"set": "silver_hunspell", "system": "fst2_lex", "P": 0.6904, "R": 0.4207, "F1": 0.5228, "exact": 0.2563, "n": 3223}
+{"set": "silver_hunspell", "system": "fst2_hybrid", "P": 0.6847, "R": 0.7993, "F1": 0.7376, "exact": 0.4905, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_broken_16000", "P": 0.0711, "R": 0.5306, "F1": 0.1254, "exact": 0.0, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_fixed_16000", "P": 0.2691, "R": 0.6603, "F1": 0.3823, "exact": 0.1291, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_core_16000", "P": 0.3081, "R": 0.7676, "F1": 0.4397, "exact": 0.1536, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_full_16000", "P": 0.3542, "R": 0.875, "F1": 0.5042, "exact": 0.1734, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_gated_16000", "P": 0.3166, "R": 0.7608, "F1": 0.4471, "exact": 0.2073, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_fst_16000", "P": 0.3606, "R": 0.8957, "F1": 0.5142, "exact": 0.1846, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_fst2_16000", "P": 0.3607, "R": 0.8961, "F1": 0.5143, "exact": 0.1846, "n": 3223}
+{"set": "gold_sheet", "system": "tier_core", "P": 0.7768, "R": 0.4163, "F1": 0.5421, "exact": 0.575, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.6722, "n": 607}}
+{"set": "gold_sheet", "system": "tier_full", "P": 0.7902, "R": 0.811, "F1": 0.8005, "exact": 0.7479, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.3773, "n": 607}}
+{"set": "gold_sheet", "system": "tier_gated", "P": 0.9057, "R": 0.689, "F1": 0.7826, "exact": 0.7759, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.5008, "n": 607}}
+{"set": "gold_sheet", "system": "fst_lex", "P": 0.9652, "R": 0.9282, "F1": 0.9463, "exact": 0.9341, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.4316, "n": 607}}
+{"set": "gold_sheet", "system": "fst_hybrid", "P": 0.9594, "R": 0.9617, "F1": 0.9606, "exact": 0.9489, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.4036, "n": 607}}
+{"set": "gold_sheet", "system": "fst2_lex", "P": 0.9749, "R": 0.9282, "F1": 0.951, "exact": 0.9407, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.4382, "n": 607}}
+{"set": "gold_sheet", "system": "fst2_hybrid", "P": 0.9687, "R": 0.9617, "F1": 0.9652, "exact": 0.9555, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.4102, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_broken_16000", "P": 0.1028, "R": 0.6435, "F1": 0.1773, "exact": 0.028, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.0297, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_fixed_16000", "P": 0.2609, "R": 0.1866, "F1": 0.2176, "exact": 0.4135, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.631, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_core_16000", "P": 0.5025, "R": 0.4856, "F1": 0.4939, "exact": 0.5157, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.5058, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_full_16000", "P": 0.6185, "R": 0.8301, "F1": 0.7089, "exact": 0.6557, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.3295, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_gated_16000", "P": 0.649, "R": 0.7608, "F1": 0.7004, "exact": 0.7002, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.374, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_fst_16000", "P": 0.7714, "R": 0.9689, "F1": 0.859, "exact": 0.8435, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.3542, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_fst2_16000", "P": 0.7774, "R": 0.9689, "F1": 0.8626, "exact": 0.8501, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.3608, "n": 607}}
+{"set": "silver_ud", "system": "tier_core", "P": 0.9737, "R": 0.8706, "F1": 0.9193, "exact": 0.8588, "n": 85}
+{"set": "silver_ud", "system": "tier_full", "P": 0.9747, "R": 0.9059, "F1": 0.939, "exact": 0.8941, "n": 85}
+{"set": "silver_ud", "system": "tier_gated", "P": 1.0, "R": 0.7176, "F1": 0.8356, "exact": 0.7176, "n": 85}
+{"set": "silver_ud", "system": "fst_lex", "P": 0.9231, "R": 0.8471, "F1": 0.8834, "exact": 0.7882, "n": 85}
+{"set": "silver_ud", "system": "fst_hybrid", "P": 0.9222, "R": 0.9765, "F1": 0.9486, "exact": 0.9176, "n": 85}
+{"set": "silver_ud", "system": "fst2_lex", "P": 0.9231, "R": 0.8471, "F1": 0.8834, "exact": 0.7882, "n": 85}
+{"set": "silver_ud", "system": "fst2_hybrid", "P": 0.9222, "R": 0.9765, "F1": 0.9486, "exact": 0.9176, "n": 85}
+{"set": "silver_ud", "system": "tier_strict", "P": 0.9737, "R": 0.8706, "F1": 0.9193, "exact": 0.8588, "n": 85}
+{"set": "silver_ud", "system": "fst_hybrid_strict", "P": 0.9222, "R": 0.9765, "F1": 0.9486, "exact": 0.9176, "n": 85}
+{"set": "silver_ud", "system": "fst_regexfirst_full", "P": 0.9222, "R": 0.9765, "F1": 0.9486, "exact": 0.9176, "n": 85}
+{"set": "silver_ud", "system": "fst_regexfirst_strict", "P": 0.9222, "R": 0.9765, "F1": 0.9486, "exact": 0.9176, "n": 85}
+{"set": "silver_ud", "system": "fst2_hybrid_strict", "P": 0.9222, "R": 0.9765, "F1": 0.9486, "exact": 0.9176, "n": 85}
+{"set": "silver_ud", "system": "bpe_broken_16000", "P": 0.11, "R": 0.5412, "F1": 0.1829, "exact": 0.0, "n": 85}
+{"set": "silver_ud", "system": "bpe_fixed_16000", "P": 0.2973, "R": 0.2588, "F1": 0.2767, "exact": 0.1882, "n": 85}
+{"set": "silver_ud", "system": "bpe_core_16000", "P": 0.687, "R": 0.9294, "F1": 0.79, "exact": 0.6824, "n": 85}
+{"set": "silver_ud", "system": "bpe_full_16000", "P": 0.6903, "R": 0.9176, "F1": 0.7879, "exact": 0.6824, "n": 85}
+{"set": "silver_ud", "system": "bpe_gated_16000", "P": 0.6455, "R": 0.8353, "F1": 0.7282, "exact": 0.6824, "n": 85}
+{"set": "silver_ud", "system": "bpe_fst_16000", "P": 0.6562, "R": 0.9882, "F1": 0.7887, "exact": 0.6941, "n": 85}
+{"set": "silver_ud", "system": "bpe_fst2_16000", "P": 0.6562, "R": 0.9882, "F1": 0.7887, "exact": 0.6941, "n": 85}
+{"set": "silver_hunspell", "system": "tier_core", "P": 0.466, "R": 0.2591, "F1": 0.333, "exact": 0.1899, "n": 3223}
+{"set": "silver_hunspell", "system": "tier_full", "P": 0.6826, "R": 0.7487, "F1": 0.7141, "exact": 0.4499, "n": 3223}
+{"set": "silver_hunspell", "system": "tier_gated", "P": 0.9221, "R": 0.2315, "F1": 0.37, "exact": 0.2259, "n": 3223}
+{"set": "silver_hunspell", "system": "fst_lex", "P": 0.687, "R": 0.4195, "F1": 0.5209, "exact": 0.2538, "n": 3223}
+{"set": "silver_hunspell", "system": "fst_hybrid", "P": 0.6826, "R": 0.7993, "F1": 0.7363, "exact": 0.4881, "n": 3223}
+{"set": "silver_hunspell", "system": "fst2_lex", "P": 0.6904, "R": 0.4207, "F1": 0.5228, "exact": 0.2563, "n": 3223}
+{"set": "silver_hunspell", "system": "fst2_hybrid", "P": 0.6847, "R": 0.7993, "F1": 0.7376, "exact": 0.4905, "n": 3223}
+{"set": "silver_hunspell", "system": "tier_strict", "P": 0.7075, "R": 0.6941, "F1": 0.7007, "exact": 0.4356, "n": 3223}
+{"set": "silver_hunspell", "system": "fst_hybrid_strict", "P": 0.6992, "R": 0.7682, "F1": 0.7321, "exact": 0.4806, "n": 3223}
+{"set": "silver_hunspell", "system": "fst_regexfirst_full", "P": 0.682, "R": 0.794, "F1": 0.7338, "exact": 0.4881, "n": 3223}
+{"set": "silver_hunspell", "system": "fst_regexfirst_strict", "P": 0.7014, "R": 0.763, "F1": 0.7309, "exact": 0.4828, "n": 3223}
+{"set": "silver_hunspell", "system": "fst2_hybrid_strict", "P": 0.7014, "R": 0.7682, "F1": 0.7333, "exact": 0.4828, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_broken_16000", "P": 0.0711, "R": 0.5306, "F1": 0.1254, "exact": 0.0, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_fixed_16000", "P": 0.2691, "R": 0.6603, "F1": 0.3823, "exact": 0.1291, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_core_16000", "P": 0.3081, "R": 0.7676, "F1": 0.4397, "exact": 0.1536, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_full_16000", "P": 0.3542, "R": 0.875, "F1": 0.5042, "exact": 0.1734, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_gated_16000", "P": 0.3166, "R": 0.7608, "F1": 0.4471, "exact": 0.2073, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_fst_16000", "P": 0.3606, "R": 0.8957, "F1": 0.5142, "exact": 0.1846, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_fst2_16000", "P": 0.3607, "R": 0.8961, "F1": 0.5143, "exact": 0.1846, "n": 3223}
+{"set": "gold_sheet", "system": "tier_core", "P": 0.7768, "R": 0.4163, "F1": 0.5421, "exact": 0.575, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.6722, "n": 607}}
+{"set": "gold_sheet", "system": "tier_full", "P": 0.7902, "R": 0.811, "F1": 0.8005, "exact": 0.7479, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.3773, "n": 607}}
+{"set": "gold_sheet", "system": "tier_gated", "P": 0.9057, "R": 0.689, "F1": 0.7826, "exact": 0.7759, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.5008, "n": 607}}
+{"set": "gold_sheet", "system": "fst_lex", "P": 0.9652, "R": 0.9282, "F1": 0.9463, "exact": 0.9341, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.4316, "n": 607}}
+{"set": "gold_sheet", "system": "fst_hybrid", "P": 0.9594, "R": 0.9617, "F1": 0.9606, "exact": 0.9489, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.4036, "n": 607}}
+{"set": "gold_sheet", "system": "fst2_lex", "P": 0.9749, "R": 0.9282, "F1": 0.951, "exact": 0.9407, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.4382, "n": 607}}
+{"set": "gold_sheet", "system": "fst2_hybrid", "P": 0.9687, "R": 0.9617, "F1": 0.9652, "exact": 0.9555, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.4102, "n": 607}}
+{"set": "gold_sheet", "system": "tier_strict", "P": 0.9471, "R": 0.7703, "F1": 0.8496, "exact": 0.8237, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.4761, "n": 607}}
+{"set": "gold_sheet", "system": "fst_hybrid_strict", "P": 0.9663, "R": 0.9617, "F1": 0.964, "exact": 0.9539, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.4086, "n": 607}}
+{"set": "gold_sheet", "system": "fst_regexfirst_full", "P": 0.7961, "R": 0.878, "F1": 0.835, "exact": 0.7858, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.3278, "n": 607}}
+{"set": "gold_sheet", "system": "fst_regexfirst_strict", "P": 0.9293, "R": 0.8804, "F1": 0.9042, "exact": 0.8797, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.3888, "n": 607}}
+{"set": "gold_sheet", "system": "fst2_hybrid_strict", "P": 0.9757, "R": 0.9617, "F1": 0.9687, "exact": 0.9605, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.4152, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_broken_16000", "P": 0.1028, "R": 0.6435, "F1": 0.1773, "exact": 0.028, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.0297, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_fixed_16000", "P": 0.2609, "R": 0.1866, "F1": 0.2176, "exact": 0.4135, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.631, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_core_16000", "P": 0.5025, "R": 0.4856, "F1": 0.4939, "exact": 0.5157, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.5058, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_full_16000", "P": 0.6185, "R": 0.8301, "F1": 0.7089, "exact": 0.6557, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.3295, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_gated_16000", "P": 0.649, "R": 0.7608, "F1": 0.7004, "exact": 0.7002, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.374, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_fst_16000", "P": 0.7714, "R": 0.9689, "F1": 0.859, "exact": 0.8435, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.3542, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_fst2_16000", "P": 0.7774, "R": 0.9689, "F1": 0.8626, "exact": 0.8501, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.3608, "n": 607}}
+{"set": "silver_ud", "system": "tier_core", "P": 0.9737, "R": 0.8706, "F1": 0.9193, "exact": 0.8588, "n": 85}
+{"set": "silver_ud", "system": "tier_full", "P": 0.9747, "R": 0.9059, "F1": 0.939, "exact": 0.8941, "n": 85}
+{"set": "silver_ud", "system": "tier_gated", "P": 1.0, "R": 0.7176, "F1": 0.8356, "exact": 0.7176, "n": 85}
+{"set": "silver_ud", "system": "fst_lex", "P": 0.9231, "R": 0.8471, "F1": 0.8834, "exact": 0.7882, "n": 85}
+{"set": "silver_ud", "system": "fst_hybrid", "P": 0.9222, "R": 0.9765, "F1": 0.9486, "exact": 0.9176, "n": 85}
+{"set": "silver_ud", "system": "fst2_lex", "P": 0.9231, "R": 0.8471, "F1": 0.8834, "exact": 0.7882, "n": 85}
+{"set": "silver_ud", "system": "fst2_hybrid", "P": 0.9222, "R": 0.9765, "F1": 0.9486, "exact": 0.9176, "n": 85}
+{"set": "silver_ud", "system": "tier_strict", "P": 0.9737, "R": 0.8706, "F1": 0.9193, "exact": 0.8588, "n": 85}
+{"set": "silver_ud", "system": "fst_hybrid_strict", "P": 0.9222, "R": 0.9765, "F1": 0.9486, "exact": 0.9176, "n": 85}
+{"set": "silver_ud", "system": "fst_regexfirst_full", "P": 0.9222, "R": 0.9765, "F1": 0.9486, "exact": 0.9176, "n": 85}
+{"set": "silver_ud", "system": "fst_regexfirst_strict", "P": 0.9222, "R": 0.9765, "F1": 0.9486, "exact": 0.9176, "n": 85}
+{"set": "silver_ud", "system": "fst2_hybrid_strict", "P": 0.9222, "R": 0.9765, "F1": 0.9486, "exact": 0.9176, "n": 85}
+{"set": "silver_ud", "system": "bpe_broken_16000", "P": 0.11, "R": 0.5412, "F1": 0.1829, "exact": 0.0, "n": 85}
+{"set": "silver_ud", "system": "bpe_fixed_16000", "P": 0.2973, "R": 0.2588, "F1": 0.2767, "exact": 0.1882, "n": 85}
+{"set": "silver_ud", "system": "bpe_core_16000", "P": 0.687, "R": 0.9294, "F1": 0.79, "exact": 0.6824, "n": 85}
+{"set": "silver_ud", "system": "bpe_full_16000", "P": 0.6903, "R": 0.9176, "F1": 0.7879, "exact": 0.6824, "n": 85}
+{"set": "silver_ud", "system": "bpe_gated_16000", "P": 0.6455, "R": 0.8353, "F1": 0.7282, "exact": 0.6824, "n": 85}
+{"set": "silver_ud", "system": "bpe_fst_16000", "P": 0.6562, "R": 0.9882, "F1": 0.7887, "exact": 0.6941, "n": 85}
+{"set": "silver_ud", "system": "bpe_fst2_16000", "P": 0.6562, "R": 0.9882, "F1": 0.7887, "exact": 0.6941, "n": 85}
+{"set": "silver_ud", "system": "bpe_fst3_16000", "P": 0.6562, "R": 0.9882, "F1": 0.7887, "exact": 0.6941, "n": 85}
+{"set": "silver_ud", "system": "bpe_litchi_16000", "P": 0.672, "R": 0.9882, "F1": 0.8, "exact": 0.6941, "n": 85}
+{"set": "silver_hunspell", "system": "tier_core", "P": 0.466, "R": 0.2591, "F1": 0.333, "exact": 0.1899, "n": 3223}
+{"set": "silver_hunspell", "system": "tier_full", "P": 0.6826, "R": 0.7487, "F1": 0.7141, "exact": 0.4499, "n": 3223}
+{"set": "silver_hunspell", "system": "tier_gated", "P": 0.9221, "R": 0.2315, "F1": 0.37, "exact": 0.2259, "n": 3223}
+{"set": "silver_hunspell", "system": "fst_lex", "P": 0.687, "R": 0.4195, "F1": 0.5209, "exact": 0.2538, "n": 3223}
+{"set": "silver_hunspell", "system": "fst_hybrid", "P": 0.6826, "R": 0.7993, "F1": 0.7363, "exact": 0.4881, "n": 3223}
+{"set": "silver_hunspell", "system": "fst2_lex", "P": 0.6904, "R": 0.4207, "F1": 0.5228, "exact": 0.2563, "n": 3223}
+{"set": "silver_hunspell", "system": "fst2_hybrid", "P": 0.6847, "R": 0.7993, "F1": 0.7376, "exact": 0.4905, "n": 3223}
+{"set": "silver_hunspell", "system": "tier_strict", "P": 0.7075, "R": 0.6941, "F1": 0.7007, "exact": 0.4356, "n": 3223}
+{"set": "silver_hunspell", "system": "fst_hybrid_strict", "P": 0.6992, "R": 0.7682, "F1": 0.7321, "exact": 0.4806, "n": 3223}
+{"set": "silver_hunspell", "system": "fst_regexfirst_full", "P": 0.682, "R": 0.794, "F1": 0.7338, "exact": 0.4881, "n": 3223}
+{"set": "silver_hunspell", "system": "fst_regexfirst_strict", "P": 0.7014, "R": 0.763, "F1": 0.7309, "exact": 0.4828, "n": 3223}
+{"set": "silver_hunspell", "system": "fst2_hybrid_strict", "P": 0.7014, "R": 0.7682, "F1": 0.7333, "exact": 0.4828, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_broken_16000", "P": 0.0711, "R": 0.5306, "F1": 0.1254, "exact": 0.0, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_fixed_16000", "P": 0.2691, "R": 0.6603, "F1": 0.3823, "exact": 0.1291, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_core_16000", "P": 0.3081, "R": 0.7676, "F1": 0.4397, "exact": 0.1536, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_full_16000", "P": 0.3542, "R": 0.875, "F1": 0.5042, "exact": 0.1734, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_gated_16000", "P": 0.3166, "R": 0.7608, "F1": 0.4471, "exact": 0.2073, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_fst_16000", "P": 0.3606, "R": 0.8957, "F1": 0.5142, "exact": 0.1846, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_fst2_16000", "P": 0.3607, "R": 0.8961, "F1": 0.5143, "exact": 0.1846, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_fst3_16000", "P": 0.3549, "R": 0.8861, "F1": 0.5068, "exact": 0.1846, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_litchi_16000", "P": 0.3545, "R": 0.8846, "F1": 0.5061, "exact": 0.184, "n": 3223}
+{"set": "gold_sheet", "system": "tier_core", "P": 0.7768, "R": 0.4163, "F1": 0.5421, "exact": 0.575, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.6722, "n": 607}}
+{"set": "gold_sheet", "system": "tier_full", "P": 0.7902, "R": 0.811, "F1": 0.8005, "exact": 0.7479, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.3773, "n": 607}}
+{"set": "gold_sheet", "system": "tier_gated", "P": 0.9057, "R": 0.689, "F1": 0.7826, "exact": 0.7759, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.5008, "n": 607}}
+{"set": "gold_sheet", "system": "fst_lex", "P": 0.9652, "R": 0.9282, "F1": 0.9463, "exact": 0.9341, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.4316, "n": 607}}
+{"set": "gold_sheet", "system": "fst_hybrid", "P": 0.9594, "R": 0.9617, "F1": 0.9606, "exact": 0.9489, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.4036, "n": 607}}
+{"set": "gold_sheet", "system": "fst2_lex", "P": 0.9749, "R": 0.9282, "F1": 0.951, "exact": 0.9407, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.4382, "n": 607}}
+{"set": "gold_sheet", "system": "fst2_hybrid", "P": 0.9687, "R": 0.9617, "F1": 0.9652, "exact": 0.9555, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.4102, "n": 607}}
+{"set": "gold_sheet", "system": "tier_strict", "P": 0.9471, "R": 0.7703, "F1": 0.8496, "exact": 0.8237, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.4761, "n": 607}}
+{"set": "gold_sheet", "system": "fst_hybrid_strict", "P": 0.9663, "R": 0.9617, "F1": 0.964, "exact": 0.9539, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.4086, "n": 607}}
+{"set": "gold_sheet", "system": "fst_regexfirst_full", "P": 0.7961, "R": 0.878, "F1": 0.835, "exact": 0.7858, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.3278, "n": 607}}
+{"set": "gold_sheet", "system": "fst_regexfirst_strict", "P": 0.9293, "R": 0.8804, "F1": 0.9042, "exact": 0.8797, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.3888, "n": 607}}
+{"set": "gold_sheet", "system": "fst2_hybrid_strict", "P": 0.9757, "R": 0.9617, "F1": 0.9687, "exact": 0.9605, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.4152, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_broken_16000", "P": 0.1028, "R": 0.6435, "F1": 0.1773, "exact": 0.028, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.0297, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_fixed_16000", "P": 0.2609, "R": 0.1866, "F1": 0.2176, "exact": 0.4135, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.631, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_core_16000", "P": 0.5025, "R": 0.4856, "F1": 0.4939, "exact": 0.5157, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.5058, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_full_16000", "P": 0.6185, "R": 0.8301, "F1": 0.7089, "exact": 0.6557, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.3295, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_gated_16000", "P": 0.649, "R": 0.7608, "F1": 0.7004, "exact": 0.7002, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.374, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_fst_16000", "P": 0.7714, "R": 0.9689, "F1": 0.859, "exact": 0.8435, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.3542, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_fst2_16000", "P": 0.7774, "R": 0.9689, "F1": 0.8626, "exact": 0.8501, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.3608, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_fst3_16000", "P": 0.7774, "R": 0.9689, "F1": 0.8626, "exact": 0.8501, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.3608, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_litchi_16000", "P": 0.725, "R": 0.9019, "F1": 0.8038, "exact": 0.7875, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.341, "n": 607}}
+{"set": "silver_ud", "system": "morfessor", "P": 0.9375, "R": 0.7059, "F1": 0.8054, "exact": 0.6706, "n": 85}
+{"set": "silver_hunspell", "system": "morfessor", "P": 0.6588, "R": 0.8855, "F1": 0.7555, "exact": 0.5662, "n": 3223}
+{"set": "gold_sheet", "system": "morfessor", "P": 0.9697, "R": 0.3062, "F1": 0.4655, "exact": 0.5799, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.7858, "n": 607}}
+{"set": "silver_ud", "system": "morfessor", "P": 0.9375, "R": 0.7059, "F1": 0.8054, "exact": 0.6706, "n": 85}
+{"set": "silver_ud", "system": "bpe_morf_16000", "P": 0.6489, "R": 0.7176, "F1": 0.6816, "exact": 0.4824, "n": 85}
+{"set": "silver_ud", "system": "bpe_uni_16000", "P": 0.5946, "R": 0.7765, "F1": 0.6735, "exact": 0.5059, "n": 85}
+{"set": "silver_ud", "system": "bpe_fst_uni_16000", "P": 0.6667, "R": 0.9882, "F1": 0.7962, "exact": 0.6588, "n": 85}
+{"set": "silver_hunspell", "system": "morfessor", "P": 0.6588, "R": 0.8855, "F1": 0.7555, "exact": 0.5662, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_morf_16000", "P": 0.3621, "R": 0.9224, "F1": 0.5201, "exact": 0.1675, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_uni_16000", "P": 0.3781, "R": 0.9237, "F1": 0.5365, "exact": 0.1644, "n": 3223}
+{"set": "silver_hunspell", "system": "bpe_fst_uni_16000", "P": 0.3899, "R": 0.9774, "F1": 0.5575, "exact": 0.1641, "n": 3223}
+{"set": "gold_sheet", "system": "morfessor", "P": 0.9697, "R": 0.3062, "F1": 0.4655, "exact": 0.5799, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.7858, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_morf_16000", "P": 0.515, "R": 0.4115, "F1": 0.4574, "exact": 0.5387, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.5947, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_uni_16000", "P": 0.5125, "R": 0.5383, "F1": 0.5251, "exact": 0.4399, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.4629, "n": 607}}
+{"set": "gold_sheet", "system": "bpe_fst_uni_16000", "P": 0.6538, "R": 0.9761, "F1": 0.7831, "exact": 0.682, "n": 607, "deriv": {"P": 0.0, "R": 0.0, "F1": 0.0, "exact": 0.2619, "n": 607}}

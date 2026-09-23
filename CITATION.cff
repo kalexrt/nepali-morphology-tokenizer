@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use Papaya, the affix dataset or the gold morpheme-boundary set, please cite the paper."
+title: "Papaya: morphology-guided tokenization for Nepali"
+type: software
+license: MIT
+authors:
+  - family-names: Shrestha
+    given-names: Kalash
+  - family-names: Pradhan
+    given-names: Nikhil
+preferred-citation:
+  type: article
+  title: "Preserving Morphemes: Morphology-Guided Pre-Tokenization for Nepali"
+  authors:
+    - family-names: Shrestha
+      given-names: Kalash
+    - family-names: Pradhan
+      given-names: Nikhil
+  year: 2026

@@ -1,0 +1,1806 @@
+{
+ "dataset_version": "v1",
+ "inventory_sha256": "dfbc016dde160d08f7f7db2dc5bcd6a947caa5d5f459b09a58ee5bbe28d4d567",
+ "profiles": {
+  "core": [
+   "case_markers_no_emph",
+   "case_markers_with_emph",
+   "postp_plural_hʌru",
+   "pron_dem_remaining",
+   "pron_indef_from_interrog",
+   "pron_indef_from_rel"
+  ],
+  "full": [
+   "adverbial_postp_no_emph",
+   "adverbial_postp_with_emph",
+   "case_markers_no_emph",
+   "case_markers_with_emph",
+   "mood_potential",
+   "participle_infinitive",
+   "participle_prospective",
+   "participle_purposive",
+   "postp_plural_hʌru",
+   "pron_dem_remaining",
+   "pron_indef_from_interrog",
+   "pron_indef_from_rel"
+  ],
+  "strict": [
+   "adverbial_postp_no_emph",
+   "adverbial_postp_with_emph",
+   "case_markers_no_emph",
+   "case_markers_with_emph",
+   "mood_potential",
+   "participle_infinitive",
+   "participle_prospective",
+   "participle_purposive",
+   "postp_plural_hʌru",
+   "pron_dem_remaining",
+   "pron_indef_from_interrog",
+   "pron_indef_from_rel"
+  ]
+ },
+ "segmentable_fst": {
+  "case_markers_with_emph": [
+   "बाटै",
+   "मै",
+   "सँगै",
+   "सितै",
+   "तिरै",
+   "को",
+   "का",
+   "की",
+   "कै"
+  ]
+ },
+ "strict_drop": [
+  "की",
+  "खेर",
+  "खेरै",
+  "ना",
+  "पर",
+  "परि",
+  "पल्टै",
+  "पार",
+  "पालि",
+  "भर",
+  "यता",
+  "ला",
+  "लान्",
+  "लास्",
+  "लिन्",
+  "लिस्",
+  "ली",
+  "वार",
+  "ही"
+ ],
+ "strict_front": {
+  "suffixes": [
+   "का",
+   "कै",
+   "ले"
+  ],
+  "barred_after": [
+   "ि",
+   "ी",
+   "े",
+   "ै"
+  ]
+ },
+ "n_affixes": {
+  "core": 20,
+  "full": 164
+ },
+ "affixes": {
+  "अगाडि": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_no_emph"
+   ]
+  },
+  "अघि": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_no_emph"
+   ]
+  },
+  "अतिरिक्त": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "अतिरिक्तै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from अतिरिक्त by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "अनुसार": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "अनुसारै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from अनुसार by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "अन्तर्गत": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "अन्तर्गतै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from अन्तर्गत by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "अलावा": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "अलावै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from अलावा by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "उँधै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from उँधो by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "उँधो": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "उँभै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from उँभो by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "उँभो": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "उता": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "उतै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from उता by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "उपर": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "उपरै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from उपर by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "उप्रान्त": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "उप्रान्तै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from उप्रान्त by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "कहाँ": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_no_emph"
+   ]
+  },
+  "का": {
+   "profile": "core",
+   "group": "core",
+   "functions": [
+    "GEN.PL"
+   ],
+   "paradigms": [
+    "case_markers_with_emph"
+   ],
+   "tier_override": "tier=fst (generation); admitted as a whole-unit suffix for segmentation"
+  },
+  "की": {
+   "profile": "core",
+   "group": "core",
+   "functions": [
+    "GEN.FEM"
+   ],
+   "paradigms": [
+    "case_markers_with_emph"
+   ],
+   "tier_override": "tier=fst (generation); admitted as a whole-unit suffix for segmentation"
+  },
+  "कै": {
+   "profile": "core",
+   "group": "core",
+   "functions": [
+    "GEN+EMPH"
+   ],
+   "paradigms": [
+    "case_markers_with_emph"
+   ],
+   "tier_override": "tier=fst (generation); admitted as a whole-unit suffix for segmentation"
+  },
+  "को": {
+   "profile": "core",
+   "group": "core",
+   "functions": [
+    "GEN.SG"
+   ],
+   "paradigms": [
+    "case_markers_with_emph"
+   ],
+   "tier_override": "tier=fst (generation); admitted as a whole-unit suffix for segmentation"
+  },
+  "खातिर": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "खातिरै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from खातिर by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "खेर": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "खेरि": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_no_emph"
+   ]
+  },
+  "खेरै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from खेर by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "छेउ": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_no_emph"
+   ]
+  },
+  "छेक": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "छेकै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from छेक by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "जति": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_no_emph"
+   ]
+  },
+  "जस्तै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from जस्तो by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "जस्तो": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "तक": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "तकै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from तक by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "तर्फ": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "तर्फै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from तर्फ by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "ताक": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "ताका": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "ताकै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from ताक by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "तिर": {
+   "profile": "core",
+   "group": "core",
+   "functions": [
+    "DIR/ALL"
+   ],
+   "paradigms": [
+    "case_markers_with_emph"
+   ]
+  },
+  "तिरै": {
+   "profile": "core",
+   "group": "core",
+   "functions": [
+    "DIR+EMPH"
+   ],
+   "paradigms": [
+    "case_markers_with_emph"
+   ],
+   "tier_override": "tier=fst (generation); admitted as a whole-unit suffix for segmentation"
+  },
+  "देखि": {
+   "profile": "core",
+   "group": "core",
+   "functions": [
+    "ABL"
+   ],
+   "paradigms": [
+    "case_markers_no_emph"
+   ]
+  },
+  "न": {
+   "profile": "full",
+   "group": "verbal",
+   "functions": [
+    "PURP"
+   ],
+   "paradigms": [
+    "participle_purposive"
+   ]
+  },
+  "नजिक": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "नजिकै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from नजिक by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "ना": {
+   "profile": "full",
+   "group": "verbal",
+   "functions": [
+    "INF.OBL"
+   ],
+   "paradigms": [
+    "participle_infinitive"
+   ]
+  },
+  "निमित्त": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "निमित्तै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from निमित्त by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "निम्ति": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_no_emph"
+   ]
+  },
+  "निर": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "निरै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from निर by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "नु": {
+   "profile": "full",
+   "group": "verbal",
+   "functions": [
+    "INF"
+   ],
+   "paradigms": [
+    "participle_infinitive"
+   ]
+  },
+  "ने": {
+   "profile": "full",
+   "group": "verbal",
+   "functions": [
+    "PROSP"
+   ],
+   "paradigms": [
+    "participle_prospective"
+   ]
+  },
+  "नेर": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "नेरै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from नेर by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "नै": {
+   "profile": "full",
+   "group": "verbal",
+   "functions": [
+    "INF.EMPH",
+    "PURP.EMPH"
+   ],
+   "paradigms": [
+    "participle_infinitive",
+    "participle_purposive"
+   ]
+  },
+  "पख": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "पखै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from पख by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "पछाडि": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_no_emph"
+   ]
+  },
+  "पछि": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_no_emph"
+   ]
+  },
+  "पटक": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "पटकै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from पटक by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "पट्टि": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_no_emph"
+   ]
+  },
+  "पर": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "परि": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_no_emph"
+   ]
+  },
+  "परै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from पर by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "पर्यन्त": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "पर्यन्तै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from पर्यन्त by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "पल्ट": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "पल्टै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from पल्ट by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "पश्चातै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from पश्चात् by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "पश्चात्": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "पहिले": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_no_emph"
+   ]
+  },
+  "पार": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "पारि": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_no_emph"
+   ]
+  },
+  "पारै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from पार by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "पाला": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "पालि": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_no_emph"
+   ]
+  },
+  "पालै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from पाला by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "पिच्छे": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_no_emph"
+   ]
+  },
+  "प्रति": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_no_emph"
+   ]
+  },
+  "बदला": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "बदलै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from बदला by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "बमोजिम": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "बमोजिमै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from बमोजिम by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "बाट": {
+   "profile": "core",
+   "group": "core",
+   "functions": [
+    "ABL"
+   ],
+   "paradigms": [
+    "case_markers_with_emph"
+   ]
+  },
+  "बाटै": {
+   "profile": "core",
+   "group": "core",
+   "functions": [
+    "ABL+EMPH"
+   ],
+   "paradigms": [
+    "case_markers_with_emph"
+   ],
+   "tier_override": "tier=fst (generation); admitted as a whole-unit suffix for segmentation"
+  },
+  "बापत": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "बापतै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from बापत by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "बाबजूद": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "बाबजूदै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from बाबजूद by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "बारे": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_no_emph"
+   ]
+  },
+  "बाहिर": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "बाहिरै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from बाहिर by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "बाहेक": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "बाहेकै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from बाहेक by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "बीच": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "बीचै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from बीच by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "भर": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "भरि": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_no_emph"
+   ]
+  },
+  "भरै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from भर by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "भित्र": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "भित्रै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from भित्र by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "मध्ये": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_no_emph"
+   ]
+  },
+  "मा": {
+   "profile": "core",
+   "group": "core",
+   "functions": [
+    "LOC"
+   ],
+   "paradigms": [
+    "case_markers_with_emph"
+   ]
+  },
+  "माथि": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_no_emph"
+   ]
+  },
+  "माफिक": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "माफिकै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from माफिक by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "मार्फत": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "मार्फतै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from मार्फत by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "मुताबिक": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "मुताबिकै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from मुताबिक by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "मुनि": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_no_emph"
+   ]
+  },
+  "मै": {
+   "profile": "core",
+   "group": "core",
+   "functions": [
+    "LOC+EMPH"
+   ],
+   "paradigms": [
+    "case_markers_with_emph"
+   ],
+   "tier_override": "tier=fst (generation); admitted as a whole-unit suffix for segmentation"
+  },
+  "यता": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "यतै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from यता by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "ला": {
+   "profile": "full",
+   "group": "verbal",
+   "functions": [
+    "POT.3SG.MASC"
+   ],
+   "paradigms": [
+    "mood_potential"
+   ]
+  },
+  "लाई": {
+   "profile": "core",
+   "group": "core",
+   "functions": [
+    "DAT/ACC"
+   ],
+   "paradigms": [
+    "case_markers_no_emph"
+   ]
+  },
+  "लागि": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_no_emph"
+   ]
+  },
+  "लान्": {
+   "profile": "full",
+   "group": "verbal",
+   "functions": [
+    "POT.3PL",
+    "POT.3SG.MASC.HON"
+   ],
+   "paradigms": [
+    "mood_potential"
+   ]
+  },
+  "लास्": {
+   "profile": "full",
+   "group": "verbal",
+   "functions": [
+    "POT.2SG.MASC"
+   ],
+   "paradigms": [
+    "mood_potential"
+   ]
+  },
+  "लिन्": {
+   "profile": "full",
+   "group": "verbal",
+   "functions": [
+    "POT.3SG.FEM.HON"
+   ],
+   "paradigms": [
+    "mood_potential"
+   ]
+  },
+  "लिस्": {
+   "profile": "full",
+   "group": "verbal",
+   "functions": [
+    "POT.2SG.FEM"
+   ],
+   "paradigms": [
+    "mood_potential"
+   ]
+  },
+  "ली": {
+   "profile": "full",
+   "group": "verbal",
+   "functions": [
+    "POT.3SG.FEM"
+   ],
+   "paradigms": [
+    "mood_potential"
+   ]
+  },
+  "ले": {
+   "profile": "core",
+   "group": "core",
+   "functions": [
+    "ERG",
+    "INST"
+   ],
+   "paradigms": [
+    "case_markers_no_emph"
+   ]
+  },
+  "लेखा": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "लेखै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from लेखा by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "वर": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "वरि": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_no_emph"
+   ]
+  },
+  "वरै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from वर by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "वार": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "वारि": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_no_emph"
+   ]
+  },
+  "वारै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from वार by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "विरुद्ध": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "विरुद्धै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from विरुद्ध by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "सँग": {
+   "profile": "core",
+   "group": "core",
+   "functions": [
+    "COM"
+   ],
+   "paradigms": [
+    "case_markers_with_emph"
+   ]
+  },
+  "सँगै": {
+   "profile": "core",
+   "group": "core",
+   "functions": [
+    "COM+EMPH"
+   ],
+   "paradigms": [
+    "case_markers_with_emph"
+   ],
+   "tier_override": "tier=fst (generation); admitted as a whole-unit suffix for segmentation"
+  },
+  "सट्टा": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "सट्टै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from सट्टा by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "समक्ष": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "समक्षै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from समक्ष by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "समेत": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "समेतै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from समेत by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "सम्म": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "सम्मै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from सम्म by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "सरह": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "सरहै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from सरह by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "सरि": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_no_emph"
+   ]
+  },
+  "सहित": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "सहितै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from सहित by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "साथ": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "साथै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from साथ by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "सामु": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_no_emph"
+   ]
+  },
+  "सित": {
+   "profile": "core",
+   "group": "core",
+   "functions": [
+    "COM"
+   ],
+   "paradigms": [
+    "case_markers_with_emph"
+   ]
+  },
+  "सितै": {
+   "profile": "core",
+   "group": "core",
+   "functions": [
+    "COM+EMPH"
+   ],
+   "paradigms": [
+    "case_markers_with_emph"
+   ],
+   "tier_override": "tier=fst (generation); admitted as a whole-unit suffix for segmentation"
+  },
+  "सुकै": {
+   "profile": "core",
+   "group": "core",
+   "functions": [
+    "INDEF+HUM",
+    "INDEF+NEU",
+    "INDEF+NHUM"
+   ],
+   "paradigms": [
+    "pron_indef_from_rel"
+   ]
+  },
+  "सुद्ध": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP"
+   ],
+   "paradigms": [
+    "adverbial_postp_with_emph"
+   ]
+  },
+  "सुद्धै": {
+   "profile": "full",
+   "group": "postp",
+   "functions": [
+    "+POSTP+EMPH"
+   ],
+   "paradigms": [
+    "pr_5_1_emph_truncation_on_postp"
+   ],
+   "tier_override": "generated from सुद्ध by PR 5.1 (tier=fst rewrite); closed list"
+  },
+  "हरू": {
+   "profile": "core",
+   "group": "core",
+   "functions": [
+    "PL/COLL"
+   ],
+   "paradigms": [
+    "postp_plural_hʌru"
+   ]
+  },
+  "ही": {
+   "profile": "core",
+   "group": "core",
+   "functions": [
+    "DEM+DIST+EMPH",
+    "INDEF+HUM",
+    "INDEF+NHUM"
+   ],
+   "paradigms": [
+    "pron_dem_remaining",
+    "pron_indef_from_interrog"
+   ]
+  }
+ }
+}

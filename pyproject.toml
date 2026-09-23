@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "papaya-tokenizer"
+version = "1.0.0"
+description = "Papaya: morphology-guided BPE tokenization for Nepali (rule-based FST + regex pre-tokenization under byte-level BPE)"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Kalash Shrestha" }, { name = "Nikhil Pradhan" }]
+keywords = ["tokenization", "nepali", "morphology", "bpe", "fst", "nlp"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Natural Language :: Nepali",
+    "Topic :: Text Processing :: Linguistic",
+]
+dependencies = ["tokenizers>=0.15"]
+
+[project.optional-dependencies]
+corpus = ["datasets", "pyarrow", "huggingface_hub"]
+lm = ["torch", "numpy"]
+morfessor = ["morfessor"]
+dev = ["pytest"]
+
+[project.scripts]
+papaya = "papaya.cli:main"
+
+[project.urls]
+Repository = "https://github.com/kalexrt/nepali-morphology-tokenizer"
+
+[tool.setuptools]
+packages = ["papaya"]
+
+[tool.setuptools.package-data]
+papaya = ["data/*.json", "data/*.tsv", "pretrained/*/*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

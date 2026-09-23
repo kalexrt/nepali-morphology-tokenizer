@@ -1,0 +1,10 @@
+{
+ "name": "bpe-baseline-16k",
+ "description": "Plain byte-level BPE on the same data and vocabulary: the baseline.",
+ "variant_id": "fixed",
+ "tier": "none",
+ "vocab": 16000,
+ "pretokenizer": "fixed",
+ "trained_on": "FineWeb-2 npi_Deva (HuggingFaceFW/fineweb-2), train shard 001, first 100,000 documents of train_tok.txt (see data/corpus/MANIFEST.json)",
+ "train_docs": 100000
+}

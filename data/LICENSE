@@ -1,0 +1,28 @@
+Data licence
+============
+
+Unless listed below, the data in this repository is licensed under the
+Creative Commons Attribution 4.0 International licence (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+This covers:
+  data/affix_inventory.json, data/affix_inventory.tsv      the affix dataset
+  data/eval/gold_sheet.tsv                                  the gold morpheme-boundary set
+  papaya/data/*                                             compiled suffix table, annex seed stems
+  papaya/pretrained/*                                       stem lexicons, FST grammars, BPE vocabularies
+
+Attribution:
+  * The affix dataset and the annex seed stems are re-derived, in our own
+    notation, from the rule tables and annexes of Balaram Prasain, "A
+    Computational Analysis of Nepali Morphology: A Model for Natural Language
+    Processing", PhD dissertation, Tribhuvan University, 2011. Please cite that
+    work alongside ours. No code or text from the dissertation is included.
+  * The stem lexicons, frequent-word lists and BPE vocabularies were induced
+    from FineWeb-2 (HuggingFaceFW/fineweb-2, subset npi_Deva), released under
+    ODC-By 1.0; the gold sheet's words were sampled from its test split.
+
+Third-party data under its own licence:
+  data/eval/silver_ud.tsv                  derived from UD_Nepali-BK v2.18 -- CC BY-SA 4.0
+  data/eval/external/ud_nepali_bk_*        UD_Nepali-BK v2.18 test file and licence -- CC BY-SA 4.0
+  data/eval/silver_hunspell.tsv            derived from dpakpdl/NepaliLemmatizer gold_data.txt -- MIT
+  data/eval/external/nepalilemmatizer_*    NepaliLemmatizer gold data and licence -- MIT (c) 2020 Deepak Paudel

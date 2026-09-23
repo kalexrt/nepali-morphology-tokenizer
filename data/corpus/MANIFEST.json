@@ -1,0 +1,41 @@
+{
+ "repo": "HuggingFaceFW/fineweb-2",
+ "subset": "npi_Deva",
+ "license": "ODC-By 1.0",
+ "why": "Regmi et al. 2026 (arXiv 2608.26449) report bits-per-byte on this test split; web-general rather than news-only (IRIIS).",
+ "files": {
+  "data/npi_Deva/test/000_00000.parquet": {
+   "split": "test",
+   "sha256": "41484c8e9e8ac40d8dc8c79fc6434293895039969cfd53f91791147fe0f84f3c",
+   "bytes": 69460662,
+   "rows": 49462
+  },
+  "data/npi_Deva/train/001_00000.parquet": {
+   "split": "train",
+   "sha256": "84c736e19a4b03f5fe6fc9acfb81d27513f7a483d69dc27d1eba666f0b9edc5c",
+   "bytes": 1840006187,
+   "rows": 1392163
+  },
+  "train_tok.txt": {
+   "split": "train",
+   "docs": 200000,
+   "chars": 399785483,
+   "sha256": "aa9c3f0effdecd0a44e30b13329451bcab769be92ff505d2c86a72082c3b56d0",
+   "bytes": 1067872902
+  },
+  "train_lm.txt": {
+   "split": "train",
+   "docs": 400000,
+   "chars": 800102993,
+   "sha256": "2d6360c40d7a482ffc61ed9d6248f181add16e5a062d8513593eac735469b342",
+   "bytes": 2136985308
+  },
+  "test.txt": {
+   "split": "test",
+   "docs": 49462,
+   "chars": 102968313,
+   "sha256": "c87d4fe4f8b719d45324c2c9d708bff9fded069ce86d708cb836ab3f62579ef9",
+   "bytes": 274937038
+  }
+ }
+}

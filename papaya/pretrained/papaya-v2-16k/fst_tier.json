@@ -1,0 +1,81 @@
+{
+ "stems": {
+  "verbal": 718,
+  "nominal": 18537
+ },
+ "induction": {
+  "corpus_counts": "word counts of train_tok.txt (FineWeb-2 npi_Deva, 200k documents)",
+  "verb_slots": 4,
+  "verb_slot_min_count": 3,
+  "verb_slot_min_count_2letter": 20,
+  "verb_distinct_slots": 3,
+  "noun_min_by_stem_length": {
+   "1": [
+    100,
+    3
+   ],
+   "2": [
+    100,
+    3
+   ],
+   "3": [
+    20,
+    3
+   ]
+  },
+  "noun_min_default": [
+   3,
+   2
+  ],
+  "noun_marker_min_count": 2,
+  "frequent_whole_min": 100,
+  "strong_noun_min_markers_count": [
+   8,
+   1000
+  ]
+ },
+ "extra_postpositions_not_in_dataset": [
+  "भन्दा",
+  "बिना",
+  "द्वारा",
+  "लगायत",
+  "सम्बन्धी",
+  "झैँ",
+  "झैं"
+ ],
+ "ranking": "verbal analysis with a cut or strong noun first, then longest stem, then fewest cuts, then verbal over nominal",
+ "modes": {
+  "lex": "unanalysed words left whole",
+  "hybrid": "unanalysed words with count < frequent_whole_min go to regex tier full"
+ },
+ "akshara_boundary_only": true,
+ "v2": {
+  "whole_words": [
+   "एस",
+   "काका",
+   "किन",
+   "कुवर",
+   "खाली",
+   "खुल्ला",
+   "चिन",
+   "छिपाई",
+   "नामा",
+   "निको",
+   "पाली",
+   "भर्ना",
+   "भाका",
+   "भोका",
+   "मकै",
+   "रेको",
+   "लाली",
+   "विकसित",
+   "सवार"
+  ],
+  "dropped_verb_stems": [
+   "कि",
+   "चि"
+  ],
+  "one_akshara_nominal_stems_allowed": "pronouns, strong nouns"
+ },
+ "version": 2
+}

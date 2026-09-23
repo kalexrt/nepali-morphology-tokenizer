@@ -1,0 +1,14 @@
+{
+ "name": "papaya-v2-16k",
+ "description": "Papaya v2: FST tier v2 (hybrid, regex fallback) + byte-level BPE. The recommended tokenizer.",
+ "variant_id": "fst2",
+ "tier": "fst",
+ "fst_version": 2,
+ "mode": "hybrid",
+ "order": "fst-first",
+ "fallback_profile": "full",
+ "vocab": 16000,
+ "pretokenizer": "fixed",
+ "trained_on": "FineWeb-2 npi_Deva (HuggingFaceFW/fineweb-2), train shard 001, first 100,000 documents of train_tok.txt (see data/corpus/MANIFEST.json)",
+ "train_docs": 100000
+}
